@@ -1,0 +1,139 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+source: 'Stillingsinformasjon fra Industrifinans Kapitalforvaltning'
+
+job_analysis:
+  company: 'Industrifinans Kapitalforvaltning'
+  position: 'Systemutvikler'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['python', 'typescript', 'react', 'backend', 'data']
+      weight: 0.6
+    - primary_area: 'engineer'
+      specialties: ['security', 'devops', 'testing']
+      weight: 0.25
+    - primary_area: 'engineer'
+      specialties: ['data', 'backend', 'architecture']
+      weight: 0.15
+  location: 'Oslo (Oscars gate 30, 0352 Oslo)'
+  employment_type: 'Fulltid'
+  experience_level: 'Mid-level'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Python'
+        priority: 10
+      - skill: 'JavaScript / React'
+        priority: 9
+      - skill: 'SQL og databasedesign'
+        priority: 9
+      - skill: 'Automatisert testing og CI/CD'
+        priority: 8
+      - skill: 'Dataintegrasjoner'
+        priority: 8
+      - skill: 'Applikasjonsutvikling og vedlikehold'
+        priority: 7
+      - skill: 'Skybasert utvikling og DevOps'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'GitHub Advanced Security'
+        priority: 7
+      - skill: 'Erfaring fra finanssektoren'
+        priority: 7
+      - skill: 'IT-sikkerhet og DORA-etterlevelse'
+        priority: 6
+      - skill: 'Tilgangsstyring'
+        priority: 5
+    soft_skills:
+      - 'Strukturert og kvalitetsbevisst'
+      - 'Proaktiv og løsningsorientert'
+      - 'God dokumentasjon av rutiner og prosesser'
+      - 'Gode samarbeids- og kommunikasjonsevner'
+      - 'Selvstendig med ansvar for egne leveranser'
+      - 'Høy integritet og sikkerhetsbevissthet'
+    experience_years: 2
+    education: 'Høyere utdanning innen IT, informatikk eller tilsvarende'
+
+  responsibilities:
+    primary:
+      - 'Utvikling og vedlikehold av interne og eksterne applikasjoner'
+      - 'Sikre kvalitet og sikkerhet gjennom automatisert testing og kodegjennomganger'
+      - 'Implementering av dataintegrasjoner internt og eksternt'
+      - 'Bidra til forbedring av sikkerhetsrutiner, tilgangsstyring og DORA-etterlevelse'
+      - 'Samarbeide med forretningssiden for å omsette behov til digitale løsninger'
+    secondary:
+      - 'Ansvar for livssyklusen til applikasjoner og integrasjoner'
+      - 'Bidra til kontinuerlig forbedring av prosesser'
+      - 'Dokumentere rutiner og prosesser'
+
+  role_context:
+    department: 'Utviklingsteam'
+    team_size: 'Lite utviklingsteam, finansforetak regulert av Finanstilsynet'
+    key_points:
+      - 'Uavhengig kapitalforvalter med porteføljeforvaltning og finansiell rådgivning'
+      - 'Løsninger er sentrale for porteføljeforvaltning, rapportering, dataflyt og sikkerhet'
+      - 'Strenge regulatoriske krav – verdipapirforetak under Finanstilsynet'
+      - 'Stor påvirkningskraft på sluttproduktet i et lite team'
+      - 'Faglig utvikling gjennom kurs og sertifiseringer'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Python – brukt i maskinlæringsprosjekter og internship hos Kystverket'
+      - 'JavaScript og API-integrasjon – brukt i Kystverket-internship'
+      - 'SQL og databaser (MySQL, MongoDB) – emner ved NTNU (TDT4145, TDT4225)'
+      - 'Data engineering – erfaring fra Kystverket-internship og studier'
+      - 'React og TypeScript – brukt i programvareutviklingsprosjekt ved NTNU'
+      - 'Finansforståelse – spesialisering i investering, finans og økonomistyring'
+      - 'Sivilingeniørutdanning fra NTNU innen teknologiledelse og datateknologi'
+    gaps_to_address:
+      - 'Begrenset produksjonserfaring med CI/CD og DevOps-verktøy'
+      - 'Ingen formell erfaring med GitHub Advanced Security'
+      - 'Ingen direkte bransjeerfaring fra finanssektoren som ansatt'
+    transferable_skills:
+      - 'Masteroppgave i finans (Bitcoin-prediksjon) → finansiell domenekunnskap'
+      - 'API-integrasjon i Kystverket → dataintegrasjoner internt og eksternt'
+      - 'Strukturert dataarbeid og rapportering → kvalitet og dokumentasjon'
+      - 'Git-erfaring fra studier → CI/CD og versjonskontroll'
+    emphasis_strategy: 'Fremhev Python/SQL/React-bredde, finansforståelse og evne til å ta ansvar i selvstendige prosjekter'
+
+  section_priorities:
+    technical_expertise:
+      - 'programmering'
+      - 'data_og_databaser'
+      - 'frontend_og_web'
+      - 'verktoy_og_annet'
+    experience_focus: 'Fremhev API-integrasjon og data engineering fra Kystverket, og selvstendig leveranse av fungerende systemer'
+    project_relevance: 'Inkluder masteroppgave (finansdomene + Python-modellering). Nedprioriter ren AI-teori.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Python og SQL'
+      - 'Dataintegrasjoner og API-arbeid'
+      - 'Finansforståelse fra NTNU-spesialisering og masteroppgave'
+    EMPHASIZE:
+      - 'Systemutvikling med React og JavaScript'
+      - 'Databasedesign og -arbeid (MySQL, MongoDB)'
+      - 'Selvstendig leveranse med rapport og presentasjon'
+    QUANTIFY:
+      - 'Omfang av datasett og API-integrasjoner ved Kystverket'
+      - 'Studiepoeng og karaktersnitt'
+    DOWNPLAY:
+      - 'Reinforcement learning-detaljer (for smal AI-vinkling)'
+      - 'Bildegjenkjenning som primærkompetanse'
+
+  ats_analysis:
+    title_variations:
+      - 'Systemutvikler'
+      - 'Fullstack-utvikler'
+      - 'Backend-utvikler'
+    critical_phrases:
+      - 'Python og JavaScript'
+      - 'SQL og databasedesign'
+      - 'dataintegrasjoner'
+      - 'automatisert testing og CI/CD'
+      - 'finanssektoren'
+
+  application_info:
+    posting_url: 'https://www.industrifinans.no/karriere'
+    posting_date: '2026-03-16'
+    deadline: 'Løpende'

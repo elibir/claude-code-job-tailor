@@ -1,0 +1,130 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+source: 'Stillingsinformasjon fra Microsoft University 2026'
+
+job_analysis:
+  company: 'Microsoft University'
+  position: 'Trainee – Microsoft University 2026'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['data', 'python', 'sql', 'data_engineering', 'ai']
+      weight: 0.40
+    - primary_area: 'engineer'
+      specialties: ['ai', 'ml', 'data_science', 'python']
+      weight: 0.30
+    - primary_area: 'engineer'
+      specialties: ['finance', 'erp', 'business']
+      weight: 0.20
+    - primary_area: 'engineer'
+      specialties: ['automation', 'low_code', 'platform']
+      weight: 0.10
+  location: 'Norge'
+  employment_type: 'Trainee / Fast stilling hos partner'
+  experience_level: 'Entry-level / Nyutdannet'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Bachelorgrad (fullført senest høst 2026)'
+        priority: 10
+      - skill: 'Teknisk interesse og læringsvilje'
+        priority: 9
+      - skill: 'Python og/eller dataanalyse'
+        priority: 8
+      - skill: 'SQL og databaser'
+        priority: 8
+    nice_to_have_skills:
+      - skill: 'Maskinlæring og AI'
+        priority: 7
+      - skill: 'Finans og økonomiforståelse'
+        priority: 7
+      - skill: 'Skybaserte løsninger'
+        priority: 6
+      - skill: 'Lavkodeutvikling og automatisering'
+        priority: 5
+    soft_skills:
+      - 'Læringsvilje og endringsevne'
+      - 'Analytisk tankegang'
+      - 'Selvstendig arbeid'
+      - 'Samarbeid i team'
+      - 'Initiativtaking'
+      - 'Evne til å tilegne seg ny teknologi raskt'
+    experience_years: 0
+    education: 'Minimum fullført bachelorgrad høsten 2026'
+
+  responsibilities:
+    primary:
+      - 'Gjennomføre 6 intensive uker med kurs og sertifiseringer innen valgt spor'
+      - 'Jobbe hos Microsofts partnere eller kunder fra dag én'
+      - 'Tilegne seg bransjeanerkjente Microsoft-sertifiseringer'
+      - 'Jobbe med virkelige prosjekter hos partner/kunde'
+    secondary:
+      - 'Bygge nettverk i Microsoft-partnernettverket'
+      - 'Bidra med teknisk og analytisk kompetanse hos tilknyttet bedrift'
+
+  role_context:
+    department: 'Traineeprogram – Microsoft University'
+    team_size: 'Nasjonalt program, kobles med partner/kunde fra dag én'
+    key_points:
+      - 'Kåret til mest attraktive IT-traineeprogram fire år på rad'
+      - 'Gratis sertifiseringer i etterspurte Microsoft-teknologier'
+      - 'Fast jobb fra dag én – ikke bare praksis'
+      - 'Kandidatens interessespor: Data Engineer, AI & Data Science, Power Platform, D365 F&O, D365 Business Central'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Python og maskinlæring – brukt i masteroppgave og internship hos Kystverket'
+      - 'SQL og databaser (MySQL, MongoDB) – NTNU-emner TDT4145 og TDT4225'
+      - 'Data engineering – erfaring fra Kystverket-internship med API-integrasjon og datasett'
+      - 'AI og dyp læring – bayesianske nevrale nettverk og reinforcement learning i masteroppgave'
+      - 'Finans og økonomi – masterprofil investering, finans og økonomistyring, direkte relevant for D365-sporene'
+      - 'Sivilingeniør NTNU – teknologiledelse og datateknologi, sterk akademisk bakgrunn'
+    gaps_to_address:
+      - 'Ingen direkte Microsoft-teknologierfaring (Azure, Power Platform, D365)'
+      - 'Ingen skyerfaring (Azure) – men fundamentet er sterkt'
+    transferable_skills:
+      - 'Python-ekspertise → Azure Data Engineer og AI-spor'
+      - 'Finansforståelse fra NTNU → D365 Finance & Operations og Business Central'
+      - 'Data engineering fra Kystverket → Azure Data Engineer-spor'
+      - 'Rask til å lære ny teknologi → ideell for traineeprogram'
+    emphasis_strategy: 'Fremhev kombinasjonen av sterk teknisk bakgrunn (Python, data, AI) OG finansforståelse som unik for å kunne velge mellom tekniske og forretningsorienterte spor'
+
+  section_priorities:
+    technical_expertise:
+      - 'data_og_analyse'
+      - 'maskinlaering_og_ai'
+      - 'programmering'
+      - 'verktoy'
+    experience_focus: 'Fremhev Kystverket (data engineering, ML) og masteroppgaven (AI, finans). Vis bredde.'
+    project_relevance: 'Inkluder alle tre prosjekter – masteroppgave (AI/finans), databaser (data engineering), web-app (teknisk bredde)'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Python, SQL og data engineering'
+      - 'Kombinasjon av teknisk AI-bakgrunn og finansforståelse'
+    EMPHASIZE:
+      - 'Masteroppgave med dyp læring og reinforcement learning i finans'
+      - 'Data engineering og ML fra Kystverket-internship'
+      - 'Masterprofil investering, finans og økonomistyring for D365-sporene'
+    QUANTIFY:
+      - 'Kystverket: API-integrasjon, datasett og modellresultater'
+      - 'NTNU: 285/300 studiepoeng'
+    DOWNPLAY:
+      - 'Detaljer om militærtjeneste som primær kompetanse'
+
+  ats_analysis:
+    title_variations:
+      - 'Trainee'
+      - 'Microsoft University'
+      - 'Nyutdannet'
+      - 'Graduate'
+    critical_phrases:
+      - 'Python og dataanalyse'
+      - 'maskinlæring og AI'
+      - 'Azure Data Engineer'
+      - 'D365 Finance and Operations'
+      - 'nyutdannet sivilingeniør'
+
+  application_info:
+    posting_url: 'https://www.microsoft.com/nb-no/university'
+    posting_date: '2025-12-02'
+    deadline: 'Løpende'

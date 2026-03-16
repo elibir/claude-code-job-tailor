@@ -1,0 +1,47 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Industrifinans Kapitalforvaltning'
+  position: 'Systemutvikler'
+  primary_focus: 'engineer'
+  date: '16. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Systemutvikler'
+    opening_line: 'Til Industrifinans Kapitalforvaltning,'
+    body:
+      - >
+        Jeg søker herved stillingen som systemutvikler hos Industrifinans Kapitalforvaltning. Som
+        nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU,
+        med spesialisering i datateknologi, kunstig intelligens og finans, er jeg genuint interessert
+        i å bidra til utviklingen av løsninger som er sentrale for porteføljeforvaltning, rapportering
+        og dataflyt i et regulert finansmiljø.
+      - >
+        Jeg har praktisk erfaring med Python, SQL, JavaScript og React fra både studier og
+        arbeidsliv. Under internshipet hos Kystverket arbeidet jeg i team med data engineering:
+        innhenting og sammenstilling av bildedata og geografiske data fra ulike API-er, strukturering
+        av datasett og utvikling av maskinlæringsmodeller i Python – og leverte kodebase, teknisk
+        rapport og presentasjon for ledelsen. I masteroppgaven analyserte jeg finansielle tidsserier
+        og bygde prediksjons- og beslutningsmodeller i Python med fokus på usikkerhetskvantifisering.
+        Gjennom studiene ved NTNU har jeg arbeidet med databasedesign og implementering i SQL og
+        NoSQL (MySQL og MongoDB), og utviklet en web-applikasjon i team med React/TypeScript og
+        Python/Django.
+      - >
+        Det at Industrifinans opererer i en regulert bransje med høye krav til kvalitet, sikkerhet
+        og etterlevelse er noe jeg setter pris på. Min bakgrunn fra finans kombinert med praktisk
+        systemutviklingserfaring gjør at jeg forstår både det tekniske og det forretningsmessige
+        behovet bak løsningene. Jeg tar initiativ, arbeider selvstendig og er rask til å sette meg
+        inn i nye teknologier og arbeidsoppgaver. Jeg håper på en samtale der vi kan diskutere
+        hvordan jeg kan bidra til teamet hos Industrifinans.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

@@ -39,7 +39,7 @@ const Summary = ({ resume }: { resume: ResumeSchema }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.sectionTitle}>PROFILE</Text>
+      <Text style={styles.sectionTitle}>PROFIL</Text>
       <View style={styles.separator} />
       <Text style={styles.summaryText}>{resume.summary}</Text>
     </View>

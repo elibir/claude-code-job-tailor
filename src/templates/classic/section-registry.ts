@@ -123,7 +123,7 @@ export const RESUME_SECTIONS: ResumeSectionConfig[] = [
     documentType: 'resume',
     id: 'core-competencies',
     component: CoreCompetencies,
-    isVisible: (data) => (data.skills?.length ?? 0) > 0,
+    isVisible: () => false,
     order: 6,
     description: 'Soft skills and competencies',
   },

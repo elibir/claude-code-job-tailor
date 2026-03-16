@@ -77,7 +77,9 @@ const ExperienceEntry = ({ experience, debug }: { experience: ExperienceItem; de
   return (
     <View style={styles.experienceEntry} debug={debug}>
       {/* Position title (bold, primary color) */}
-      <Text style={styles.positionTitle}>{position || name.split(' - ')[1]}</Text>
+      {(position || name)?.trim() && (
+        <Text style={styles.positionTitle}>{position || name.split(' - ')[1]}</Text>
+      )}
 
       {/* Company, Location | Date Range row */}
       <View style={styles.companyDateRow}>
@@ -116,7 +118,7 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
 
   return (
     <View style={styles.container} debug={debug}>
-      <Text style={styles.sectionTitle}>WORK EXPERIENCE</Text>
+      <Text style={styles.sectionTitle}>ARBEIDSERFARING</Text>
       <View style={styles.separator} />
       {/* Render professional experience first */}
       {hasProfessionalExperience &&
@@ -131,7 +133,7 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
 
       {hasIndependentProjects && (
         <>
-          <Text style={styles.sectionTitle}>INDEPENDENT PROJECTS</Text>
+          <Text style={styles.sectionTitle}>PROSJEKTER</Text>
           <View style={styles.separator} />
 
           {resume.independent_projects.map((experience, index) => (

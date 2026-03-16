@@ -1,0 +1,93 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, mandag 16. mars 2026'
+
+cover_letter:
+  templates:
+    ai_fokusert:
+      letter_title: 'Søknadsbrev – AI/maskinlæring'
+      opening_line: 'Til [SELSKAP],'
+      body:
+        - >
+          Jeg søker herved stillingen som [STILLING] hos [SELSKAP]. Som nyutdannet sivilingeniør i
+          industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi og
+          kunstig intelligens, er jeg genuint interessert i å bidra til [SELSKAP]s arbeid innen
+          dette feltet.
+        - >
+          I masteroppgaven min utviklet jeg et to-stegs rammeverk for prediksjon av Bitcoin-prisen
+          under usikkerhet, der jeg kombinerte bayesianske nevrale nettverk med reinforcement
+          learning (PPO) for automatisert handel. Under internshipet hos Kystverket utviklet jeg
+          maskinlæringsmodeller i Python for bildegjenkjenning, og stod selv for innhenting og
+          sammenstilling av data fra ulike API-er samt dataannotering i Roboflow. Begge prosjektene
+          har gitt meg solid praktisk erfaring med hele verdikjeden – fra rådata til fungerende
+          modeller i produksjon.
+        - >
+          Jeg er analytisk og strukturert, tar gjerne initiativ og trives godt i team. Jeg er
+          komfortabel med å jobbe selvstendig og setter meg raskt inn i nye problemstillinger og
+          teknologier. Jeg ser frem til muligheten til å bidra til [SELSKAP] og håper på en samtale
+          der vi kan utforske dette nærmere.
+      signature: |
+        Med vennlig hilsen,
+        Elias Lerheim Birkeland
+
+    data_fokusert:
+      letter_title: 'Søknadsbrev – Data engineering og analyse'
+      opening_line: 'Til [SELSKAP],'
+      body:
+        - >
+          Jeg søker herved stillingen som [STILLING] hos [SELSKAP]. Som nyutdannet sivilingeniør i
+          industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi,
+          kunstig intelligens og finans, har jeg en sterk interesse for dataanalyse og data
+          engineering – og god forståelse for hvordan innsikt fra data kan skape forretningsverdi.
+        - >
+          Gjennom studiene har jeg arbeidet med maskinlæring, datamodellering, databaser (SQL og
+          NoSQL), datavarehus og distribuerte datamengder. I internshippet hos Kystverket jobbet
+          jeg i team med data engineering: innhenting og sammenstilling av bildedata og geografiske
+          data fra ulike API-er, strukturering av datasett og utvikling av maskinlæringsmodeller i
+          Python. I masteroppgaven analyserte jeg finansielle tidsserier og bygde prediksjons- og
+          beslutningsmodeller med fokus på usikkerhetskvantifisering.
+        - >
+          Jeg arbeider selvstendig og strukturert, tar gjerne initiativ og er rask til å sette meg
+          inn i nye teknologier. Jeg trives godt i team der jeg kan dele kunnskap og bidra til
+          felles mål. Jeg er motivert for å bruke kompetansen min hos [SELSKAP] og gleder meg til
+          en eventuell samtale.
+      signature: |
+        Med vennlig hilsen,
+        Elias Lerheim Birkeland
+
+    generell_fokusert:
+      letter_title: 'Søknadsbrev'
+      opening_line: 'Til [SELSKAP],'
+      body:
+        - >
+          Jeg søker herved stillingen som [STILLING] hos [SELSKAP]. Som nyutdannet sivilingeniør
+          (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i
+          datateknologi, kunstig intelligens og finans, er jeg klar for å ta i bruk det jeg har
+          lært i en ny og utfordrende rolle.
+        - >
+          Jeg har praktisk erfaring med programmering i Python og SQL, maskinlæring, databaser og
+          dataanalyse fra både studier og internship. Under internshipet hos Kystverket bidro jeg
+          til utvikling av maskinlæringsmodeller og data engineering i team. I masteroppgaven bygde
+          jeg prediksjons- og beslutningsmodeller med bayesianske nevrale nettverk og reinforcement
+          learning. I tillegg til det tekniske har jeg gjennom militærtjeneste og ulike verv
+          opparbeidet meg erfaring med lederansvar og selvstendig arbeid.
+        - >
+          Jeg tar initiativ, arbeider selvstendig og trives i team. Jeg er komfortabel med å raskt
+          sette meg inn i nye teknologier og arbeidsoppgaver. Jeg ser frem til muligheten til å
+          bidra til [SELSKAP] og håper på en samtale der vi kan diskutere dette videre.
+      signature: |
+        Med vennlig hilsen,
+        Elias Lerheim Birkeland
+
+  common_elements:
+    personal_info:
+      name: 'Elias Lerheim Birkeland'
+      address: 'Stadsnesvegen 41, 6030 Langevåg'
+      email: 'birkeland.elias@outlook.com'
+      phone: '94164312'
+      linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+      github: 'https://github.com/elibir'
+
+  personalization_variables:
+    - '[SELSKAP]'
+    - '[STILLING]'

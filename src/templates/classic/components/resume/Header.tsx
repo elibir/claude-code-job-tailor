@@ -7,25 +7,24 @@ import type { ResumeSchema, ResumeSectionConfig } from '@types';
 const { colors, spacing } = tokens.classic;
 
 const styles = StyleSheet.create({
-  // Outer container for profile picture positioning
+  // Outer container - row with text left, image right
   outerContainer: {
     width: '100%',
-    position: 'relative',
+    flexDirection: 'row',
+    alignItems: 'flex-start',
     marginBottom: spacing.pagePadding,
   },
 
-  // Profile picture - absolute positioned top-right
+  // Profile picture - fixed size on the right
   profileImage: {
-    position: 'absolute',
-    top: 0,
-    right: 0,
     width: spacing.profileImageSize,
     height: spacing.profileImageSize,
+    flexShrink: 0,
   },
 
-  // Main header container - centered layout
+  // Main header container - centered in remaining space
   headerContainer: {
-    width: '100%',
+    flex: 1,
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
@@ -135,8 +134,8 @@ const Header = ({ resume, section }: { resume: ResumeSchema; section?: ResumeSec
 
   return (
     <View style={styles.outerContainer}>
-      {/* Profile picture - top-right corner with element-level visibility */}
-      {showProfilePicture && <Image src={resume.profile_picture} style={styles.profileImage} />}
+      {/* Spacer to balance image on right (keeps text visually centered) */}
+      {showProfilePicture && <View style={{ width: spacing.profileImageSize, flexShrink: 0 }} />}
 
       {/* Centered header content */}
       <View style={styles.headerContainer}>
@@ -156,6 +155,9 @@ const Header = ({ resume, section }: { resume: ResumeSchema; section?: ResumeSec
           ))}
         </View>
       </View>
+
+      {/* Profile picture - right side */}
+      {showProfilePicture && <Image src={resume.profile_picture} style={styles.profileImage} />}
     </View>
   );
 };

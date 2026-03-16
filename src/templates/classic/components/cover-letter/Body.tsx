@@ -22,7 +22,9 @@ const styles = StyleSheet.create({
 const Body = ({ data }: { data: CoverLetterSchema }) => {
   return (
     <View style={styles.bodyContainer}>
-      <Text style={styles.paragraph}>{data.content.opening_line}</Text>
+      {data.content.opening_line.trim() && (
+        <Text style={styles.paragraph}>{data.content.opening_line}</Text>
+      )}
       {data.content.body.map((paragraph, index) => (
         <Text key={index} style={styles.paragraph}>
           {paragraph}

@@ -1,0 +1,86 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+
+job_focus:
+  - primary_area: 'data_engineer'
+    specialties:
+      - 'python'
+      - 'sql'
+      - 'data_engineering'
+      - 'dataanalyse'
+      - 'databaser'
+    weight: 0.35
+  - primary_area: 'ai_data_science'
+    specialties:
+      - 'maskinlæring'
+      - 'ai'
+      - 'deep_learning'
+      - 'python'
+      - 'dataanalyse'
+    weight: 0.30
+  - primary_area: 'power_platform'
+    specialties:
+      - 'lavkode'
+      - 'automatisering'
+      - 'data'
+      - 'analyse'
+    weight: 0.15
+  - primary_area: 'erp_finance'
+    specialties:
+      - 'finans'
+      - 'økonomi'
+      - 'erp'
+      - 'forretningsforståelse'
+    weight: 0.20
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Microsoft University'
+  position: 'Trainee – Microsoft University 2026'
+  primary_focus: 'data_engineer'
+  date: '16. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknad – Trainee Microsoft University 2026'
+    opening_line: ' '
+    body:
+      - >
+        Jeg søker herved om plass på Microsoft University 2026. Som nyutdannet sivilingeniør
+        (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i
+        datateknologi, AI og finans, er jeg særlig interessert i følgende fem
+        spesialiseringsområder: Microsoft Azure Data Engineer, Microsoft AI & Data Science,
+        Microsoft Power Platform, Microsoft D365 Finance & Operations og Microsoft D365
+        Business Central.
+      - >
+        Min bakgrunn passer godt til fagområdene innen data og AI. Under internshipet hos Kystverket
+        arbeidet jeg med data engineering i Python: innhenting og sammenstilling av bildedata og
+        geografiske data fra ulike API-er, strukturering av datasett og utvikling av
+        maskinlæringsmodeller for bildegjenkjenning (computer vision). I masteroppgaven ved NTNU
+        designet jeg et Bayesiansk nevralt nettverk og en Proximal Policy Optimization (PPO)
+        reinforcement learning-algoritme i Python for prediksjon og automatisert handel i
+        finansielle tidsserier. Gjennom studiene har jeg i tillegg arbeidet med design og
+        implementering av SQL- og NoSQL-databaser (MySQL og MongoDB) med Docker, og gjennomført
+        data analytics med Python mot store datasett.
+      - >
+        For fagområdene Microsoft D365 Finance & Operations og Microsoft D365 Business Central
+        er masterprofilen min i investering, finans og økonomistyring nyttig – den gir meg
+        forretningsforståelse for ERP-systemer, mens den tekniske bakgrunnen gjør
+        at jeg raskt kan forstå og jobbe med de underliggende løsningene. Microsoft Power Platform
+        er et naturlig neste steg gitt min data- og analysebakgrunn – automatisering og lavkodeutvikling
+        er verktøy jeg ser stor verdi i å mestre.
+      - >
+        Data og AI er fagområdene jeg er mest interessert i, og der jeg ønsker å bygge
+        karrieren. Microsoft University appellerer til meg fordi det gir en konkret inngang
+        til nettopp dette – med strukturert opplæring og reelt arbeid fra første dag. Jeg
+        trives godt i miljøer der man forventes å lære raskt og ta ansvar, og ser dette som
+        en god start på karrieren.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

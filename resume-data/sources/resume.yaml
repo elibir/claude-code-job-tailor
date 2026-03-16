@@ -1,0 +1,195 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, mandag 16. mars 2026'
+
+personal_info:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: ''
+  titles:
+    ai_fokusert: 'Sivilingeniør | Kunstig intelligens og maskinlæring'
+    data_fokusert: 'Sivilingeniør | Data engineering og analyse'
+    generell_fokusert: 'Sivilingeniør | Industriell økonomi og teknologiledelse'
+  summaries:
+    ai_fokusert: >
+      Nyutdannet sivilingeniør i industriell økonomi og teknologiledelse fra NTNU med spesialisering
+      i datateknologi og kunstig intelligens. Har bygget prediksjons- og beslutningsmodeller med
+      bayesianske nevrale nettverk og reinforcement learning i masteroppgaven, og utviklet
+      maskinlæringsmodeller for bildegjenkjenning i internship hos Kystverket. Praktisk erfaring med
+      Python, maskinlæring og dataanalyse fra studier og arbeidsliv. Tar initiativ, arbeider
+      selvstendig og trives i team.
+    data_fokusert: >
+      Nyutdannet sivilingeniør i industriell økonomi og teknologiledelse fra NTNU med spesialisering
+      i datateknologi, kunstig intelligens og finans. Sterk interesse for dataanalyse og data
+      engineering, med erfaring fra prosjekter i studier og internship. God forståelse for hvordan
+      teknologi kan skape forretningsverdi gjennom innsikt og analyse. Praktisk erfaring med Python,
+      SQL, databaser og dataanalyse. Tar initiativ, arbeider selvstendig og trives i team.
+    generell_fokusert: >
+      Nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med
+      spesialisering i datateknologi, kunstig intelligens og finans. Har praktisk erfaring med
+      programmering (Python, SQL og andre språk), databaser og dataanalyse, men er også komfortabel
+      med å raskt sette seg inn i nye teknologier og metoder. Tar initiativ, arbeider selvstendig,
+      tar ansvar for oppgaver og trives i team hvor jeg kan dele kunnskap og bidra til felles mål.
+
+contact:
+  phone: '94164312'
+  email: 'birkeland.elias@outlook.com'
+  address: 'Stadsnesvegen 41, 6030 Langevåg'
+  linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+  github: 'https://github.com/elibir'
+
+technical_expertise:
+  programmering:
+    - 'Python'
+    - 'SQL'
+    - 'R'
+    - 'Java'
+    - 'JavaScript'
+    - 'TypeScript'
+  maskinlaering_og_ai:
+    - 'Maskinlæring (veiledet, uveiledet, forsterkningslæring)'
+    - 'Bayesianske nevrale nettverk'
+    - 'Reinforcement learning (PPO)'
+    - 'Bildegjenkjenning'
+    - 'Scikit-learn'
+    - 'PyTorch'
+    - 'Roboflow'
+  data_og_databaser:
+    - 'MySQL'
+    - 'MongoDB'
+    - 'Docker'
+    - 'Datamodellering'
+    - 'Datavarehus og datagruvedrift'
+    - 'Data engineering'
+    - 'Data analytics'
+  frontend_og_web:
+    - 'React'
+    - 'HTML'
+    - 'CSS'
+    - 'Django'
+  verktoy_og_annet:
+    - 'Git'
+    - 'Excel'
+    - 'LaTeX'
+    - 'API-integrasjon'
+
+soft_skills:
+  analytisk_tankegang:
+    - 'Analytisk og strukturert tilnærming til problemløsning'
+    - 'Evne til å omsette data til forretningsverdi'
+    - 'Sterk forståelse for teknologi i forretningskontekst'
+  selvstendighet_og_initiativ:
+    - 'Tar initiativ og ansvar for oppgaver'
+    - 'Arbeider selvstendig og effektivt'
+    - 'Rask til å sette seg inn i nye teknologier og metoder'
+  samarbeid_og_ledelse:
+    - 'Trives i team og bidrar til felles mål'
+    - 'Erfaring med tverrfaglig teamarbeid'
+    - 'Ledererfaring fra militæret og studenthjem'
+    - 'Deler kunnskap og veileder andre'
+
+independent_projects:
+  - name: 'Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
+    location: 'NTNU, Trondheim'
+    duration: '2025 – 2026'
+    description: >
+      Utviklet et to-stegs rammeverk for prediksjon av Bitcoin-prisen og automatisert handel under
+      usikkerhet, med fokus på usikkerhetskvantifisering og praktisk anvendelse innenfor finans.
+    achievements:
+      - 'Designet et Bayesiansk nevralt nettverk i Python for prediksjon av Bitcoin-prisen med usikkerhetsestimater.'
+      - 'Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-algoritme for automatisert handel basert på prediksjonene.'
+      - 'Kombinerte prediktiv modellering med beslutningstaking under usikkerhet i et ende-til-ende-rammeverk for finansielle tidsserier.'
+
+  - name: 'Web-applikasjon – Programvareutvikling (TDT4100-prosjekt)'
+    location: 'NTNU, Trondheim'
+    duration: '2023'
+    description: >
+      Teamprosjekt med utvikling av en fullstack web-applikasjon.
+    achievements:
+      - 'Bidro til utvikling av frontend i React med TypeScript.'
+      - 'Designet og implementerte databasemodell og datapersistering.'
+      - 'Jobbet etter agile arbeidsmetoder med kodegjennomganger og versjonskontroll via Git.'
+
+  - name: 'Store, distribuerte datamengder (TDT4225)'
+    location: 'NTNU, Trondheim'
+    duration: '2023'
+    description: >
+      Selvstendig prosjekt med design og implementering av databasesystemer for store datamengder.
+    achievements:
+      - 'Designet og utviklet databaser i SQL (MySQL) og NoSQL (MongoDB) for store datamengder.'
+      - 'Satte opp og konfigurerte databasene lokalt med Docker.'
+      - 'Gjennomførte data analytics og komplekse spørringer mot databasene med Python.'
+
+  - name: 'Maskinlæring – Prediksjon av strømproduksjon (TDT4173)'
+    location: 'NTNU, Trondheim'
+    duration: '2022'
+    description: >
+      Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.
+    achievements:
+      - 'Trente og evaluerte maskinlæringsmodeller i Python for prediksjon av strømproduksjon fra solceller.'
+      - 'Bearbeidet og analyserte værdata som grunnlag for modellene.'
+      - 'Jobbet i team med fokus på modellytelse og praktisk anvendelse av teori innen veiledet læring.'
+
+  - name: 'Anvendt Data Science – Prediksjon av strømforbruk (TDT4259)'
+    location: 'NTNU, Trondheim'
+    duration: '2022'
+    description: >
+      Teamarbeid med utvikling av modeller for prediksjon av strømforbruk i 5 nordiske byer.
+    achievements:
+      - 'Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av strømforbruk.'
+      - 'Jobbet med datarensing, feature engineering og analyse av tidsseriedata.'
+      - 'Presenterte funn og innsikt fra data med vekt på praktisk forretningsverdi.'
+
+  - name: 'Datavarehus og datagruvedrift (TDT4300)'
+    location: 'NTNU, Trondheim'
+    duration: '2022'
+    description: >
+      Fordypning i datakvalitet, preprosessering og analysemetoder på store datasett.
+    achievements:
+      - 'Anvendte klassifiserings-, klynge- og mønstergjenkjenningsalgoritmer på reelle datasett.'
+      - 'Arbeidet med datakvalitet og preprosessering som grunnlag for analyse.'
+
+  - name: 'Datamodellering og databasesystemer (TDT4145)'
+    location: 'NTNU, Trondheim'
+    duration: '2021'
+    description: >
+      Prosjekt med utvikling av databaseapplikasjoner med vekt på datamodellering og analyse.
+    achievements:
+      - 'Modellerte og implementerte relasjonsdatabaser med fokus på normalisering og spørringsoptimalisering.'
+      - 'Utviklet databaseapplikasjoner med vekt på dataintegritet og strukturert analyse.'
+
+languages:
+  - language: 'Norsk'
+    proficiency: 'Morsmål'
+  - language: 'Engelsk'
+    proficiency: 'Flytende'
+
+education:
+  - institution: 'NTNU'
+    program: 'Sivilingeniør, industriell økonomi og teknologiledelse'
+    location: 'Trondheim'
+    duration: '08.2020 – 01.2026'
+    details:
+      teknologiretning: 'Datateknologi med kunstig intelligens'
+      fagretning: 'Kunstig intelligens'
+      masterprofil: 'Investering, finans og økonomistyring'
+      karaktersnitt: '3.3 (285/300 studiepoeng)'
+      relevante_emner:
+        - 'Maskinlæring (TDT4173, TDT4172): Teori og praksis innen veiledet, uveiledet og forsterkningslæring.'
+        - 'Anvendt Data Science (TDT4259): Utvikling av modeller for prediksjon av strømforbruk i nordiske byer.'
+        - 'Store, distribuerte datamengder (TDT4225): Design og implementering av databaser i SQL og NoSQL (MySQL og MongoDB) med Docker.'
+        - 'Datavarehus og datagruvedrift (TDT4300): Datakvalitet, preprosessering, klassifisering, klynging og mønstergjenkjenning.'
+        - 'Datamodellering og databasesystemer (TDT4145): Utvikling av databaseapplikasjoner med vekt på modellering og analyse.'
+        - 'Programvareutvikling: Utviklet en web-applikasjon i team med frontend i React/TypeScript og backend i Python/Django.'
+  - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+    program: 'Ballsport'
+    location: 'Rollag'
+    duration: '01.2020 – 05.2020'
+  - institution: 'Luftforsvarets flygeskole'
+    program: 'Seleksjonsflyging'
+    location: 'Bardufoss'
+    duration: '07.2019 – 10.2019'
+    details:
+      beskrivelse: >
+        Den siste fasen av en svært omfattende seleksjonsprosess for å bli pilot i Luftforsvaret.
+        Blant de siste 50 av 1426 søkere. Gjennomførte 7 eksamener med minst 90% score på samtlige,
+        samt 9 flytimer.

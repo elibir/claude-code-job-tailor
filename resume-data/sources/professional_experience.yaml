@@ -1,0 +1,114 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, mandag 16. mars 2026'
+
+professional_experience:
+  - company: 'Kystverket'
+    position: 'Summer Intern'
+    location: 'Ålesund'
+    duration: '06.2023 – 08.2023'
+    company_description: >
+      Kystverket er den statlige etaten med ansvar for maritim infrastruktur, sjøtrafikksentraler
+      og beredskap langs norskekysten.
+    achievements:
+      ai_fokusert:
+        - 'Utviklet maskinlæringsmodeller i Python for automatisk bildegjenkjenning av maritime objekter.'
+        - 'Hentet inn og sammenstilte bildedata og geografiske data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering i Roboflow for å bygge trenings- og testdatasett til modellen.'
+        - 'Leverte en fungerende kodebase, teknisk rapport og presentasjon for ledelsen.'
+      data_fokusert:
+        - 'Hentet inn, sammenstilte og bearbeidet bildedata og geografiske data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering og strukturerte trenings- og testdatasett i Roboflow.'
+        - 'Jobbet i team med to andre studenter med data engineering og modellutvikling.'
+        - 'Leverte en fungerende kodebase, teknisk rapport og presentasjon for ledelsen.'
+      generell_fokusert:
+        - 'Utviklet maskinlæringsmodeller i Python for bildegjenkjenning som del av et studentteam.'
+        - 'Hentet inn og sammenstilte data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering i Roboflow og leverte kodebase, rapport og presentasjon for ledelsen.'
+
+  - company: 'NTNU – Fakultet for informasjonsteknologi og elektroteknikk'
+    position: 'Læringsassistent'
+    location: 'Trondheim'
+    duration: '01.2022 – 05.2022'
+    company_description: >
+      NTNU er Norges største universitet med over 40 000 studenter og sterk faglig bredde innen
+      teknologi og naturvitenskap.
+    achievements:
+      ai_fokusert:
+        - 'Veiledet studenter i objektorientert programmering med Java i emnet TDT4100.'
+        - 'Kontrollerte og ga tilbakemelding på øvingsarbeid for en gruppe studenter.'
+      data_fokusert:
+        - 'Veiledet studenter i objektorientert programmering med Java i emnet TDT4100.'
+        - 'Kontrollerte og ga tilbakemelding på øvingsarbeid for en gruppe studenter.'
+      generell_fokusert:
+        - 'Veiledet og kontrollerte øvingsarbeidet til en gruppe studenter i TDT4100 – Objektorientert programmering med Java.'
+
+  - company: 'Forsvaret – Garnisonen i Sør-Varanger'
+    position: 'Troppsassistent / Lagfører'
+    location: 'Sør-Varanger'
+    duration: '07.2017 – 01.2019'
+    company_description: >
+      Garnisonen i Sør-Varanger er en infanterigarnison i Finnmark som driver grensevakt og
+      suverenitetshevdelse langs den norsk-russiske grensen.
+    achievements:
+      ai_fokusert:
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent i 18 måneder.'
+        - 'Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
+      data_fokusert:
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent i 18 måneder.'
+        - 'Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
+      generell_fokusert:
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent i 18 måneder.'
+        - 'Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
+
+  - company: 'Diverse kortere stillinger'
+    position: 'Diverse stillinger'
+    location: 'Langevåg / Ålesund'
+    duration: '06.2015 – 08.2021'
+    achievements:
+      generell_fokusert:
+        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær – Utlån og vedlikehold av utstyr, kundeservice samt enklere konstruksjons- og malingsarbeid.'
+        - '05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg – Varepåfylling og kassearbeid.'
+        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste og planla timer i norsk, samfunnsfag, matematikk, engelsk og naturfag.'
+        - '03.2019 – 06.2019: Assistent, Langevåg skule – Assistent på 1.–4. trinn og på SFO.'
+        - '10.2015 – 07.2017: Ekstrahjelp, TOYS R US, Ålesund – Varepåfylling, kassearbeid og kundeservice.'
+        - '06.2015 – 12.2015: Kafémedarbeider, Precious Bean Roasters, Langevåg – Kassearbeid og servering.'
+      ai_fokusert:
+        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.'
+        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule.'
+        - '07.2017 – 01.2019: Troppsassistent/Lagfører, Forsvaret, Garnisonen i Sør-Varanger.'
+      data_fokusert:
+        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.'
+        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule.'
+        - '07.2017 – 01.2019: Troppsassistent/Lagfører, Forsvaret, Garnisonen i Sør-Varanger.'
+
+# Verv og annen erfaring (ikke formell arbeidserfaring, men relevant for profilen)
+other_experience:
+  - role: 'Maler jr'
+    organization: 'Singsaker studenterhjem'
+    location: 'Trondheim'
+    duration: '08.2022 – 12.2022'
+    description: 'Lederansvar for oppussingsprojekter ved studenthjemmet med 110 beboere.'
+
+  - role: 'Vask- og støvåpmand'
+    organization: 'Singsaker studenterhjem'
+    location: 'Trondheim'
+    duration: '08.2021 – 12.2021'
+    description: 'Ansvarlig for drift av vaskekjeller, tørkerom og bøttekott. Innebar lederansvar for 110 beboere.'
+
+  - role: 'Gitarist i husbandet'
+    organization: 'Singsaker studenterhjem'
+    location: 'Trondheim'
+    duration: '08.2021 – 06.2023'
+    description: 'Opptrådte årlig på Helga-festivalen arrangert av Singsaker studenterhjem. Lederansvar under øvinger som en av de mest erfarne musikerne.'
+
+  - role: 'Fotballspiller'
+    organization: 'Janus B fotball'
+    location: 'Trondheim'
+    duration: '08.2021 – 04.2025'
+
+  - role: 'Gitarist'
+    organization: 'Conspectus'
+    location: 'Ålesund'
+    duration: '06.2010 – d.d.'
+    description: 'Bandet driftes gjennom selskapet Conspectus Band DA og har utgitt en EP og to album, samt spilt en rekke konserter rundt om i Norge.'

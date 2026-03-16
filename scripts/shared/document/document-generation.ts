@@ -124,7 +124,14 @@ const generateSingleDoc = async ({
           data: applicationData.cover_letter ?? undefined,
         });
 
-  const filePath = path.join(outputDir, `${docType}-${companyName}.pdf`);
+  const personName =
+    applicationData.cover_letter?.name ?? applicationData.resume?.header?.name ?? 'Elias Birkeland';
+  const docLabel = docType === DOCUMENT_TYPES.RESUME ? 'CV' : 'Søknad';
+  const companyLabel = companyName
+    .split('-')
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ');
+  const filePath = path.join(outputDir, `${personName} - ${docLabel} - ${companyLabel}.pdf`);
 
   loggers.pdf.debug(`Generating ${docType} PDF: ${filePath}`);
 
