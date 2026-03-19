@@ -1,0 +1,131 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/elias-birkeland.jpeg'
+  title: 'Sivilingeniør | Industriell økonomi og teknologiledelse'
+  summary: >
+    Nyutdannet sivilingeniør fra NTNU med spesialisering i datateknologi og kunstig intelligens.
+    Har bygget maskinlæringsmodeller i Python fra masteroppgave og internship hos Kystverket.
+    God grunnforståelse av Java fra læringsassistentstillingen i TDT4100, og praktisk erfaring
+    med TypeScript og databaser fra studieprosjekter. Analytisk, rask til å lære og trives i team.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  skills:
+    - 'Python – maskinlæring, dataanalyse og scripting'
+    - 'Java – objektorientert programmering (TDT4100)'
+    - 'TypeScript / JavaScript – frontend og web-utvikling'
+    - 'SQL og NoSQL (MySQL, MongoDB) – databasedesign og spørringer'
+    - 'Docker – oppsett og kjøring av databasemiljøer'
+    - 'Git – versjonskontroll og kodegjennomganger'
+    - 'Analytisk og strukturert tilnærming til problemløsning'
+    - 'Rask til å sette seg inn i nye teknologier og rammeverk'
+
+  professional_experience:
+    - company: 'Kystverket'
+      position: 'Sommerintern – Maskinlæring og data engineering'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Utviklet maskinlæringsmodeller i Python for automatisk bildegjenkjenning av maritime objekter.'
+        - 'Hentet inn og sammenstilte bildedata og geografiske data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering i Roboflow for å bygge trenings- og testdatasett.'
+        - 'Leverte fungerende kodebase, teknisk rapport og presentasjon for ledelsen.'
+
+    - company: 'NTNU – Fakultet for informasjonsteknologi og elektroteknikk'
+      position: 'Læringsassistent'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Veiledet studenter i TDT4100 – Objektorientert programmering med Java.'
+        - 'Kontrollerte og ga tilbakemelding på øvingsarbeid for en gruppe studenter.'
+
+    - company: 'Forsvaret – Garnisonen i Sør-Varanger'
+      position: 'Troppsassistent / Lagfører'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Fungerte som lagfører med direkte lederansvar for soldater under øvelser. Vurdering: «utmerket».'
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp.'
+
+    - company: 'Diverse kortere stillinger'
+      position: 'Diverse stillinger'
+      location: 'Langevåg / Ålesund'
+      duration: '03.2019 – 08.2021'
+      achievements:
+        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.'
+        - '05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg.'
+        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste i flere fag.'
+
+  independent_projects:
+    - name: 'Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
+      location: 'NTNU, Trondheim'
+      duration: '2025'
+      description: >
+        Utviklet rammeverk for prediksjon og automatisert handel under usikkerhet,
+        med fokus på systemdesign og praktisk AI-anvendelse.
+      achievements:
+        - 'Designet et Bayesiansk nevralt nettverk i Python for prediksjon med usikkerhetsestimater.'
+        - 'Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-agent for automatisert handel.'
+
+    - name: 'Web-applikasjon – Programvareutvikling'
+      location: 'NTNU, Trondheim'
+      duration: '2022'
+      description: >
+        Fullstack web-applikasjon utviklet i team med agile arbeidsmetoder.
+      achievements:
+        - 'Bidro til frontend i React med TypeScript og backend i Python/Django.'
+        - 'Brukte Git, kodegjennomganger og agile arbeidsformer gjennom hele prosjektet.'
+
+    - name: 'Store, distribuerte datamengder – Databasesystem'
+      location: 'NTNU, Trondheim'
+      duration: '2024'
+      description: >
+        Design og implementering av databasesystemer for store datamengder.
+      achievements:
+        - 'Utviklet databaser i SQL (MySQL) og NoSQL (MongoDB), hostet med Docker.'
+        - 'Gjennomførte data analytics og komplekse spørringer med Python.'
+
+    - name: 'Anvendt Data Science – Prediksjon av strømforbruk'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      description: >
+        Teamarbeid med utvikling av modeller for prediksjon av strømforbruk i 5 nordiske byer.
+      achievements:
+        - 'Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av tidsseriedata.'
+        - 'Jobbet med datarensing, feature engineering og analyse.'
+        - 'Presenterte funn og innsikt i team med vekt på praktisk anvendelse.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'Sivilingeniør, industriell økonomi og teknologiledelse'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      specializations:
+        - 'Teknologiretning: Datateknologi med kunstig intelligens'
+        - 'Masterprofil: Investering, finans og økonomistyring'
+      details:
+        teknologiretning: 'Datateknologi med kunstig intelligens'
+        fagretning: 'Kunstig intelligens'
+        masterprofil: 'Investering, finans og økonomistyring'
+        karaktersnitt: '3.3 (285/300 studiepoeng)'
+        relevante_emner:
+          - 'Maskinlæring (TDT4173, TDT4172): Veiledet, uveiledet og forsterkningslæring.'
+          - 'Programvareutvikling: Fullstack web-app i team med React/TypeScript og Python/Django.'
+          - 'Store, distribuerte datamengder (TDT4225): SQL og NoSQL med Docker.'
+          - 'Datavarehus og datagruvedrift (TDT4300): Klassifisering, klynging og mønstergjenkjenning.'
+    - institution: 'Luftforsvarets flygeskole'
+      program: 'Seleksjonsflyging'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      details:
+        beskrivelse: >
+          Blant de siste 50 av 1426 søkere. 7 eksamener med minst 90% score og 9 flytimer.
+    - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+      program: 'Ballsport'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'

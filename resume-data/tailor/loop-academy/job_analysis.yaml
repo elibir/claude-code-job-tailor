@@ -1,0 +1,136 @@
+version: '2.0.0'
+analysis_date: '2026-03-19'
+
+job_analysis:
+  company: 'Loop Academy / Telenor'
+  position: 'Utvikler – Loop Academy x Telenor 2026'
+  job_focus:
+    - primary_area: 'junior_developer'
+      specialties: ['java', 'kotlin', 'spring_boot', 'typescript', 'python', 'backend']
+      weight: 0.8
+    - primary_area: 'ai_background'
+      specialties: ['machine_learning', 'ai', 'system_understanding']
+      weight: 0.2
+  location: 'Oslo, Norway'
+  employment_type: 'Fast ansettelse'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Bachelor- eller mastergrad innen IT/teknologi med AI-spesialisering'
+        priority: 10
+      - skill: 'Programmeringsferdigheter'
+        priority: 10
+      - skill: 'Rask læringsevne'
+        priority: 9
+      - skill: 'Trives i team'
+        priority: 9
+      - skill: 'Gode faglige resultater'
+        priority: 8
+    nice_to_have_skills:
+      - skill: 'Java og Kotlin'
+        priority: 8
+      - skill: 'Spring Boot'
+        priority: 7
+      - skill: 'TypeScript / Vue'
+        priority: 7
+      - skill: 'Agile/Scrum'
+        priority: 6
+    soft_skills:
+      - 'Høye standarder for seg selv'
+      - 'Forstår hvordan systemer fungerer'
+      - 'Trives med tydelige forventninger'
+      - 'Lagspiller'
+      - 'Motivert for intensivt læringsløp'
+    experience_years: 0
+    education: 'Bachelor- eller mastergrad innen IT eller teknologi med spesialisering i AI'
+
+  responsibilities:
+    primary:
+      - 'Forvaltning og behandling av kundedata hos Telenor'
+      - 'Utvikling av API-er i Java og Kotlin med Spring Boot'
+      - 'Utforskning av agentisk AI og context engineering i utviklerrollen'
+      - 'Delta i tverrfaglige utviklingsteam med erfarne utviklere'
+    secondary:
+      - '3 mnd intensivt akademiløp: Java, Kotlin, Spring Boot, TypeScript, Vue'
+      - 'Opptil 3 valgfrie sertifiseringer'
+      - 'Case-prosjekt utviklet sammen med Telenor'
+      - 'Mål: fast stilling hos Telenor etter endt oppdrag'
+
+  role_context:
+    department: 'Utviklingsteam hos Telenor'
+    team_size: 'Lite kull i Loop Academy, tverrfaglig team hos Telenor'
+    key_points:
+      - 'Fast ansettelse fra dag én i Loop Academy'
+      - 'AI-bakgrunn er eksplisitt etterspurt – gir bedre systemforståelse'
+      - 'Oppstart 10. august 2026 (akademi), 2. november 2026 (Telenor)'
+      - 'Mål: fast stilling hos Telenor etter 12 mnd oppdrag'
+      - 'Intensivt akademiløp med fagøkter, prosjektarbeid og presentasjoner'
+      - 'Opptil 3 sertifiseringer inkludert'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Mastergrad fra NTNU Datateknologi med AI – nøyaktig profil de søker'
+      - 'Python fra masteroppgave, Kystverket-internship og studieprosjekter'
+      - 'Java fra læringsassistentstillingen i TDT4100'
+      - 'TypeScript fra web-applikasjonsprosjekt i team'
+      - 'Docker og databaser (SQL/NoSQL) fra studieprosjekter'
+      - 'Teamarbeid fra studieprosjekter, internship og militærtjeneste'
+    gaps_to_address:
+      - 'Kotlin og Spring Boot – ikke direkte erfaring, men Java-grunnlag er på plass'
+      - 'Vue – ikke direkte erfaring, men TypeScript/React-bakgrunn er overførbar'
+      - 'Tittelen "sivilingeniør indøk" fremhever ikke "utvikler" – kompensér med konkret kode-erfaring'
+    transferable_skills:
+      - 'Java (TDT4100 TA) → Kotlin/Spring Boot lar seg lære raskt'
+      - 'TypeScript/React → Vue har lav overgangsterskel'
+      - 'AI-systemforståelse → bedre arkitekturdeksjoner som utvikler'
+      - 'Masteroppgave (ende-til-ende-rammeverk) → forståelse av komplekse systemer'
+    emphasis_strategy: 'Fremhev AI-bakgrunn som systematisk fordel i utviklerrollen, vis konkret kode-erfaring i Java og TypeScript, og trekk frem motivasjon for intensivt læringsopplegg'
+
+  section_priorities:
+    technical_expertise:
+      - 'python_maskinlaering'
+      - 'java_programmering'
+      - 'typescript_javascript'
+      - 'sql_og_databaser'
+      - 'docker'
+    experience_focus: 'Fremhev Python/ML fra Kystverket og Java fra NTNU TA'
+    project_relevance: 'Inkluder: masteroppgave (AI-dybde), web-app (TypeScript/team), database (Docker/SQL), strømforbruk (ML-bredde)'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'AI-bakgrunn og systemforståelse'
+      - 'Python og maskinlæring'
+      - 'Java og objektorientert programmering'
+    EMPHASIZE:
+      - 'Motivasjon for intensivt akademiløp'
+      - 'Teamarbeid og læringsevne'
+      - 'Konkret kode-erfaring fra studier og internship'
+    QUANTIFY:
+      - 'Python-erfaring fra internship og masteroppgave'
+      - 'Java-erfaring fra læringsassistentstillingen (TDT4100)'
+    DOWNPLAY:
+      - 'Finansiell vinkling på masteroppgaven'
+      - 'Forretningsøkonomi-aspektet av utdanningen'
+
+  ats_analysis:
+    title_variations:
+      - 'Utvikler – Loop Academy x Telenor 2026'
+      - 'Junior Developer'
+      - 'Nyutdannet utvikler'
+    critical_phrases:
+      - 'AI-bakgrunn'
+      - 'maskinlæring'
+      - 'Java'
+      - 'Python'
+      - 'TypeScript'
+      - 'fast ansettelse'
+      - 'Telenor'
+      - 'intensivt læringsløp'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html'
+    posting_date: '2026-03-19'
+    deadline: 'Snarest (løpende behandling)'
+    start_date: '10. august 2026'
+    num_positions: 'Lite kull'

@@ -1,0 +1,133 @@
+version: '2.0.0'
+analysis_date: '2026-03-17'
+source: 'https://www.finn.no/job/fulltime/ad.html?finnkode=453920727'
+
+job_analysis:
+  company: 'CGI Norge'
+  position: 'Graduate 2026 – Business Analyst'
+  job_focus:
+    - primary_area: 'junior_engineer'
+      specialties: ['sql', 'python', 'data', 'analytics', 'itil']
+      weight: 0.7
+    - primary_area: 'consultant'
+      specialties: ['business_analysis', 'process_improvement', 'agile']
+      weight: 0.3
+  location: 'Oslo, Norway'
+  employment_type: 'Full-time'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Bachelor- eller mastergrad innen IT/informatikk'
+        priority: 10
+      - skill: 'SQL og databaser'
+        priority: 10
+      - skill: 'Python / scripting'
+        priority: 9
+      - skill: 'Analytisk og strukturert arbeidsmetode'
+        priority: 9
+      - skill: 'Norsk og engelsk kommunikasjon'
+        priority: 8
+    nice_to_have_skills:
+      - skill: 'ITIL eller tilsvarende rammeverk'
+        priority: 7
+      - skill: 'Agile/Scrum'
+        priority: 6
+      - skill: 'Power Platform'
+        priority: 5
+      - skill: 'Forretningsprosessforståelse'
+        priority: 5
+    soft_skills:
+      - 'Strukturert og analytisk'
+      - 'Nysgjerrig og engasjert'
+      - 'God kommunikasjon'
+      - 'Lagspiller'
+      - 'Motivert for konsulentbransjen'
+    experience_years: 0
+    education: 'Bachelor- eller mastergrad innen IT, informatikk eller relaterte fagområder'
+
+  responsibilities:
+    primary:
+      - 'Analysere og forstå forretningsbehov og omsette til tekniske krav'
+      - 'Jobbe med SQL og databaser for dataanalyse og rapportering'
+      - 'Scripting og automatisering i Python'
+      - 'Delta i prosjekter med tett kundedialog'
+      - 'Bidra til prosessforbedring og leveransestyring'
+    secondary:
+      - 'Sertifiseringer via CGI Academia'
+      - 'Mentorordning og faglig utvikling'
+      - 'Tverrfaglig samarbeid med andre graduate-deltakere'
+
+  role_context:
+    department: 'IT-konsulentvirksomhet'
+    team_size: 'Stor organisasjon, graduate-kohort med mentor'
+    key_points:
+      - 'Fast ansettelse fra dag én – ikke tidsbegrenset trainee'
+      - 'CGI feirer 50 år i 2026 – stabil og etablert arbeidsgiver'
+      - 'CGI Academia: strukturert læringsløp med kurs og sertifiseringer'
+      - 'Medeierskap gjennom aksjespareprogram'
+      - 'Kontor i Oslo sentrum med gode fasiliteter'
+      - 'Oppstart 17. august 2026'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Mastergrad fra NTNU Datateknologi med AI – over minstekrav'
+      - 'SQL (MySQL, MongoDB) fra databaseprosjekt og masteroppgave'
+      - 'Python fra internship (Kystverket), masteroppgave og studieprosjekter'
+      - 'Analytisk profil fra finansiell modellering og dataprosjekter'
+      - 'Norsk morsmål og flytende engelsk'
+      - 'Erfaring med å presentere tekniske funn for ledelsen (Kystverket)'
+    gaps_to_address:
+      - 'ITIL – ingen direkte erfaring, men kjennskap til rammeverk fra studier'
+      - 'Forretningsprosessanalyse – lite direkte, men sterk analytisk bakgrunn'
+    transferable_skills:
+      - 'Finansiell modellering i masteroppgaven → forretningsanalyse og kvantitativ analyse'
+      - 'Dataannotering og datapipelines hos Kystverket → datahåndtering og rapportering'
+      - 'Komplekse SQL-spørringer i studier → databaseanalyse i konsulentprosjekter'
+    emphasis_strategy: 'Led med SQL/Python-kompetanse og analytisk profil; fremhev Kystverket-leveransen og masteroppgavens dataarbeid'
+
+  section_priorities:
+    technical_expertise:
+      - 'sql_og_databaser'
+      - 'python_scripting'
+      - 'data_analytics'
+      - 'agile_metodikk'
+    experience_focus: 'Fremhev dataarbeid fra Kystverket og SQL/Python fra studieprosjekter'
+    project_relevance: 'Inkluder: databasesystem (SQL/NoSQL), masteroppgave (kvantitativ analyse), strømprediksjoner (dataanalyse). Nedprioritér: ikke-tekniske roller'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'SQL og databaser'
+      - 'Python og dataanalyse'
+      - 'Analytisk og strukturert arbeidsmetode'
+    EMPHASIZE:
+      - 'leveranse til ledelsen fra Kystverket'
+      - 'kvantitativ finansanalyse fra masteroppgave'
+      - 'strukturert problemløsning'
+    QUANTIFY:
+      - 'SQL-kompetanse fra studieprosjekter'
+      - 'Python-erfaring fra internship og masteroppgave'
+    DOWNPLAY:
+      - 'militær bakgrunn (utover ledererfaring og struktur)'
+      - 'frontend/React-arbeid'
+
+  ats_analysis:
+    title_variations:
+      - 'Graduate 2026 – Business Analyst'
+      - 'Business Analyst'
+      - 'IT-konsulent'
+    critical_phrases:
+      - 'SQL og databaser'
+      - 'Python og scripting'
+      - 'analytisk og strukturert'
+      - 'ITIL'
+      - 'agil metode'
+      - 'graduate-program'
+      - 'fast ansettelse'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html?finnkode=453920727'
+    posting_date: '2026-03-10'
+    deadline: 'Snarest (løpende behandling)'
+    start_date: '17. august 2026'
+    num_positions: 10

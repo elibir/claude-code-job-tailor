@@ -145,6 +145,21 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
           ))}
         </>
       )}
+
+      {(resume.volunteer_experience?.length ?? 0) > 0 && (
+        <>
+          <Text style={styles.sectionTitle}>VERV OG ANNEN ERFARING</Text>
+          <View style={styles.separator} />
+
+          {resume.volunteer_experience!.map((experience, index) => (
+            <ExperienceEntry
+              key={`${experience.company}-${experience.position}-${index}`}
+              experience={experience}
+              debug={debug}
+            />
+          ))}
+        </>
+      )}
     </View>
   );
 };

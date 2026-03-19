@@ -1,230 +1,226 @@
 // @ts-nocheck
 // Auto-generated application data - TypeScript validation disabled
-// Company: microsoft-university
-// Generated at: 2026-03-16T17:43:04.676Z
+// Company: loop-academy
+// Generated at: 2026-03-19T17:31:01.814Z
 
 import type { ApplicationData } from '@types';
 
 const applicationData: ApplicationData = {
   "metadata": {
-    "company": "Microsoft University",
-    "folder_path": "resume-data/tailor/microsoft-university",
+    "company": "Loop Academy / Telenor",
+    "folder_path": "resume-data/tailor/loop-academy",
     "available_files": [
       "metadata.yaml",
-      "job_posting.md",
       "job_analysis.yaml",
       "resume.yaml",
       "cover_letter.yaml"
     ],
-    "position": "Trainee – Microsoft University 2026",
-    "primary_focus": "trainee + [data_engineering, ai, power_platform, erp, finance]",
-    "job_summary": "Microsoft traineeprogram for nyutdannede – 6 uker kurs og sertifisering + fast jobb hos partner/kunde",
+    "position": "Utvikler – Loop Academy x Telenor 2026",
+    "primary_focus": "junior_developer + [java, python, typescript, ai, backend]",
+    "job_summary": "Fast ansettelse i Loop Academy med 3 mnd intensivt akademiløp + 12 mnd oppdrag som utvikler hos Telenor, oppstart 10. august 2026",
     "job_details": {
-      "company": "Microsoft University",
-      "location": "Norge",
-      "experience_level": "Entry-level / Nyutdannet",
-      "employment_type": "Trainee / Fast stilling hos partner",
+      "company": "Loop Academy AS",
+      "location": "Oslo (Rebel) + Telenor Fornebu",
+      "experience_level": "Junior",
+      "employment_type": "Fast ansettelse",
       "must_have_skills": [
-        "Bachelorgrad (fullført senest høst 2026)",
-        "Teknisk interesse",
-        "Læringsvilje"
+        "Bachelor- eller mastergrad innen IT/teknologi med AI-spesialisering",
+        "Gode faglige resultater",
+        "Programmeringsferdigheter (Python, Java e.l.)",
+        "Rask læringsevne og problemløsning",
+        "Trives i team"
       ],
       "nice_to_have_skills": [
-        "Python og SQL",
-        "Maskinlæring og dataanalyse",
-        "Finans og økonomiforståelse",
-        "Lavkodeutvikling / automatisering"
+        "Java og objektorientert programmering",
+        "TypeScript / JavaScript",
+        "SQL og databaser",
+        "Docker"
       ],
-      "team_context": "Traineeprogram i regi av Microsoft – kobles med partner/kunde fra dag én",
-      "user_scale": "Nasjonalt program – hundrevis av kandidater siden 2007"
+      "team_context": "Lite kull, tett oppfølging, fysisk akademi i Oslo, tverrfaglig utviklingsteam hos Telenor",
+      "user_scale": "Telenor – systemer brukt av millioner av kunder daglig"
     },
     "active_template": "classic",
-    "last_updated": "2026-03-16T12:00:00Z"
+    "last_updated": "2026-03-19T12:00:00Z"
   },
   "job_analysis": {
-    "company": "Microsoft University",
-    "position": "Trainee – Microsoft University 2026",
+    "company": "Loop Academy / Telenor",
+    "position": "Utvikler – Loop Academy x Telenor 2026",
     "job_focus": [
       {
-        "primary_area": "engineer",
+        "primary_area": "junior_developer",
         "specialties": [
-          "data",
+          "java",
+          "kotlin",
+          "spring_boot",
+          "typescript",
           "python",
-          "sql",
-          "data_engineering",
-          "ai"
+          "backend"
         ],
-        "weight": 0.4
+        "weight": 0.8
       },
       {
-        "primary_area": "engineer",
+        "primary_area": "ai_background",
         "specialties": [
+          "machine_learning",
           "ai",
-          "ml",
-          "data_science",
-          "python"
-        ],
-        "weight": 0.3
-      },
-      {
-        "primary_area": "engineer",
-        "specialties": [
-          "finance",
-          "erp",
-          "business"
+          "system_understanding"
         ],
         "weight": 0.2
-      },
-      {
-        "primary_area": "engineer",
-        "specialties": [
-          "automation",
-          "low_code",
-          "platform"
-        ],
-        "weight": 0.1
       }
     ],
-    "location": "Norge",
-    "employment_type": "Trainee / Fast stilling hos partner",
-    "experience_level": "Entry-level / Nyutdannet",
+    "location": "Oslo, Norway",
+    "employment_type": "Fast ansettelse",
+    "experience_level": "Junior",
     "requirements": {
       "must_have_skills": [
         {
-          "skill": "Bachelorgrad (fullført senest høst 2026)",
+          "skill": "Bachelor- eller mastergrad innen IT/teknologi med AI-spesialisering",
           "priority": 10
         },
         {
-          "skill": "Teknisk interesse og læringsvilje",
+          "skill": "Programmeringsferdigheter",
+          "priority": 10
+        },
+        {
+          "skill": "Rask læringsevne",
           "priority": 9
         },
         {
-          "skill": "Python og/eller dataanalyse",
-          "priority": 8
+          "skill": "Trives i team",
+          "priority": 9
         },
         {
-          "skill": "SQL og databaser",
+          "skill": "Gode faglige resultater",
           "priority": 8
         }
       ],
       "nice_to_have_skills": [
         {
-          "skill": "Maskinlæring og AI",
+          "skill": "Java og Kotlin",
+          "priority": 8
+        },
+        {
+          "skill": "Spring Boot",
           "priority": 7
         },
         {
-          "skill": "Finans og økonomiforståelse",
+          "skill": "TypeScript / Vue",
           "priority": 7
         },
         {
-          "skill": "Skybaserte løsninger",
+          "skill": "Agile/Scrum",
           "priority": 6
-        },
-        {
-          "skill": "Lavkodeutvikling og automatisering",
-          "priority": 5
         }
       ],
       "soft_skills": [
-        "Læringsvilje og endringsevne",
-        "Analytisk tankegang",
-        "Selvstendig arbeid",
-        "Samarbeid i team",
-        "Initiativtaking",
-        "Evne til å tilegne seg ny teknologi raskt"
+        "Høye standarder for seg selv",
+        "Forstår hvordan systemer fungerer",
+        "Trives med tydelige forventninger",
+        "Lagspiller",
+        "Motivert for intensivt læringsløp"
       ],
       "experience_years": 0,
-      "education": "Minimum fullført bachelorgrad høsten 2026"
+      "education": "Bachelor- eller mastergrad innen IT eller teknologi med spesialisering i AI"
     },
     "responsibilities": {
       "primary": [
-        "Gjennomføre 6 intensive uker med kurs og sertifiseringer innen valgt spor",
-        "Jobbe hos Microsofts partnere eller kunder fra dag én",
-        "Tilegne seg bransjeanerkjente Microsoft-sertifiseringer",
-        "Jobbe med virkelige prosjekter hos partner/kunde"
+        "Forvaltning og behandling av kundedata hos Telenor",
+        "Utvikling av API-er i Java og Kotlin med Spring Boot",
+        "Utforskning av agentisk AI og context engineering i utviklerrollen",
+        "Delta i tverrfaglige utviklingsteam med erfarne utviklere"
       ],
       "secondary": [
-        "Bygge nettverk i Microsoft-partnernettverket",
-        "Bidra med teknisk og analytisk kompetanse hos tilknyttet bedrift"
+        "3 mnd intensivt akademiløp: Java, Kotlin, Spring Boot, TypeScript, Vue",
+        "Opptil 3 valgfrie sertifiseringer",
+        "Case-prosjekt utviklet sammen med Telenor",
+        "Mål: fast stilling hos Telenor etter endt oppdrag"
       ]
     },
     "role_context": {
-      "department": "Traineeprogram – Microsoft University",
-      "team_size": "Nasjonalt program, kobles med partner/kunde fra dag én",
+      "department": "Utviklingsteam hos Telenor",
+      "team_size": "Lite kull i Loop Academy, tverrfaglig team hos Telenor",
       "key_points": [
-        "Kåret til mest attraktive IT-traineeprogram fire år på rad",
-        "Gratis sertifiseringer i etterspurte Microsoft-teknologier",
-        "Fast jobb fra dag én – ikke bare praksis",
-        "Kandidatens interessespor: Data Engineer, AI & Data Science, Power Platform, D365 F&O, D365 Business Central"
+        "Fast ansettelse fra dag én i Loop Academy",
+        "AI-bakgrunn er eksplisitt etterspurt – gir bedre systemforståelse",
+        "Oppstart 10. august 2026 (akademi), 2. november 2026 (Telenor)",
+        "Mål: fast stilling hos Telenor etter 12 mnd oppdrag",
+        "Intensivt akademiløp med fagøkter, prosjektarbeid og presentasjoner",
+        "Opptil 3 sertifiseringer inkludert"
       ]
     },
     "application_info": {
-      "posting_url": "https://www.microsoft.com/nb-no/university",
-      "posting_date": "2025-12-02",
-      "deadline": "Løpende"
+      "posting_url": "https://www.finn.no/job/fulltime/ad.html",
+      "posting_date": "2026-03-19",
+      "deadline": "Snarest (løpende behandling)"
     },
     "candidate_alignment": {
       "strong_matches": [
-        "Python og maskinlæring – brukt i masteroppgave og internship hos Kystverket",
-        "SQL og databaser (MySQL, MongoDB) – NTNU-emner TDT4145 og TDT4225",
-        "Data engineering – erfaring fra Kystverket-internship med API-integrasjon og datasett",
-        "AI og dyp læring – bayesianske nevrale nettverk og reinforcement learning i masteroppgave",
-        "Finans og økonomi – masterprofil investering, finans og økonomistyring, direkte relevant for D365-sporene",
-        "Sivilingeniør NTNU – teknologiledelse og datateknologi, sterk akademisk bakgrunn"
+        "Mastergrad fra NTNU Datateknologi med AI – nøyaktig profil de søker",
+        "Python fra masteroppgave, Kystverket-internship og studieprosjekter",
+        "Java fra læringsassistentstillingen i TDT4100",
+        "TypeScript fra web-applikasjonsprosjekt i team",
+        "Docker og databaser (SQL/NoSQL) fra studieprosjekter",
+        "Teamarbeid fra studieprosjekter, internship og militærtjeneste"
       ],
       "gaps_to_address": [
-        "Ingen direkte Microsoft-teknologierfaring (Azure, Power Platform, D365)",
-        "Ingen skyerfaring (Azure) – men fundamentet er sterkt"
+        "Kotlin og Spring Boot – ikke direkte erfaring, men Java-grunnlag er på plass",
+        "Vue – ikke direkte erfaring, men TypeScript/React-bakgrunn er overførbar",
+        "Tittelen \"sivilingeniør indøk\" fremhever ikke \"utvikler\" – kompensér med konkret kode-erfaring"
       ],
       "transferable_skills": [
-        "Python-ekspertise → Azure Data Engineer og AI-spor",
-        "Finansforståelse fra NTNU → D365 Finance & Operations og Business Central",
-        "Data engineering fra Kystverket → Azure Data Engineer-spor",
-        "Rask til å lære ny teknologi → ideell for traineeprogram"
+        "Java (TDT4100 TA) → Kotlin/Spring Boot lar seg lære raskt",
+        "TypeScript/React → Vue har lav overgangsterskel",
+        "AI-systemforståelse → bedre arkitekturdeksjoner som utvikler",
+        "Masteroppgave (ende-til-ende-rammeverk) → forståelse av komplekse systemer"
       ],
-      "emphasis_strategy": "Fremhev kombinasjonen av sterk teknisk bakgrunn (Python, data, AI) OG finansforståelse som unik for å kunne velge mellom tekniske og forretningsorienterte spor"
+      "emphasis_strategy": "Fremhev AI-bakgrunn som systematisk fordel i utviklerrollen, vis konkret kode-erfaring i Java og TypeScript, og trekk frem motivasjon for intensivt læringsopplegg"
     },
     "section_priorities": {
       "technical_expertise": [
-        "data_og_analyse",
-        "maskinlaering_og_ai",
-        "programmering",
-        "verktoy"
+        "python_maskinlaering",
+        "java_programmering",
+        "typescript_javascript",
+        "sql_og_databaser",
+        "docker"
       ],
-      "experience_focus": "Fremhev Kystverket (data engineering, ML) og masteroppgaven (AI, finans). Vis bredde.",
-      "project_relevance": "Inkluder alle tre prosjekter – masteroppgave (AI/finans), databaser (data engineering), web-app (teknisk bredde)"
+      "experience_focus": "Fremhev Python/ML fra Kystverket og Java fra NTNU TA",
+      "project_relevance": "Inkluder: masteroppgave (AI-dybde), web-app (TypeScript/team), database (Docker/SQL), strømforbruk (ML-bredde)"
     },
     "optimization_actions": {
       "LEAD_WITH": [
-        "Python, SQL og data engineering",
-        "Kombinasjon av teknisk AI-bakgrunn og finansforståelse"
+        "AI-bakgrunn og systemforståelse",
+        "Python og maskinlæring",
+        "Java og objektorientert programmering"
       ],
       "EMPHASIZE": [
-        "Masteroppgave med dyp læring og reinforcement learning i finans",
-        "Data engineering og ML fra Kystverket-internship",
-        "Masterprofil investering, finans og økonomistyring for D365-sporene"
+        "Motivasjon for intensivt akademiløp",
+        "Teamarbeid og læringsevne",
+        "Konkret kode-erfaring fra studier og internship"
       ],
       "QUANTIFY": [
-        "Kystverket: API-integrasjon, datasett og modellresultater",
-        "NTNU: 285/300 studiepoeng"
+        "Python-erfaring fra internship og masteroppgave",
+        "Java-erfaring fra læringsassistentstillingen (TDT4100)"
       ],
       "DOWNPLAY": [
-        "Detaljer om militærtjeneste som primær kompetanse"
+        "Finansiell vinkling på masteroppgaven",
+        "Forretningsøkonomi-aspektet av utdanningen"
       ]
     },
     "ats_analysis": {
       "title_variations": [
-        "Trainee",
-        "Microsoft University",
-        "Nyutdannet",
-        "Graduate"
+        "Utvikler – Loop Academy x Telenor 2026",
+        "Junior Developer",
+        "Nyutdannet utvikler"
       ],
       "critical_phrases": [
-        "Python og dataanalyse",
-        "maskinlæring og AI",
-        "Azure Data Engineer",
-        "D365 Finance and Operations",
-        "nyutdannet sivilingeniør"
+        "AI-bakgrunn",
+        "maskinlæring",
+        "Java",
+        "Python",
+        "TypeScript",
+        "fast ansettelse",
+        "Telenor",
+        "intensivt læringsløp"
       ]
     }
   },
@@ -241,14 +237,14 @@ const applicationData: ApplicationData = {
     "professional_experience": [
       {
         "company": "Kystverket",
-        "position": "Summer Intern",
+        "position": "Sommerintern – Maskinlæring og data engineering",
         "location": "Ålesund",
         "duration": "06.2023 – 08.2023",
         "achievements": [
-          "Utviklet maskinlæringsmodeller for bildegjenkjenning (computer vision) i Python.",
+          "Utviklet maskinlæringsmodeller i Python for automatisk bildegjenkjenning av maritime objekter.",
           "Hentet inn og sammenstilte bildedata og geografiske data fra ulike API-er med JavaScript og Python.",
-          "Gjennomførte dataannotering i Roboflow for å bygge trenings- og testdatasett til modellen.",
-          "Leverte en fungerende kodebase, teknisk rapport og presentasjon for ledelsen."
+          "Gjennomførte dataannotering i Roboflow for å bygge trenings- og testdatasett.",
+          "Leverte fungerende kodebase, teknisk rapport og presentasjon for ledelsen."
         ]
       },
       {
@@ -257,19 +253,8 @@ const applicationData: ApplicationData = {
         "location": "Trondheim",
         "duration": "01.2022 – 05.2022",
         "achievements": [
-          "Veiledet og kontrollerte øvingsarbeidet til en gruppe studenter i TDT4100 – Objektorientert programmering med Java."
-        ]
-      },
-      {
-        "company": "Diverse stillinger",
-        "position": "Diverse stillinger",
-        "location": "Langevåg / Trondheim",
-        "duration": "03.2019 – 08.2021",
-        "achievements": [
-          "06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær – Utlån og vedlikehold av utstyr, kundeservice og enklere praktisk arbeid.",
-          "05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg – Varepåfylling og kassearbeid.",
-          "10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste og planla timer i flere fag.",
-          "03.2019 – 06.2019: Assistent, Langevåg skule – Assistent på 1.–4. trinn og SFO."
+          "Veiledet studenter i TDT4100 – Objektorientert programmering med Java.",
+          "Kontrollerte og ga tilbakemelding på øvingsarbeid for en gruppe studenter."
         ]
       },
       {
@@ -278,8 +263,19 @@ const applicationData: ApplicationData = {
         "location": "Sør-Varanger",
         "duration": "07.2017 – 01.2019",
         "achievements": [
-          "Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent.",
-          "Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse."
+          "Fungerte som lagfører med direkte lederansvar for soldater under øvelser. Vurdering: «utmerket».",
+          "Ansvarlig for materiell og logistikk for en infanteritropp."
+        ]
+      },
+      {
+        "company": "Diverse kortere stillinger",
+        "position": "Diverse stillinger",
+        "location": "Langevåg / Ålesund",
+        "duration": "03.2019 – 08.2021",
+        "achievements": [
+          "06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.",
+          "05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg.",
+          "10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste i flere fag."
         ]
       }
     ],
@@ -288,113 +284,68 @@ const applicationData: ApplicationData = {
         "institution": "NTNU",
         "program": "Sivilingeniør, industriell økonomi og teknologiledelse",
         "location": "Trondheim",
-        "duration": "08.2020 – 01.2026"
-      },
-      {
-        "institution": "Numedal folkehøgskole (Idrettsskolen)",
-        "program": "Ballsport",
-        "location": "Rollag",
-        "duration": "01.2020 – 05.2020"
+        "duration": "08.2020 – 01.2026",
+        "specializations": [
+          "Teknologiretning: Datateknologi med kunstig intelligens",
+          "Masterprofil: Investering, finans og økonomistyring"
+        ]
       },
       {
         "institution": "Luftforsvarets flygeskole",
         "program": "Seleksjonsflyging",
         "location": "Bardufoss",
         "duration": "07.2019 – 10.2019"
+      },
+      {
+        "institution": "Numedal folkehøgskole (Idrettsskolen)",
+        "program": "Ballsport",
+        "location": "Rollag",
+        "duration": "01.2020 – 05.2020"
       }
     ],
-    "profile_picture": "/img/Elias Birkeland.jpg",
-    "summary": "Nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi, AI og finans. Har praktisk erfaring med programmering, databaser og dataanalyse, men er også komfortabel med å raskt sette seg inn i nye teknologier og metoder.\n",
-    "technical_expertise": [
-      {
-        "resume_title": "Programmering",
-        "skills": [
-          "Python",
-          "SQL",
-          "JavaScript",
-          "TypeScript",
-          "R",
-          "API-integrasjon"
-        ]
-      },
-      {
-        "resume_title": "Databaser",
-        "skills": [
-          "MySQL",
-          "MongoDB",
-          "Datamodellering",
-          "Docker"
-        ]
-      },
-      {
-        "resume_title": "Frontend og web",
-        "skills": [
-          "React",
-          "HTML",
-          "CSS"
-        ]
-      },
-      {
-        "resume_title": "Verktøy",
-        "skills": [
-          "Git",
-          "GitHub",
-          "Maskinlæring (Scikit-learn, PyTorch)"
-        ]
-      }
-    ],
+    "profile_picture": "/img/elias-birkeland.jpeg",
+    "summary": "Nyutdannet sivilingeniør fra NTNU med spesialisering i datateknologi og kunstig intelligens. Har bygget maskinlæringsmodeller i Python fra masteroppgave og internship hos Kystverket. God grunnforståelse av Java fra læringsassistentstillingen i TDT4100, og praktisk erfaring med TypeScript og databaser fra studieprosjekter. Analytisk, rask til å lære og trives i team.\n",
+    "technical_expertise": [],
     "skills": [
+      "Python – maskinlæring, dataanalyse og scripting",
+      "Java – objektorientert programmering (TDT4100)",
+      "TypeScript / JavaScript – frontend og web-utvikling",
+      "SQL og NoSQL (MySQL, MongoDB) – databasedesign og spørringer",
+      "Docker – oppsett og kjøring av databasemiljøer",
+      "Git – versjonskontroll og kodegjennomganger",
       "Analytisk og strukturert tilnærming til problemløsning",
-      "Tar initiativ og ansvar for oppgaver",
-      "Arbeider selvstendig og effektivt",
-      "Rask til å sette seg inn i nye teknologier og metoder",
-      "Trives i team og bidrar til felles mål",
-      "Erfaring med tverrfaglig teamarbeid",
-      "Evne til å omsette data til forretningsverdi",
-      "Sterk forståelse for teknologi i forretningskontekst",
-      "Ledererfaring fra militæret og studenthjem",
-      "Deler kunnskap og veileder andre"
+      "Rask til å sette seg inn i nye teknologier og rammeverk"
     ],
-    "languages": [
-      {
-        "language": "Norsk",
-        "proficiency": "Morsmål"
-      },
-      {
-        "language": "Engelsk",
-        "proficiency": "Flytende"
-      }
-    ],
+    "languages": [],
     "independent_projects": [
       {
         "name": "Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading",
-        "description": "Utviklet prediksjons- og beslutningsmodeller for finansielle tidsserier med fokus på usikkerhetskvantifisering og praktisk anvendelse innenfor finans.\n",
+        "description": "Utviklet rammeverk for prediksjon og automatisert handel under usikkerhet, med fokus på systemdesign og praktisk AI-anvendelse.\n",
         "location": "NTNU, Trondheim",
         "duration": "2025",
         "achievements": [
-          "Designet et Bayesiansk nevralt nettverk i Python for prediksjon av Bitcoin-prisen med usikkerhetsestimater.",
-          "Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-algoritme for automatisert handel."
+          "Designet et Bayesiansk nevralt nettverk i Python for prediksjon med usikkerhetsestimater.",
+          "Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-agent for automatisert handel."
+        ]
+      },
+      {
+        "name": "Web-applikasjon – Programvareutvikling",
+        "description": "Fullstack web-applikasjon utviklet i team med agile arbeidsmetoder.\n",
+        "location": "NTNU, Trondheim",
+        "duration": "2022",
+        "achievements": [
+          "Bidro til frontend i React med TypeScript og backend i Python/Django.",
+          "Brukte Git, kodegjennomganger og agile arbeidsformer gjennom hele prosjektet."
         ]
       },
       {
         "name": "Store, distribuerte datamengder – Databasesystem",
-        "description": "Selvstendig prosjekt med design og implementering av databasesystemer for store datamengder.\n",
+        "description": "Design og implementering av databasesystemer for store datamengder.\n",
         "location": "NTNU, Trondheim",
         "duration": "2024",
         "achievements": [
-          "Designet og utviklet databaser i SQL (MySQL) og NoSQL (MongoDB) for store datamengder.",
-          "Satte opp og konfigurerte databasene lokalt med Docker.",
-          "Gjennomførte data analytics og komplekse spørringer mot databasene med Python."
-        ]
-      },
-      {
-        "name": "Maskinlæring – Prediksjon av strømproduksjon",
-        "description": "Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.\n",
-        "location": "NTNU, Trondheim",
-        "duration": "2023",
-        "achievements": [
-          "Trente og evaluerte maskinlæringsmodeller i Python for prediksjon av strømproduksjon fra solceller.",
-          "Bearbeidet og analyserte værdata som grunnlag for modellene."
+          "Utviklet databaser i SQL (MySQL) og NoSQL (MongoDB), hostet med Docker.",
+          "Gjennomførte data analytics og komplekse spørringer med Python."
         ]
       },
       {
@@ -403,29 +354,19 @@ const applicationData: ApplicationData = {
         "location": "NTNU, Trondheim",
         "duration": "2023",
         "achievements": [
-          "Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av strømforbruk.",
-          "Jobbet med datarensing, feature engineering og analyse av tidsseriedata.",
-          "Presenterte funn og innsikt fra data med vekt på praktisk forretningsverdi."
-        ]
-      },
-      {
-        "name": "Web-applikasjon – Programvareutvikling",
-        "description": "Teamprosjekt med utvikling av en fullstack web-applikasjon.\n",
-        "location": "NTNU, Trondheim",
-        "duration": "2022",
-        "achievements": [
-          "Bidro til utvikling av frontend i React med TypeScript.",
-          "Jobbet etter agile arbeidsmetoder i team med kodegjennomganger og versjonskontroll med Git."
+          "Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av tidsseriedata.",
+          "Jobbet med datarensing, feature engineering og analyse.",
+          "Presenterte funn og innsikt i team med vekt på praktisk anvendelse."
         ]
       }
     ]
   },
   "cover_letter": {
     "name": "Elias Lerheim Birkeland",
-    "company": "Microsoft University",
-    "position": "Trainee – Microsoft University 2026",
-    "primary_focus": "data_engineer",
-    "date": "16. mars 2026",
+    "company": "Loop Academy",
+    "position": "Utvikler – Loop Academy x Telenor 2026",
+    "primary_focus": "junior_developer",
+    "date": "19. mars 2026",
     "personal_info": {
       "phone": "94164312",
       "email": "birkeland.elias@outlook.com",
@@ -434,13 +375,12 @@ const applicationData: ApplicationData = {
       "github": "https://github.com/elibir"
     },
     "content": {
-      "letter_title": "Søknad – Trainee Microsoft University 2026",
+      "letter_title": "Søknad – Utvikler, Loop Academy x Telenor 2026",
       "opening_line": " ",
       "body": [
-        "Jeg søker herved om plass på Microsoft University 2026. Som nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi, AI og finans, er jeg særlig interessert i følgende fem spesialiseringsområder: Microsoft Azure Data Engineer, Microsoft AI & Data Science, Microsoft Power Platform, Microsoft D365 Finance & Operations og Microsoft D365 Business Central.\n",
-        "Min bakgrunn passer godt til fagområdene innen data og AI. Under internshipet hos Kystverket arbeidet jeg med data engineering i Python: innhenting og sammenstilling av bildedata og geografiske data fra ulike API-er, strukturering av datasett og utvikling av maskinlæringsmodeller for bildegjenkjenning (computer vision). I masteroppgaven ved NTNU designet jeg et Bayesiansk nevralt nettverk og en Proximal Policy Optimization (PPO) reinforcement learning-algoritme i Python for prediksjon og automatisert handel i finansielle tidsserier. Gjennom studiene har jeg i tillegg arbeidet med design og implementering av SQL- og NoSQL-databaser (MySQL og MongoDB) med Docker, og gjennomført data analytics med Python mot store datasett.\n",
-        "For fagområdene Microsoft D365 Finance & Operations og Microsoft D365 Business Central er masterprofilen min i investering, finans og økonomistyring nyttig – den gir meg forretningsforståelse for ERP-systemer, mens den tekniske bakgrunnen gjør at jeg raskt kan forstå og jobbe med de underliggende løsningene. Microsoft Power Platform er et naturlig neste steg gitt min data- og analysebakgrunn – automatisering og lavkodeutvikling er verktøy jeg ser stor verdi i å mestre.\n",
-        "Data og AI er fagområdene jeg er mest interessert i, og der jeg ønsker å bygge karrieren. Microsoft University appellerer til meg fordi det gir en konkret inngang til nettopp dette – med strukturert opplæring og reelt arbeid fra første dag. Jeg trives godt i miljøer der man forventes å lære raskt og ta ansvar, og ser dette som en god start på karrieren.\n"
+        "Jeg er nyutdannet sivilingeniør i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi og kunstig intelligens. Jeg søker plassen i Loop Academys program fordi det gir en direkte vei fra AI-bakgrunn til profesjonell utvikling – akkurat den overgangen jeg ønsker å gjøre.\n",
+        "Gjennom studiet har jeg opparbeidet meg erfaring med programmering og systemutvikling på tvers av flere prosjekter. I sommerinternshipet hos Kystverket jobbet jeg i team med å utvikle maskinlæringsmodeller for bildegjenkjenning i Python, stod for datapipelines fra ulike API-er og leverte fungerende kodebase, teknisk rapport og presentasjon til ledelsen. I masteroppgaven bygde jeg et system for prediksjon og automatisert handel, der jeg kombinerte bayesianske nevrale nettverk med reinforcement learning i Python. I faget Programvareutvikling jobbet jeg i team med å utvikle en fullstack webapplikasjon med TypeScript og Python, og i Store, distribuerte datamengder designet og implementerte jeg databaser i MySQL og MongoDB med Docker. Som læringsassistent ved NTNU veiledet jeg studenter i Java i faget Objektorientert programmering.\n",
+        "Jeg trives godt med strukturerte læringsopplegg og tydelige forventninger. Fysisk undervisning i små grupper er en arbeidsform som har fungert godt for meg, og jeg liker å jobbe intensivt mot et konkret mål. Jeg er analytisk, lærer raskt og trives i team.\n"
       ],
       "signature": "Med vennlig hilsen,\nElias Lerheim Birkeland\n"
     }

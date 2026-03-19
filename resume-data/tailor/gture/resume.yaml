@@ -1,0 +1,138 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/elias-birkeland.jpeg'
+  title: 'Sivilingeniør | Industriell økonomi og teknologiledelse'
+  summary: >
+    Nyutdannet sivilingeniør (jan 2026) fra NTNU med spesialisering i datateknologi og kunstig
+    intelligens. Har praktisk erfaring med maskinlæring, Python, SQL og React fra både internship
+    og studieprosjekter. Liker å jobbe i team, er nysgjerrig av natur og trives med å ta ansvar –
+    fra idé til ferdig leveranse.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  skills:
+    - 'Nysgjerrig og lærevillig – trives med nye teknologier og problemstillinger'
+    - 'Lagspiller som bidrar aktivt til teamets felles mål'
+    - 'Tar initiativ og ansvar fra dag én'
+    - 'Erfaring med agil arbeidsmetode og kodegjennomganger'
+    - 'God kommunikasjon på norsk og engelsk'
+    - 'Rask til å sette seg inn i nye domener og teknologier'
+    - 'Ledererfaring fra militæret'
+
+  professional_experience:
+    - company: 'Kystverket'
+      position: 'Sommerintern – Maskinlæring og data engineering'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Utviklet maskinlæringsmodeller for bildegjenkjenning (computer vision) i Python.'
+        - 'Hentet inn og sammenstilte bildedata og geografiske data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering i Roboflow for å bygge trenings- og testdatasett.'
+        - 'Leverte kodebase, teknisk rapport og presentasjon for ledelsen.'
+
+    - company: 'NTNU – Fakultet for informasjonsteknologi og elektroteknikk'
+      position: 'Læringsassistent'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Veiledet studenter i TDT4100 – Objektorientert programmering med Java.'
+        - 'Ga tilbakemelding på øvingsarbeid og støttet faglig utvikling i gruppen.'
+
+    - company: 'Diverse stillinger'
+      position: 'Diverse stillinger'
+      location: 'Langevåg / Trondheim'
+      duration: '03.2019 – 08.2021'
+      achievements:
+        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær – Utlån og vedlikehold av utstyr, kundeservice og enklere praktisk arbeid.'
+        - '05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg – Varepåfylling og kassearbeid.'
+        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste og planla timer i flere fag.'
+        - '03.2019 – 06.2019: Assistent, Langevåg skule – Assistent på 1.–4. trinn og SFO.'
+
+    - company: 'Forsvaret – Garnisonen i Sør-Varanger'
+      position: 'Troppsassistent / Lagfører'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Lagfører med direkte lederansvar for soldater under øvelser. Vurdering: «utmerket».'
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp i 18 måneder.'
+
+  independent_projects:
+    - name: 'Masteroppgave: Uncertainty-Aware Bitcoin Forecasting and Trading'
+      location: 'NTNU, Trondheim'
+      duration: '2025'
+      description: >
+        Bygde prediksjons- og beslutningsmodeller for finansielle tidsserier med
+        fokus på usikkerhetskvantifisering og praktisk AI-anvendelse.
+      achievements:
+        - 'Designet et Bayesiansk nevralt nettverk i Python for prediksjon med usikkerhetsestimater.'
+        - 'Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-agent for automatisert handel.'
+
+    - name: 'Store, distribuerte datamengder – Databasesystem'
+      location: 'NTNU, Trondheim'
+      duration: '2024'
+      description: >
+        Designet og implementerte databasesystemer for store datamengder.
+      achievements:
+        - 'Utviklet databaser i SQL (MySQL) og NoSQL (MongoDB) med Docker.'
+        - 'Gjennomførte data analytics og komplekse spørringer med Python.'
+
+    - name: 'Maskinlæring – Prediksjon av strømproduksjon (TDT4173)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      description: >
+        Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.
+      achievements:
+        - 'Trente og evaluerte maskinlæringsmodeller i Python for prediksjon av strømproduksjon fra solceller.'
+        - 'Bearbeidet og analyserte værdata som grunnlag for modellene.'
+        - 'Jobbet i team med fokus på modellytelse og praktisk anvendelse av teori innen veiledet læring.'
+
+    - name: 'Anvendt Data Science – Prediksjon av strømforbruk (TDT4259)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      description: >
+        Teamarbeid med utvikling av modeller for prediksjon av strømforbruk i 5 nordiske byer.
+      achievements:
+        - 'Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av strømforbruk.'
+        - 'Jobbet med datarensing, feature engineering og analyse av tidsseriedata.'
+        - 'Presenterte funn og innsikt fra data med vekt på praktisk forretningsverdi.'
+
+    - name: 'Web-applikasjon – Programvareutvikling'
+      location: 'NTNU, Trondheim'
+      duration: '2022'
+      description: >
+        Fullstack-webapp utviklet i team med agil metode.
+      achievements:
+        - 'Bidro til frontend i React med TypeScript og backend i Python.'
+        - 'Brukte Git, kodegjennomganger og agile arbeidsformer gjennom hele prosjektet.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'Sivilingeniør, industriell økonomi og teknologiledelse'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      details:
+        teknologiretning: 'Datateknologi med kunstig intelligens'
+        fagretning: 'Kunstig intelligens'
+        masterprofil: 'Investering, finans og økonomistyring'
+        karaktersnitt: '3.3 (285/300 studiepoeng)'
+        relevante_emner:
+          - 'Maskinlæring (TDT4173, TDT4172): Veiledet, uveiledet og forsterkningslæring.'
+          - 'Store, distribuerte datamengder (TDT4225): SQL og NoSQL med Docker.'
+          - 'Datavarehus og datagruvedrift (TDT4300): Klassifisering, klynging og mønstergjenkjenning.'
+          - 'Programvareutvikling: React/TypeScript og Python i agilt team.'
+    - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+      program: 'Ballsport'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'
+    - institution: 'Luftforsvarets flygeskole'
+      program: 'Seleksjonsflyging'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      details:
+        beskrivelse: >
+          Blant de siste 50 av 1426 søkere. 7 eksamener med minst 90% score og 9 flytimer.

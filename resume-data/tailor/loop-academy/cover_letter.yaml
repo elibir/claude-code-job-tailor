@@ -1,0 +1,44 @@
+version: '2.0.0'
+analysis_date: '2026-03-19'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Loop Academy'
+  position: 'Utvikler – Loop Academy x Telenor 2026'
+  primary_focus: 'junior_developer'
+  date: '19. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknad – Utvikler, Loop Academy x Telenor 2026'
+    opening_line: ' '
+    body:
+      - >
+        Jeg er nyutdannet sivilingeniør i industriell økonomi og teknologiledelse fra NTNU, med
+        spesialisering i datateknologi og kunstig intelligens. Jeg søker plassen i Loop Academys
+        program fordi det gir en direkte vei fra AI-bakgrunn til profesjonell utvikling – akkurat
+        den overgangen jeg ønsker å gjøre.
+      - >
+        Gjennom studiet har jeg opparbeidet meg erfaring med programmering og systemutvikling på
+        tvers av flere prosjekter. I sommerinternshipet hos Kystverket jobbet jeg i team med å
+        utvikle maskinlæringsmodeller for bildegjenkjenning i Python, stod for datapipelines fra
+        ulike API-er og leverte fungerende kodebase, teknisk rapport og presentasjon til ledelsen.
+        I masteroppgaven bygde jeg et system for prediksjon og automatisert handel, der jeg
+        kombinerte bayesianske nevrale nettverk med reinforcement learning i Python. I faget
+        Programvareutvikling jobbet jeg i team med å utvikle en fullstack webapplikasjon med
+        TypeScript og Python, og i Store, distribuerte datamengder designet og implementerte jeg
+        databaser i MySQL og MongoDB med Docker. Som læringsassistent ved NTNU veiledet jeg
+        studenter i Java i faget Objektorientert programmering.
+      - >
+        Jeg trives godt med strukturerte læringsopplegg og tydelige forventninger. Fysisk
+        undervisning i små grupper er en arbeidsform som har fungert godt for meg, og jeg liker
+        å jobbe intensivt mot et konkret mål. Jeg er analytisk, lærer raskt og trives i team.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

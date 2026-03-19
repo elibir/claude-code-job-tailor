@@ -16,6 +16,7 @@ export const EducationSchema = z.object({
   program: z.string().min(1),
   location: z.string().min(1),
   duration: z.string().min(1),
+  specializations: z.array(z.string().min(1)).optional(),
 });
 
 export const ContactDetailsSchema = z.object({
@@ -58,6 +59,7 @@ export const ResumeSchema = z.object({
   skills: z.array(z.string().min(1)).optional().default([]),
   languages: z.array(LanguageSchema).optional().default([]),
   independent_projects: z.array(IndependentProjectSchema).optional().default([]),
+  volunteer_experience: z.array(ProfessionalExperienceSchema).optional(),
 });
 
 // Common primary area examples (not exhaustive):

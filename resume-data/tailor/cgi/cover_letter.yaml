@@ -1,0 +1,44 @@
+version: '2.0.0'
+analysis_date: '2026-03-17'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'CGI Norge'
+  position: 'Graduate 2026 – Business Analyst'
+  primary_focus: 'junior_engineer'
+  date: '17. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknad – Graduate 2026, Business Analyst'
+    opening_line: ' '
+    body:
+      - >
+        Jeg søker stillingen som Business Analyst i CGIs Graduate-program 2026. Jeg er nyutdannet
+        sivilingeniør fra NTNU med spesialisering i datateknologi og kunstig intelligens, og ser
+        på dette programmet som en god start på en karriere innen IT-konsulentbransjen.
+      - >
+        Gjennom studiet og internshipet hos Kystverket har jeg jobbet praktisk med dataanalyse,
+        scripting og databasearbeid. Hos Kystverket hentet jeg inn og sammenstilte data fra ulike
+        API-er, bygde datasett og leverte teknisk rapport og presentasjon for ledelsen. I masteroppgaven
+        utviklet jeg kvantitative modeller i Python for finansielle tidsserier, noe som krevde
+        strukturert datahåndtering og analyse over tid. I universitetsprosjekter har jeg jobbet med
+        SQL og NoSQL-databaser, feature engineering og tidsserieanalyse i Python.
+      - >
+        Jeg jobber godt selvstendig og liker å ta ansvar for det jeg holder på med, men trives like
+        godt i team. Jeg er analytisk og liker å forstå sammenhengen bak problemene jeg jobber med,
+        ikke bare løse dem på overflaten.
+      - >
+        CGI tiltrekker meg fordi dere tar programmet seriøst. Fast ansettelse fra dag én, et reelt
+        fokus på faglig utvikling gjennom CGI Academia og en mentorordning som faktisk gir støtte
+        underveis, er ting som betyr noe for meg når jeg skal starte karrieren. Det at dere også
+        legger vekt på et godt arbeidsmiljø med fleksibilitet og sosiale aktiviteter er en bonus.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

@@ -2,10 +2,12 @@ import React from 'react';
 import { renderToFile } from '@react-pdf/renderer';
 import { mkdir } from 'fs/promises';
 import path from 'path';
+import { pathToFileURL } from 'url';
 import { themes } from '@templates/index';
 import { DOCUMENT_TYPES } from '@shared/core/config';
 import { loggers } from '@shared/core/logger';
 import { tryCatchAsync } from '@shared/core/functional-utils';
+import { PathHelpers } from '@shared/core/path-helpers';
 import type { SuccessResult, ErrorResult } from '@shared/validation/types';
 
 export interface GenerateDocumentParams {
@@ -117,9 +119,23 @@ const generateSingleDoc = async ({
   outputDir: string;
   companyName: string;
 }): Promise<GeneratedDocument> => {
+  // Resolve web-relative image paths (e.g. /img/...) to file:// URLs for PDF rendering
+  const resolveImagePath = (webPath: string | undefined): string | undefined => {
+    if (!webPath) return webPath;
+    if (webPath.startsWith('/img/')) {
+      const absolutePath = path.join(PathHelpers.getProjectRoot(), 'src', 'public', webPath);
+      return pathToFileURL(absolutePath).href;
+    }
+    return webPath;
+  };
+
+  const resumeData = applicationData.resume
+    ? { ...applicationData.resume, profile_picture: resolveImagePath(applicationData.resume.profile_picture) }
+    : undefined;
+
   const component =
     docType === DOCUMENT_TYPES.RESUME
-      ? React.createElement(theme.components.resume, { data: applicationData.resume ?? undefined })
+      ? React.createElement(theme.components.resume, { data: resumeData })
       : React.createElement(theme.components.coverLetter, {
           data: applicationData.cover_letter ?? undefined,
         });

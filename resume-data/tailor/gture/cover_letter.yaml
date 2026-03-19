@@ -1,0 +1,41 @@
+version: '2.0.0'
+analysis_date: '2026-03-17'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Gture'
+  position: 'Tech Graduate 2026'
+  primary_focus: 'junior_engineer'
+  date: '17. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknad – Tech Graduate 2026'
+    opening_line: 'Til Gture,'
+    body:
+      - >
+        Jeg søker stillingen som Tech Graduate 2026 hos Gture. Som nyutdannet sivilingeniør (jan 2026)
+        fra NTNU med spesialisering i datateknologi og kunstig intelligens, er jeg genuint interessert
+        i å jobbe i et selskap som faktisk gjør det andre bare snakker om – og som satser seriøst på
+        KI gjennom gture.ai.
+      - >
+        Jeg har praktisk erfaring med maskinlæring og Python fra internshipet mitt hos Kystverket, der
+        jeg bygde bildegjenkjenningsmodeller, hentet inn og sammenstilte data fra ulike API-er, og
+        leverte kodebase og teknisk rapport for ledelsen. I masteroppgaven min gikk jeg enda dypere:
+        jeg designet et Bayesiansk nevralt nettverk for prediksjon med usikkerhetsestimater og
+        implementerte en reinforcement learning-agent i Python. I studieprosjekter har jeg jobbet med
+        SQL og NoSQL-databaser i Docker, og bidratt til en React/TypeScript-webapp i agilt team.
+      - >
+        Det som tiltrekker meg ved Gture er kombinasjonen av reelle kundeprosjekter fra dag én,
+        muligheten til å jobbe på tvers av teknologi og AI, og et miljø der man faktisk får påvirke
+        retningen sin. Jeg er en lagspiller som liker å lære raskt, ta ansvar og bidra til noe
+        konkret. Jeg ser frem til en prat om hvordan jeg kan bidra til teamet.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

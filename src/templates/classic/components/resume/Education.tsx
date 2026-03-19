@@ -48,6 +48,22 @@ const styles = StyleSheet.create({
     paddingTop: spacing.pagePadding / 2,
     marginBottom: spacing.pagePadding / 2,
   },
+  specializationItem: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 1,
+  },
+  bullet: {
+    fontSize: 9,
+    color: colors.darkGray,
+    marginRight: 6,
+  },
+  specializationText: {
+    flex: 1,
+    fontSize: 9,
+    color: colors.darkGray,
+    lineHeight: 1.4,
+  },
 });
 
 const Education = ({ resume, debug = false }: { resume: ResumeSchema; debug?: boolean }) => {
@@ -71,6 +87,16 @@ const Education = ({ resume, debug = false }: { resume: ResumeSchema; debug?: bo
             </Text>
           </View>
           <Text style={styles.program}>{edu.program}</Text>
+          {edu.specializations && edu.specializations.length > 0 && (
+            <View>
+              {edu.specializations.map((spec, i) => (
+                <View key={i} style={styles.specializationItem}>
+                  <Text style={styles.bullet}>•</Text>
+                  <Text style={styles.specializationText}>{spec}</Text>
+                </View>
+              ))}
+            </View>
+          )}
         </View>
       ))}
     </View>

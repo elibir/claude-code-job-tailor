@@ -1,0 +1,136 @@
+version: '2.0.0'
+analysis_date: '2026-03-17'
+source: 'https://gture.com/jobbe-hos-oss'
+
+job_analysis:
+  company: 'Gture'
+  position: 'Tech Graduate 2026'
+  job_focus:
+    - primary_area: 'junior_engineer'
+      specialties: ['ai', 'ml', 'python', 'backend']
+      weight: 0.6
+    - primary_area: 'engineer'
+      specialties: ['react', 'mobile', 'devops', 'architecture']
+      weight: 0.4
+  location: 'Oslo, Norway'
+  employment_type: 'Full-time'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Mastergrad i relevant studieretning'
+        priority: 10
+      - skill: 'Python'
+        priority: 9
+      - skill: 'Norsk og engelsk kommunikasjon'
+        priority: 9
+      - skill: 'Relevant arbeidserfaring (internship/deltidsjobb)'
+        priority: 8
+      - skill: 'AI / Maskinlæring'
+        priority: 8
+      - skill: 'SQL/NoSQL'
+        priority: 7
+      - skill: 'React / Vue / NextJS'
+        priority: 6
+    nice_to_have_skills:
+      - skill: 'LlamaIndex / LangChain'
+        priority: 7
+      - skill: 'Docker / Kubernetes'
+        priority: 6
+      - skill: 'Skyplattformer (Azure, AWS, GCP)'
+        priority: 6
+      - skill: 'Flutter / React Native'
+        priority: 5
+      - skill: '.NET / C#'
+        priority: 4
+    soft_skills:
+      - 'Lagspiller'
+      - 'Nysgjerrig og interessert'
+      - 'God kommunikasjon'
+      - 'Selvstendig'
+      - 'Liker å ha det gøy på jobb'
+    experience_years: 0
+    education: 'Mastergrad i relevant studieretning (f.eks. Datateknologi, Kybernetikk – NTNU)'
+
+  responsibilities:
+    primary:
+      - 'Jobbe på kundeprosjekter fra dag én innen app-, web- og softwareutvikling'
+      - 'Bidra til utvikling av AI/ML-løsninger og digitale produkter'
+      - 'Delta i smidig teamarbeid på tvers av design, teknologi og produktledelse'
+      - 'Bygge spesialkompetanse innen AI, maskinlæring, IoT, DevSecOps eller big data'
+      - 'Utvikle seg mot teknologi- og prosjektlederrollen over tid'
+    secondary:
+      - 'Bidra til å forme Gtures videre utvikling som selskap'
+      - 'Samarbeide i globalt nettverk i tillegg til lokalt team i Norge'
+      - 'Utforske og anvende lavkode-plattformer som Appfarm'
+
+  role_context:
+    department: 'Teknologi'
+    team_size: '20 ansatte (design, teknologi, prosjekt- og produktledelse)'
+    key_points:
+      - 'Jobbe på reelle kundeprosjekter fra dag én – fra startups til store selskaper'
+      - 'Satser stort på KI via gture.ai – AI er et kjerneområde'
+      - 'Ikke et tradisjonelt konsulentselskap: skreddersydde team, smidig metode'
+      - 'Rask karriereutvikling mot teknologi- og prosjektlederroller'
+      - 'Dynamisk miljø med 20 ansatte og globalt nettverk'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Mastergrad fra NTNU Datateknologi med AI-spesialisering – eksakt match på kravprofil'
+      - 'Python og maskinlæring fra masteroppgave og internship hos Kystverket'
+      - 'SQL (MySQL) og NoSQL (MongoDB) fra universitetsprosjekter'
+      - 'React og TypeScript fra programvareutviklingsprosjekt'
+      - 'Norsk morsmål og flytende engelsk'
+      - 'Relevant internship-erfaring (Kystverket, sommeren 2023)'
+    gaps_to_address:
+      - 'LlamaIndex og LangChain – ikke brukt direkte, men AI/ML-grunnlaget er sterkt'
+      - 'Docker/Kubernetes – kun Docker brukt i studier'
+      - 'Skyplattformer (Azure, AWS, GCP) – ingen direkte erfaring'
+    transferable_skills:
+      - 'Bayesiansk nevral nettverkstrening → LLM-rammeverk som LangChain'
+      - 'Docker i universitetsprosjekter → Docker/Kubernetes i produksjonsmiljø'
+      - 'API-integrasjon og Python → backend-utvikling med Node/.NET'
+    emphasis_strategy: 'Led med NTNU AI-mastergrad og Kystverket ML-internship; vis bredde innen Python, SQL og React'
+
+  section_priorities:
+    technical_expertise:
+      - 'ai_machine_learning'
+      - 'programmering'
+      - 'data_og_databaser'
+      - 'frontend_og_web'
+    experience_focus: 'Fremhev ML-modellering fra masteroppgave og bildegjenkjenning fra Kystverket-internship'
+    project_relevance: 'Inkluder: masteroppgave (AI/finans), Kystverket (ML), store datamengder (SQL/NoSQL/Docker), React-webapp. Nedprioritér: ikke-tekniske roller'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'AI/maskinlæring'
+      - 'Python'
+      - 'NTNU Datateknologi med AI'
+    EMPHASIZE:
+      - 'kundeprosjekter og praktisk leveranse'
+      - 'agil arbeidsmetode'
+      - 'bredde i teknologistack'
+    QUANTIFY:
+      - 'modellytelse fra masteroppgave'
+      - 'datasett og datamengder fra prosjekter'
+      - 'akademiske resultater'
+    DOWNPLAY:
+      - 'ikke-tekniske deltidsjobber'
+      - 'militær bakgrunn (utover ledererfaring)'
+
+  ats_analysis:
+    title_variations:
+      - 'Tech Graduate 2026'
+      - 'Graduate Developer'
+      - 'Nyutdannet utvikler'
+    critical_phrases:
+      - 'mastergrad i relevant studieretning'
+      - 'AI og maskinlæring'
+      - 'Python og SQL'
+      - 'agil metode'
+      - 'kundeprosjekter fra dag én'
+
+  application_info:
+    posting_url: 'https://gture.com/jobbe-hos-oss'
+    posting_date: '2026-03-17'
+    deadline: 'Løpende behandling'
