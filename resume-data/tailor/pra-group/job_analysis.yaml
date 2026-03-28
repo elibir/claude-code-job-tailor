@@ -1,0 +1,162 @@
+version: '2.0.0'
+analysis_date: '2026-03-19'
+source: 'Job posting from PRA Group Europe via Finn.no'
+
+job_analysis:
+  company: 'PRA Group Europe'
+  position: 'Portfolio Analyst'
+  job_focus:
+    - primary_area: 'data_analyst'
+      specialties: ['python', 'ml', 'forecasting', 'statistical_modelling', 'finance']
+      weight: 0.7
+    - primary_area: 'data_analyst'
+      specialties: ['sql', 'data_engineering', 'analytics']
+      weight: 0.2
+    - primary_area: 'data_analyst'
+      specialties: ['communication', 'stakeholder_management', 'business_context']
+      weight: 0.1
+  location: 'Oslo, 0191 Oslo'
+  employment_type: 'Full-time'
+  experience_level: 'Junior to Mid-level'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Python for data analysis and modelling'
+        priority: 10
+      - skill: 'Predictive and statistical models'
+        priority: 10
+      - skill: 'Machine learning (regression, pricing, forecasting)'
+        priority: 9
+      - skill: 'SQL and structured datasets'
+        priority: 9
+      - skill: "Master's degree in quantitative field"
+        priority: 8
+      - skill: 'Finance or economics business context'
+        priority: 8
+      - skill: 'Communicating analytical insights to stakeholders'
+        priority: 7
+      - skill: 'English fluency'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Power BI'
+        priority: 6
+      - skill: 'R'
+        priority: 5
+      - skill: 'Azure DevOps / Git'
+        priority: 5
+    soft_skills:
+      - 'Takes ownership of analytical work'
+      - 'Works cross-functionally across teams and markets'
+      - 'Translates business needs into analytical solutions'
+      - 'Presents complex findings clearly to non-technical stakeholders'
+      - 'Collaborative and knowledge-sharing mindset'
+    experience_years: 0
+    education: "Master's in Mathematics, Statistics, Computer Science, Data Science, Industrial Economics, Physics or related"
+
+  responsibilities:
+    primary:
+      - 'Develop and improve valuation models for investment portfolios'
+      - 'Build and validate predictive models using ML and statistical methods'
+      - 'Present valuations and analytical insights to Investment Committee'
+      - 'Own valuation work for a specific European market'
+      - 'Work cross-functionally with Investment Directors and operational teams'
+    secondary:
+      - 'Translate business needs into analytical improvements'
+      - 'Contribute to PRA Group Analytical Labs (ML and AI in investment)'
+      - 'Improve investment and collections strategies'
+
+  role_context:
+    department: 'Investment / Analytics'
+    team_size: 'Collaborative close-knit analytical team'
+    key_points:
+      - 'Python-exclusive analytical environment'
+      - 'End-to-end analytical lifecycle: raw data → investment case'
+      - 'Direct influence on investment decisions across European markets'
+      - 'Investment Committee presentations = high visibility'
+      - 'Analytical Labs initiative: ML and AI development in-house'
+      - 'Cross-European collaboration across markets and operational teams'
+
+  candidate_alignment:
+    strong_matches:
+      - "Master's thesis: Bayesian NN + PPO for financial time series prediction — directly maps to their valuation/forecasting work"
+      - 'Python as primary language throughout studies and internship'
+      - 'Supervised and unsupervised ML from multiple NTNU courses (TDT4173, TDT4259)'
+      - 'SQL and database design (TDT4145, TDT4225)'
+      - "MSc profile in Investment and Finance — rare technical + finance combination"
+      - 'Industrial Economics background = business context understanding'
+      - 'Kystverket: delivered working models + report + management presentation'
+      - 'English fluency'
+      - 'Git experience'
+    gaps_to_address:
+      - 'No Power BI experience (only an advantage, not required)'
+      - 'No direct credit risk or non-performing loan domain experience'
+      - 'No Azure DevOps specifically (has Git)'
+    transferable_skills:
+      - 'Bitcoin price forecasting under uncertainty → portfolio valuation under uncertainty'
+      - 'PPO for automated trading decisions → investment decision support models'
+      - 'Kystverket management presentation → Investment Committee presentations'
+      - 'Time series analysis in thesis → collections performance forecasting'
+      - 'Finance masterprofil → investment logic and valuation thinking'
+    emphasis_strategy: >
+      Lead with the master thesis as the anchor — it is a financial ML project at the
+      intersection of predictive modelling and decision-making under uncertainty. Reinforce
+      with Python ML skills, SQL, and the finance masterprofil. Highlight the ability to
+      communicate analytical findings to management (Kystverket). Keep the cover letter
+      focused on the direct overlap between the thesis and their analytical work.
+
+  section_priorities:
+    technical_expertise:
+      - 'Machine Learning & AI (Python, Bayesian NN, RL, time series)'
+      - 'Data & Databases (SQL, MongoDB, analytics)'
+      - 'Tools & Methods (Git, R, statistical modelling)'
+    experience_focus: 'Lead with Kystverket ML work and management presentation; show Forsvaret briefly for character'
+    project_relevance: >
+      Masteroppgave is the star — financial forecasting under uncertainty.
+      Include Applied Data Science (time series forecasting) and ML production project.
+      SQL database project supports the data/SQL requirement.
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Master thesis: financial time series prediction with Bayesian NN and uncertainty quantification'
+      - 'Python as primary language — aligns with their exclusive Python environment'
+      - 'Finance and investment understanding from MSc profile'
+    EMPHASIZE:
+      - 'Supervised ML for forecasting (multiple projects)'
+      - 'SQL and structured data work'
+      - 'Presenting analytical findings to management'
+      - 'Cross-functional team experience'
+    QUANTIFY:
+      - 'Master thesis: 2-stage framework, Bayesian NN + PPO agent'
+      - 'Kystverket: delivered to management within 3-month internship'
+      - 'NTNU: GPA 3.3 across 285/300 ECTS'
+    DOWNPLAY:
+      - 'Frontend/web skills (not relevant)'
+      - 'Java and JavaScript (not relevant to this role)'
+      - 'Forsvaret details (keep brief)'
+
+  ats_analysis:
+    title_variations:
+      - 'Portfolio Analyst'
+      - 'Data Analyst'
+      - 'Quantitative Analyst'
+    critical_phrases:
+      - 'predictive models'
+      - 'machine learning'
+      - 'Python'
+      - 'SQL'
+      - 'investment'
+      - 'forecasting'
+      - 'statistical modelling'
+      - 'valuation'
+
+  application_info:
+    posting_url: 'https://www.finn.no/jobb/stilling/?finnkode=385635987'
+    posting_date: '2026-03-19'
+    deadline: 'As soon as possible'
+    contact:
+      - name: 'Stian Iversen'
+        phone: '+47 995 27 314'
+        company: 'Orion & Partners'
+      - name: 'Elise Myhren'
+        phone: '+47 940 15 127'
+        company: 'Orion & Partners'

@@ -75,7 +75,7 @@ const Education = ({ resume, debug = false }: { resume: ResumeSchema; debug?: bo
   return (
     <View style={styles.container} debug={debug}>
       {/* Section title */}
-      <Text style={styles.sectionTitle}>UTDANNING</Text>
+      <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'EDUCATION' : 'UTDANNING'}</Text>
       <View style={styles.separator} />
       {/* Education entries */}
       {resume.education.map((edu, index) => (

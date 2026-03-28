@@ -1,0 +1,138 @@
+version: '2.0.0'
+analysis_date: '2026-03-28'
+source: 'Stillingsinformasjon fra Sopra Steria – FINN-kode 453431457'
+
+job_analysis:
+  company: 'Sopra Steria'
+  position: 'Nyutdannet Teknologi – Data og AI / Utvikling'
+  job_focus:
+    - primary_area: 'junior_engineer'
+      specialties: ['data', 'ai', 'python', 'backend', 'fullstack']
+      weight: 0.5
+    - primary_area: 'junior_engineer'
+      specialties: ['react', 'frontend', 'typescript', 'javascript']
+      weight: 0.3
+    - primary_area: 'junior_engineer'
+      specialties: ['consulting', 'communication', 'collaboration']
+      weight: 0.2
+  location: 'Oslo (Biskop Gunnerus gate 14A, 0185 Oslo)'
+  employment_type: 'Fast'
+  experience_level: 'Junior / Nyutdannet'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Teknisk mastergrad (NTNU sivilingeniør)'
+        priority: 10
+      - skill: 'Python og Data / AI'
+        priority: 9
+      - skill: 'Norsk kommunikasjon (muntlig og skriftlig)'
+        priority: 9
+      - skill: 'Fullstack-utvikling (React, JavaScript)'
+        priority: 8
+      - skill: 'Samarbeidsevner og kundeorientering'
+        priority: 8
+      - skill: 'Strukturert og målbevisst'
+        priority: 7
+      - skill: 'Sterke karakterer'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Skyplattformer (Azure, AWS, GCP)'
+        priority: 6
+      - skill: 'Prosjekterfaring med reelle leveranser'
+        priority: 6
+      - skill: 'Ledererfaring'
+        priority: 5
+      - skill: 'Sertifiseringer eller faglig engasjement'
+        priority: 4
+    soft_skills:
+      - 'Nysgjerrig og lærevillig'
+      - 'Kundeorientert'
+      - 'God til å samarbeide og bygge relasjoner'
+      - 'Strukturert og målbevisst'
+      - 'Kommuniserer godt på norsk'
+      - 'Initiativrik'
+    experience_years: 0
+    education: 'Teknisk eller økonomisk utdanning på minimum master-/sivilingeniørnivå'
+
+  responsibilities:
+    primary:
+      - 'Utvikle samfunnskritiske digitale løsninger for kunder i privat og offentlig sektor'
+      - 'Jobbe tett på kunder og brukere som teknologikonsulent'
+      - 'Bidra innen Data og AI eller fullstack-utvikling (React, backend)'
+      - 'Delta i Accelerate-programmet for faglig og personlig utvikling'
+      - 'Bygge nettverk og dele kunnskap i et konsulentmiljø'
+    secondary:
+      - 'Jobbe på tvers av bransjer i ulike prosjekter'
+      - 'Bidra til innovasjon og digitalisering hos kundene'
+      - 'Representere Sopra Sterias verdier og «Power of Sharing»-kultur'
+
+  role_context:
+    department: 'Teknologi – Data og AI / Utvikling'
+    team_size: 'Store tverrfaglige konsulentteam, Norges ledende IT-konsulentselskap'
+    key_points:
+      - 'Norges ledende konsulentselskap innen digitalisering, innovasjon og bærekraft'
+      - 'Kåret til Norges beste arbeidsplass flere år på rad'
+      - 'Accelerate-programmet gir faglig og personlig utvikling for nyutdannede'
+      - 'Prosjekter hos kunder i både privat og offentlig sektor'
+      - 'Sterk «Power of Sharing»-kultur – alltid noen å lære av'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Sivilingeniør fra NTNU med spesialisering i datateknologi og AI – perfekt match for Data og AI-spor'
+      - 'Python – brukt i maskinlæring, data engineering og masteroppgave'
+      - 'React og JavaScript – brukt i fullstack-prosjekt ved NTNU'
+      - 'SQL og databaser – TDT4145 og TDT4225 ved NTNU'
+      - 'Ledererfaring fra Forsvaret og NTNU (læringsassistent)'
+      - 'Norsk morsmål – sterk kommunikasjon på norsk'
+      - 'Masteroppgave med finansdomene – viser evne til selvstendig leveranse'
+      - 'Nyutdannet jan 2026 – oppfyller kravet om maks ett års erfaring'
+    gaps_to_address:
+      - 'Ingen formell konsulenterfaring – kompenseres med bred prosjekterfaring fra studier'
+      - 'Begrenset erfaring med skyplattformer (Azure/AWS) – noe Docker-erfaring'
+    transferable_skills:
+      - 'Kystverket-internship → prosjektarbeid tett på virksomhet og tekniske leveranser'
+      - 'Læringsassistent NTNU → kommunikasjon, pedagogikk og deling av kunnskap'
+      - 'Forsvaret → struktur, ansvarlighet og ledelse under press'
+      - 'Masteroppgave → selvstendig leveranse av kompleks teknisk løsning'
+    emphasis_strategy: 'Fremhev tverrfagligheten (AI + finans + utvikling), samarbeidsevner og evnen til å jobbe tett på kunder og levere konkrete resultater'
+
+  section_priorities:
+    technical_expertise:
+      - 'data_og_ai'
+      - 'programmering'
+      - 'frontend_og_web'
+      - 'verktoy_og_annet'
+    experience_focus: 'Fremhev Kystverket (teknisk leveranse til virksomhet), læringsassistent (deling og kommunikasjon), og Forsvaret (ledelse og ansvar)'
+    project_relevance: 'Inkluder masteroppgave (AI + finans, selvstendig leveranse) og fullstack-web (React/TypeScript). Nedprioriter rene AI-teori-prosjekter.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Data og AI-kompetanse fra NTNU og masteroppgave'
+      - 'Tverrfaglig bakgrunn: teknologi + finans + økonomi'
+    EMPHASIZE:
+      - 'Konkrete leveranser (Kystverket, masteroppgave, web-applikasjon)'
+      - 'Samarbeid og kommunikasjon (læringsassistent, Forsvaret)'
+      - 'Nysgjerrighet og lærevillighet – konsulentegenskaper'
+    QUANTIFY:
+      - 'Karaktersnitt og studiepoeng'
+      - 'Flypilot-seleksjon (topp 50 av 1426)'
+    DOWNPLAY:
+      - 'Rene AI-algoritmdetaljer (PPO, Bayesian NN)'
+      - 'Tekniske detaljer om maskinlæringsarkitektur'
+
+  ats_analysis:
+    title_variations:
+      - 'Nyutdannet konsulent'
+      - 'Data og AI-konsulent'
+      - 'Fullstack-utvikler'
+    critical_phrases:
+      - 'Data og AI'
+      - 'nyutdannet'
+      - 'konsulent'
+      - 'digitalisering'
+      - 'Python og React'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html?finnkode=453431457'
+    posting_date: '2026-03-10'
+    deadline: '2026-04-01'

@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
 
 const Title = ({ data }: { data: CoverLetterSchema }) => (
   <View style={styles.titleContainer}>
-    <Text style={styles.titleText}>Søknad – {data.position}</Text>
+    <Text style={styles.titleText}>{data.content.letter_title}</Text>
   </View>
 );
 

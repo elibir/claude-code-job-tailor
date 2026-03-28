@@ -1,0 +1,45 @@
+version: '2.0.0'
+analysis_date: '2026-03-28'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Sopra Steria'
+  position: 'Nyutdannet Teknologi 2026'
+  primary_focus: 'junior_engineer'
+  date: '28. mars 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Nyutdannet Teknologi 2026'
+    opening_line: ' '
+    body:
+      - >
+        Som nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU,
+        med spesialisering i datateknologi, kunstig intelligens og finans, er jeg genuint interessert
+        i å starte karrieren som konsulent – og Sopra Steria er det stedet jeg ønsker å begynne.
+      - >
+        Faglig er jeg godt rustet for Data og AI-fagområdet: gjennom studier og internship har jeg jobbet
+        med Python, maskinlæring, databaser (SQL og NoSQL) og utvikling med React og TypeScript.
+        Jeg er også interessert i utvikling og skyplattformer, selv om jeg har mindre erfaring med
+        sistnevnte. I internshipet hos Kystverket jobbet jeg i team med data engineering og
+        maskinlæring, og leverte kodebase, teknisk rapport og presentasjon for ledelsen – en erfaring
+        som ga meg god forståelse for hva det vil si å levere teknologi med reell forretningsverdi.
+        I masteroppgaven min utviklet jeg prediksjons- og beslutningsmodeller for finansielle tidsserier
+        i Python, med selvstendige leveranser fra design til implementasjon.
+      - >
+        Det som tiltrekker meg Sopra Steria er kombinasjonen av faglig bredde og det å jobbe tett på
+        kunder i samfunnskritiske prosjekter. Jeg trives best når jeg kan bidra til noe som faktisk
+        betyr noe – og lære mye underveis. Konsulentlivet passer meg godt: jeg er nysgjerrig, strukturert
+        og god til å kommunisere. Ledererfaring fra Forsvaret og rollen som læringsassistent ved NTNU
+        har lært meg å ta ansvar, jobbe i team og dele kunnskap med andre. «Power of Sharing»-kulturen
+        i Sopra Steria resonnerer direkte med slik jeg liker å jobbe. Jeg ser frem til en eventuell
+        samtale der vi kan diskutere hvordan jeg kan bidra i teamet.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

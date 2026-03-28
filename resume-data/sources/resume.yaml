@@ -90,7 +90,7 @@ soft_skills:
 independent_projects:
   - name: 'Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
     location: 'NTNU, Trondheim'
-    duration: '2025 – 2026'
+    duration: '2025'
     description: >
       Utviklet et to-stegs rammeverk for prediksjon av Bitcoin-prisen og automatisert handel under
       usikkerhet, med fokus på usikkerhetskvantifisering og praktisk anvendelse innenfor finans.
@@ -101,7 +101,7 @@ independent_projects:
 
   - name: 'Web-applikasjon – Programvareutvikling (TDT4100-prosjekt)'
     location: 'NTNU, Trondheim'
-    duration: '2023'
+    duration: '2022'
     description: >
       Teamprosjekt med utvikling av en fullstack web-applikasjon.
     achievements:
@@ -111,7 +111,7 @@ independent_projects:
 
   - name: 'Store, distribuerte datamengder (TDT4225)'
     location: 'NTNU, Trondheim'
-    duration: '2023'
+    duration: '2024'
     description: >
       Selvstendig prosjekt med design og implementering av databasesystemer for store datamengder.
     achievements:
@@ -121,7 +121,7 @@ independent_projects:
 
   - name: 'Maskinlæring – Prediksjon av strømproduksjon (TDT4173)'
     location: 'NTNU, Trondheim'
-    duration: '2022'
+    duration: '2023'
     description: >
       Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.
     achievements:
@@ -131,7 +131,7 @@ independent_projects:
 
   - name: 'Anvendt Data Science – Prediksjon av strømforbruk (TDT4259)'
     location: 'NTNU, Trondheim'
-    duration: '2022'
+    duration: '2023'
     description: >
       Teamarbeid med utvikling av modeller for prediksjon av strømforbruk i 5 nordiske byer.
     achievements:
@@ -141,7 +141,7 @@ independent_projects:
 
   - name: 'Datavarehus og datagruvedrift (TDT4300)'
     location: 'NTNU, Trondheim'
-    duration: '2022'
+    duration: '2023'
     description: >
       Fordypning i datakvalitet, preprosessering og analysemetoder på store datasett.
     achievements:
@@ -150,7 +150,7 @@ independent_projects:
 
   - name: 'Datamodellering og databasesystemer (TDT4145)'
     location: 'NTNU, Trondheim'
-    duration: '2021'
+    duration: '2022'
     description: >
       Prosjekt med utvikling av databaseapplikasjoner med vekt på datamodellering og analyse.
     achievements:

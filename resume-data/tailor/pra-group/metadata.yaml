@@ -1,0 +1,37 @@
+company: 'PRA Group Europe'
+folder_path: 'resume-data/tailor/pra-group'
+
+available_files:
+  - 'metadata.yaml'
+  - 'job_posting.md'
+  - 'job_analysis.yaml'
+  - 'resume.yaml'
+  - 'cover_letter.yaml'
+
+active_template: 'classic'
+
+position: 'Portfolio Analyst'
+primary_focus: 'data_analyst + [python, ml, sql, finance, forecasting]'
+job_summary: 'Non-performing loan portfolio analysis, Python-exclusive stack, valuation & ML models, European markets'
+
+job_details:
+  company: 'PRA Group Europe'
+  location: 'Oslo, 0191 Oslo'
+  experience_level: 'Junior to Mid-level'
+  employment_type: 'Full-time'
+  must_have_skills:
+    - 'Python for data analysis and modelling'
+    - 'Predictive and statistical models'
+    - 'Machine learning techniques (regression, pricing models)'
+    - 'SQL and structured datasets'
+    - "Master's degree in quantitative field"
+    - 'Business/finance context understanding'
+    - 'English fluency'
+  nice_to_have_skills:
+    - 'Power BI'
+    - 'R'
+    - 'Azure DevOps'
+  team_context: 'Collaborative analytical team, presents to Investment Committee, cross-European market coverage'
+  user_scale: 'One of the largest investors in non-performing credit portfolios in Europe'
+
+last_updated: '2026-03-19T00:00:00Z'

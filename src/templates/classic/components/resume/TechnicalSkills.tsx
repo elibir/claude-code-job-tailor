@@ -46,7 +46,7 @@ const TechnicalSkills = ({ resume }: { resume: ResumeSchema }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.sectionTitle}>TEKNISKE FERDIGHETER</Text>
+      <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'TECHNICAL SKILLS' : 'TEKNISKE FERDIGHETER'}</Text>
       <View style={styles.separator} />
       {resume.technical_expertise.map((category, index) => (
         <View key={index} style={styles.categoryRow}>

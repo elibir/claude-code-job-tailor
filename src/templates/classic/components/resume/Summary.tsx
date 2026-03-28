@@ -39,7 +39,7 @@ const Summary = ({ resume }: { resume: ResumeSchema }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.sectionTitle}>PROFIL</Text>
+      <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'PROFILE' : 'PROFIL'}</Text>
       <View style={styles.separator} />
       <Text style={styles.summaryText}>{resume.summary}</Text>
     </View>

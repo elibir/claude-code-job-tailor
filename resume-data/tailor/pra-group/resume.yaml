@@ -1,0 +1,126 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/Elias Birkeland.jpg'
+  locale: 'en'
+  title: 'Industrial Economics and Technology Management'
+  summary: >
+    Newly graduated MSc Engineer in Industrial Economics and Technology Management from NTNU,
+    specialising in data technology, AI and finance. Built predictive models using Bayesian
+    neural networks and reinforcement learning for financial time series in my master's thesis.
+    Practical experience with Python, machine learning and data analysis from studies and a
+    technical internship at Kystverket.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  skills:
+    - 'Python – machine learning, data analysis and scripting (primary language throughout studies and internship)'
+    - 'Machine learning – Bayesian neural networks, reinforcement learning (PPO), supervised and unsupervised learning'
+    - 'Time-series forecasting – financial and energy data, feature engineering, model evaluation'
+    - 'SQL and NoSQL (MySQL, MongoDB) – database design and complex queries'
+    - 'R – statistical modelling and analysis'
+    - 'Git – version control and code review'
+    - 'Analytical and structured — comfortable drawing practical conclusions from complex datasets'
+    - 'Strong communication in Norwegian and English — experienced presenting technical findings to management'
+    - 'Understands the investment logic behind quantitative models, not just the statistics'
+    - 'Leadership experience from the Norwegian Armed Forces'
+
+  professional_experience:
+    - company: 'Kystverket (Norwegian Coastal Administration)'
+      position: 'Summer Intern'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Developed machine learning models in Python for automated image recognition of maritime objects.'
+        - 'Collected and processed image and geospatial data from multiple APIs using Python and JavaScript.'
+        - 'Conducted data annotation in Roboflow to build training and test datasets for the model.'
+        - 'Delivered a working codebase, technical report and presentation to management.'
+
+    - company: 'NTNU – Faculty of Information Technology and Electrical Engineering'
+      position: 'Teaching Assistant'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Supervised and assessed student work in TDT4100 – Object-Oriented Programming with Java.'
+        - 'Provided structured feedback on weekly assignments to a group of students.'
+
+    - company: 'Norwegian Armed Forces – Garrison of Sør-Varanger'
+      position: 'Platoon Assistant / Squad Leader'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Responsible for equipment and logistics for an infantry platoon as platoon assistant.'
+        - 'Served as squad leader during exercises with direct leadership responsibility for soldiers. Received the assessment "excellent" for service performance.'
+
+  independent_projects:
+    - name: "Master's Thesis: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading"
+      location: 'NTNU, Trondheim'
+      duration: '2025'
+      description: >
+        Developed a two-stage framework for financial time series prediction and automated
+        trading under uncertainty, with a focus on uncertainty quantification and practical
+        application in finance.
+      achievements:
+        - 'Designed a Bayesian neural network in Python for Bitcoin price prediction with uncertainty estimates.'
+        - 'Implemented a Proximal Policy Optimization (PPO) reinforcement learning algorithm for automated trading based on the predictions.'
+        - 'Combined predictive modelling with decision-making under uncertainty in an end-to-end framework for financial time series.'
+
+    - name: 'Large-Scale Distributed Data – Database Systems (TDT4225)'
+      location: 'NTNU, Trondheim'
+      duration: '2024'
+      description: >
+        Independent project designing and implementing database systems for large-scale datasets.
+      achievements:
+        - 'Designed and implemented SQL (MySQL) and NoSQL (MongoDB) databases for large-scale data.'
+        - 'Performed data analytics and complex queries against the databases using Python.'
+
+    - name: 'Applied Data Science – Electricity Consumption Forecasting (TDT4259)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      description: >
+        Team project developing forecasting models for electricity consumption across 5 Nordic cities.
+      achievements:
+        - 'Developed and evaluated machine learning models in Python for time-series consumption forecasting.'
+        - 'Performed data cleaning, feature engineering and analysis of time-series data.'
+        - 'Presented findings and data insights with emphasis on practical business value.'
+
+    - name: 'Machine Learning – Electricity Production Forecasting (TDT4173)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      description: >
+        Team project applying supervised machine learning to forecast solar electricity production from weather data.
+      achievements:
+        - 'Trained and evaluated supervised learning models in Python for solar production forecasting.'
+        - 'Processed and analysed weather data as the basis for model training and evaluation.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'MSc Industrial Economics and Technology Management'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      specializations:
+        - 'Specialisation: Computer Science and Artificial Intelligence'
+        - "Master's profile: Investment and Finance"
+      details:
+        teknologiretning: 'Computer Science and Artificial Intelligence'
+        fagretning: 'Artificial Intelligence'
+        masterprofil: 'Investment and Finance'
+        karaktersnitt: 'GPA 3.3 (285/300 ECTS)'
+        relevante_emner:
+          - 'Machine Learning (TDT4173, TDT4172): Theory and practice in supervised, unsupervised and reinforcement learning.'
+          - 'Applied Data Science (TDT4259): Forecasting models for electricity consumption in 5 Nordic cities.'
+          - 'Large-Scale Distributed Data (TDT4225): SQL and NoSQL database design and analytics with Docker.'
+          - 'Data Warehousing and Mining (TDT4300): Data quality, preprocessing, classification, clustering and pattern recognition.'
+          - 'Database Modelling and Systems (TDT4145): Database application development with focus on modelling and analysis.'
+    - institution: 'Royal Norwegian Air Force Flight School'
+      program: 'Selection Flying'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      details:
+        beskrivelse: >
+          Final phase of an extensive selection process for pilot training in the Royal Norwegian Air Force.
+          Among the last 50 of 1,426 applicants. Passed 7 exams with a minimum score of 90% and completed 9 flight hours.

@@ -118,7 +118,7 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
 
   return (
     <View style={styles.container} debug={debug}>
-      <Text style={styles.sectionTitle}>ARBEIDSERFARING</Text>
+      <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'WORK EXPERIENCE' : 'ARBEIDSERFARING'}</Text>
       <View style={styles.separator} />
       {/* Render professional experience first */}
       {hasProfessionalExperience &&
@@ -133,7 +133,7 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
 
       {hasIndependentProjects && (
         <>
-          <Text style={styles.sectionTitle}>PROSJEKTER</Text>
+          <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'PROJECTS' : 'PROSJEKTER'}</Text>
           <View style={styles.separator} />
 
           {resume.independent_projects.map((experience, index) => (
@@ -148,7 +148,7 @@ const Experience = ({ resume, debug = false }: { resume: ResumeSchema; debug?: b
 
       {(resume.volunteer_experience?.length ?? 0) > 0 && (
         <>
-          <Text style={styles.sectionTitle}>VERV OG ANNEN ERFARING</Text>
+          <Text style={styles.sectionTitle}>{resume.locale === 'en' ? 'ROLES AND OTHER EXPERIENCE' : 'VERV OG ANNEN ERFARING'}</Text>
           <View style={styles.separator} />
 
           {resume.volunteer_experience!.map((experience, index) => (

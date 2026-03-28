@@ -1,0 +1,47 @@
+version: '2.0.0'
+analysis_date: '2026-03-19'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'PRA Group Europe'
+  position: 'Portfolio Analyst'
+  primary_focus: 'data_analyst'
+  date: '19 March 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Application – Portfolio Analyst'
+    opening_line: 'Dear PRA Group Europe,'
+    body:
+      - >
+        I am a newly graduated MSc Engineer in Industrial Economics and Technology Management
+        from NTNU, specialising in data technology, AI and finance. For my master's thesis
+        I built a two-stage framework for financial time series forecasting and automated
+        trading, using a Bayesian neural network and a reinforcement learning agent — both
+        implemented in Python. I am applying for the Portfolio Analyst position because the
+        role directly matches this background.
+      - >
+        Python has been my primary tool throughout my studies and internship. At Kystverket
+        I collected and processed datasets from multiple APIs, trained machine learning models
+        for automated object recognition, and delivered a working codebase with a technical
+        report and presentation to management. My academic projects cover time-series
+        forecasting with supervised learning, SQL and NoSQL database design, and statistical
+        analysis — consistent with the analytical work described in your job posting.
+      - >
+        My master's profile in Investment and Finance means I approach
+        modelling problems with an understanding of the investment logic behind them, not just
+        the statistics. I find the combination of rigorous data work and direct impact on
+        investment decisions genuinely motivating.
+      - >
+        The Analytical Labs initiative and the Python-exclusive modelling stack are
+        particularly appealing. I would welcome the opportunity to discuss how I can
+        contribute to the team.
+    signature: |
+      Kind regards,
+      Elias Lerheim Birkeland
