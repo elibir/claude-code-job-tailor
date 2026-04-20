@@ -88,6 +88,20 @@ soft_skills:
     - 'Deler kunnskap og veileder andre'
 
 independent_projects:
+  - name: 'Fondsoversikt'
+    location: 'Personlig prosjekt'
+    duration: '2026'
+    url: 'https://fondsoversikt-app.azurewebsites.net/'
+    description: >
+      Utviklet en fullstack web-applikasjon som henter inn data fra ulike fond, rangerer dem med en
+      egenutviklet scoringalgoritme og presenterer resultatet for brukeren i et oversiktlig grensesnitt.
+    achievements:
+      - 'Bygde REST API med Python og FastAPI for innhenting og scoring av fonddata fra eksterne kilder.'
+      - 'Utviklet React-frontend som visualiserer og rangerer fond basert på scoringalgoritmen.'
+      - 'Satte opp automatisk bygg og deploy til Azure via GitHub Actions CI/CD-pipeline.'
+      - 'Leverte en fungerende ende-til-ende løsning tilgjengelig på nett.'
+      - 'Brukte Claude Code som AI-kodingsassistent gjennom hele utviklingsprosessen.'
+
   - name: 'Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
     location: 'NTNU, Trondheim'
     duration: '2025'
@@ -99,14 +113,15 @@ independent_projects:
       - 'Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-algoritme for automatisert handel basert på prediksjonene.'
       - 'Kombinerte prediktiv modellering med beslutningstaking under usikkerhet i et ende-til-ende-rammeverk for finansielle tidsserier.'
 
-  - name: 'Web-applikasjon – Programvareutvikling (TDT4100-prosjekt)'
+  - name: 'Turplanleggingsapp – Programvareutvikling (TDT4140)'
     location: 'NTNU, Trondheim'
     duration: '2022'
     description: >
-      Teamprosjekt med utvikling av en fullstack web-applikasjon.
+      Teamprosjekt med utvikling av en fullstack web-applikasjon for arrangering av turer i naturen.
     achievements:
+      - 'Implementerte brukerautentisering (registrering og innlogging) og tilgangsstyring.'
+      - 'Bygde funksjonalitet for å opprette, administrere og melde seg på turer.'
       - 'Bidro til utvikling av frontend i React med TypeScript.'
-      - 'Designet og implementerte databasemodell og datapersistering.'
       - 'Jobbet etter agile arbeidsmetoder med kodegjennomganger og versjonskontroll via Git.'
 
   - name: 'Store, distribuerte datamengder (TDT4225)'
@@ -125,9 +140,9 @@ independent_projects:
     description: >
       Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.
     achievements:
-      - 'Trente og evaluerte maskinlæringsmodeller i Python for prediksjon av strømproduksjon fra solceller.'
+      - 'Trente og evaluerte Random Forest, XGBoost og AutoGluon for prediksjon av strømproduksjon fra solceller.'
+      - 'Oppnådde beste modellytelse med AutoGluon – resulterte i karakter B.'
       - 'Bearbeidet og analyserte værdata som grunnlag for modellene.'
-      - 'Jobbet i team med fokus på modellytelse og praktisk anvendelse av teori innen veiledet læring.'
 
   - name: 'Anvendt Data Science – Prediksjon av strømforbruk (TDT4259)'
     location: 'NTNU, Trondheim'
@@ -145,17 +160,18 @@ independent_projects:
     description: >
       Fordypning i datakvalitet, preprosessering og analysemetoder på store datasett.
     achievements:
-      - 'Anvendte klassifiserings-, klynge- og mønstergjenkjenningsalgoritmer på reelle datasett.'
+      - 'Anvendte klassifisering (k-NN, Decision Tree), klynging (k-means, DBSCAN) og mønstergjenkjenning (Apriori) på reelle datasett.'
       - 'Arbeidet med datakvalitet og preprosessering som grunnlag for analyse.'
 
   - name: 'Datamodellering og databasesystemer (TDT4145)'
     location: 'NTNU, Trondheim'
     duration: '2022'
     description: >
-      Prosjekt med utvikling av databaseapplikasjoner med vekt på datamodellering og analyse.
+      Prosjekt med utvikling av en databaseapplikasjon for kaffesmaking – brukere kunne skrive
+      og lese anmeldelser av ulike kaffevarianter.
     achievements:
-      - 'Modellerte og implementerte relasjonsdatabaser med fokus på normalisering og spørringsoptimalisering.'
-      - 'Utviklet databaseapplikasjoner med vekt på dataintegritet og strukturert analyse.'
+      - 'Modellerte og implementerte relasjonsdatabase for kaffeanmeldelser med normalisering og spørringsoptimalisering.'
+      - 'Utviklet applikasjon med støtte for brukerregistrering, sortering og filtrering av anmeldelser.'
 
 languages:
   - language: 'Norsk'

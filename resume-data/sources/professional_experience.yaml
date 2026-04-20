@@ -61,26 +61,61 @@ professional_experience:
         - 'Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent i 18 måneder.'
         - 'Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
 
-  - company: 'Diverse kortere stillinger'
-    position: 'Diverse stillinger'
-    location: 'Langevåg / Ålesund'
-    duration: '06.2015 – 08.2021'
+  - company: 'Langevåg Røde Kors Molvær'
+    position: 'Sommervikar'
+    location: 'Langevåg'
+    duration: '06.2021 – 08.2021'
+    achievements:
+      ai_fokusert:
+        - 'Driftet utstyrsdepot med utlån av sport- og friluftsutstyr. Rollen innebar kontroll og vedlikehold av utstyr samt kundeservice.'
+      data_fokusert:
+        - 'Driftet utstyrsdepot med utlån av sport- og friluftsutstyr. Rollen innebar kontroll og vedlikehold av utstyr samt kundeservice.'
+      generell_fokusert:
+        - 'Driftet utstyrsdepot med utlån av sport- og friluftsutstyr. Rollen innebar kontroll og vedlikehold av utstyr, kundeservice, samt enkel snekring og malingsarbeid.'
+
+  - company: 'Rema 1000'
+    position: 'Butikkmedarbeider'
+    location: 'Langevåg'
+    duration: '05.2020 – 08.2020'
     achievements:
       generell_fokusert:
-        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær – Utlån og vedlikehold av utstyr, kundeservice samt enklere konstruksjons- og malingsarbeid.'
-        - '05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg – Varepåfylling og kassearbeid.'
-        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste og planla timer i norsk, samfunnsfag, matematikk, engelsk og naturfag.'
-        - '03.2019 – 06.2019: Assistent, Langevåg skule – Assistent på 1.–4. trinn og på SFO.'
-        - '10.2015 – 07.2017: Ekstrahjelp, TOYS R US, Ålesund – Varepåfylling, kassearbeid og kundeservice.'
-        - '06.2015 – 12.2015: Kafémedarbeider, Precious Bean Roasters, Langevåg – Kassearbeid og servering.'
+        - 'Kundeservice, varepåfylling og kassearbeid.'
+
+  - company: 'Sula ungdomsskule'
+    position: 'Lærervikar'
+    location: 'Langevåg'
+    duration: '10.2019 – 12.2019'
+    achievements:
       ai_fokusert:
-        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.'
-        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule.'
-        - '07.2017 – 01.2019: Troppsassistent/Lagfører, Forsvaret, Garnisonen i Sør-Varanger.'
+        - 'Underviste og planla timer i matematikk, naturfag, engelsk, samfunnsfag, norsk og musikk.'
       data_fokusert:
-        - '06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær.'
-        - '10.2019 – 12.2019: Lærervikar, Sula ungdomsskule.'
-        - '07.2017 – 01.2019: Troppsassistent/Lagfører, Forsvaret, Garnisonen i Sør-Varanger.'
+        - 'Underviste og planla timer i matematikk, naturfag, engelsk, samfunnsfag, norsk og musikk.'
+      generell_fokusert:
+        - 'Underviste og planla timer i matematikk, naturfag, engelsk, samfunnsfag, norsk og musikk.'
+
+  - company: 'Langevåg skule'
+    position: 'Assistent'
+    location: 'Langevåg'
+    duration: '03.2019 – 06.2019'
+    achievements:
+      generell_fokusert:
+        - 'Assistent på 1.–4. trinn og på SFO.'
+
+  - company: 'TOYS R US'
+    position: 'Ekstrahjelp'
+    location: 'Ålesund'
+    duration: '10.2015 – 07.2017'
+    achievements:
+      generell_fokusert:
+        - 'Kundeservice, kassearbeid, varepåfylling og lagerarbeid.'
+
+  - company: 'Precious Bean Roasters'
+    position: 'Kafémedarbeider'
+    location: 'Langevåg'
+    duration: '06.2015 – 12.2015'
+    achievements:
+      generell_fokusert:
+        - 'Kundeservice og kassearbeid.'
 
 # Verv og annen erfaring (ikke formell arbeidserfaring, men relevant for profilen)
 other_experience:
@@ -110,5 +145,5 @@ other_experience:
   - role: 'Gitarist'
     organization: 'Conspectus'
     location: 'Ålesund'
-    duration: '06.2010 – d.d.'
-    description: 'Bandet driftes gjennom selskapet Conspectus Band DA og har utgitt en EP og to album, samt spilt en rekke konserter rundt om i Norge.'
+    duration: '06.2010 – 01.2024'
+    description: 'Hobbybasert metallband som har utgitt tre profesjonelt innspilte studioalbum og spilt over 20 konserter rundt om i Norge. Bidro med låtskriving, merch-salg, sosiale medier samt økonomi- og logistikkarbeid.'

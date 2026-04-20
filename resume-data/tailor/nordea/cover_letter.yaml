@@ -1,0 +1,53 @@
+version: '2.0.0'
+analysis_date: '2026-04-07'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Nordea'
+  position: 'Quantitative Risk Model Developer (Credit Risk)'
+  primary_focus: 'quantitative modelling'
+  date: '7 April 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg, Norway'
+    email: 'birkeland.elias@outlook.com'
+    phone: '+47 941 64 312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+
+  content:
+    letter_title: 'Application – Quantitative Risk Model Developer (Credit Risk)'
+    opening_line: ' '
+    body:
+      - >
+        I am applying for the position of Quantitative Risk Model Developer at Nordea.
+        I recently completed my Master of Science in Industrial Economics and Technology
+        Management at NTNU, with Financial Engineering as my official main field of study
+        and a technology specialisation in Computer Science & AI. The combination of
+        advanced quantitative modelling and the practical financial context of this role
+        is exactly what I have been working towards.
+      - >
+        My master's thesis gave me hands-on experience with the core challenges of
+        quantitative financial modelling: building robust predictive models, quantifying
+        uncertainty, and making decisions under risk. I designed a Bayesian neural network
+        for probabilistic forecasting of financial time series and a reinforcement learning
+        agent for automated trading based on those forecasts. The project required me to
+        work through the full modelling lifecycle — from data pipeline and feature
+        engineering to model validation and analysis of results. This experience, alongside
+        coursework in financial risk management, econometrics, derivatives, fixed income,
+        and corporate finance, has given me a solid quantitative foundation that I believe
+        translates well to credit risk parameter estimation and model development.
+      - >
+        During my internship at the Norwegian Coastal Administration, I built an end-to-end
+        machine learning pipeline in Python — from data ingestion across multiple APIs through
+        to model training, evaluation, and a management presentation. I am comfortable working
+        with large, complex datasets and writing clean, maintainable Python and SQL code. I am
+        also accustomed to documenting and presenting technical work clearly to both technical
+        and non-technical audiences — something I understand is central to the role at Nordea.
+      - >
+        I am curious, take ownership of my work, and enjoy both the rigour of quantitative
+        modelling and the challenge of communicating results clearly. I am motivated by
+        work where analytical quality has real consequences — and I believe the skills I have
+        built make me well placed to contribute to Nordea's Risk Models team.
+    signature: |
+      Kind regards,
+      Elias Lerheim Birkeland

@@ -1,0 +1,89 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/Elias Birkeland.jpg'
+  title: 'Sivilingeniør | Industriell økonomi og teknologiledelse'
+  summary: >
+    Nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU,
+    med gode IT-kunnskaper og solid økonomiforståelse fra studiet.
+    Bred arbeidserfaring fra ulike stillinger og bransjer.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+
+  professional_experience:
+    - company: 'Kystverket'
+      position: 'Summer Intern'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Gjennomførte prosjektarbeid i team og leverte teknisk rapport og presentasjon for ledelsen.'
+        - 'Samarbeidet med fagteam om datainnsamling og analyse knyttet til Kystverkets operasjoner.'
+
+    - company: 'NTNU – Fakultet for informasjonsteknologi og elektroteknikk'
+      position: 'Læringsassistent'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Veiledet studenter i TDT4100 – Objektorientert programmering med Java.'
+
+    - company: 'Langevåg Røde Kors Molvær'
+      position: 'Sommervikar'
+      location: 'Langevåg'
+      duration: '06.2021 – 08.2021'
+      achievements:
+        - 'Kundeservice og praktisk arbeid i et aktivt sommermiljø.'
+
+    - company: 'Rema 1000'
+      position: 'Butikkmedarbeider'
+      location: 'Langevåg'
+      duration: '05.2020 – 08.2020'
+      achievements:
+        - 'Varepåfylling, kassearbeid og orden i butikk.'
+
+    - company: 'Sula ungdomsskule'
+      position: 'Lærervikar'
+      location: 'Langevåg'
+      duration: '10.2019 – 12.2019'
+      achievements:
+        - 'Underviste og planla timer selvstendig i flere fag.'
+
+    - company: 'Langevåg skule'
+      position: 'Assistent'
+      location: 'Langevåg'
+      duration: '03.2019 – 06.2019'
+      achievements:
+        - 'Assistent på 1.–4. trinn og SFO.'
+
+    - company: 'Forsvaret – Garnisonen i Sør-Varanger'
+      position: 'Troppsassistent / Lagfører'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent.'
+        - 'Fungerte som lagfører med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'Sivilingeniør, industriell økonomi og teknologiledelse'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      specializations:
+        - 'Tverrfaglig studium som kombinerer teknologi, økonomi og ledelse.'
+        - 'Spesialisering i datateknologi og kunstig intelligens.'
+        - 'Masterprofil: investering, finans og økonomistyring.'
+    - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+      program: 'Ballsport'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'
+    - institution: 'Luftforsvarets flygeskole'
+      program: 'Seleksjonsflyging'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      details:
+        beskrivelse: >
+          Den siste fasen av en svært omfattende seleksjonsprosess for å bli pilot i Luftforsvaret.
+          Blant de siste 50 av 1426 søkere. Gjennomførte 7 eksamener med minst 90% score på samtlige,
+          samt 9 flytimer.

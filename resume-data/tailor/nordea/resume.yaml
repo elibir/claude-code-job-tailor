@@ -1,0 +1,107 @@
+resume:
+  locale: 'en'
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/Elias Birkeland.jpg'
+  title: 'M.Sc. Industrial Economics | Financial Engineering & Computer Science'
+  summary: >
+    Master of Science in Industrial Economics and Technology Management from NTNU,
+    with Financial Engineering as official main field of study and specialisation in
+    Computer Science & AI. Master's thesis on uncertainty-aware financial time series
+    forecasting and algorithmic trading using Bayesian neural networks and reinforcement
+    learning. Coursework spanning empirical and quantitative methods in finance,
+    corporate finance, financial engineering, and applied machine learning —
+    combined with strong Python and SQL skills and hands-on experience with large
+    datasets.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg, Norway'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  professional_experience:
+    - company: 'Kystverket (Norwegian Coastal Administration)'
+      position: 'Data Science Intern'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Developed machine learning models in Python for automated image recognition of maritime objects.'
+        - 'Built end-to-end data pipeline: ingested and combined image and geospatial data from multiple APIs using Python and JavaScript.'
+        - 'Performed data annotation in Roboflow to construct training and test datasets; delivered working codebase, technical report, and management presentation.'
+
+    - company: 'NTNU – Faculty of Information Technology and Electrical Engineering'
+      position: 'Teaching Assistant'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Guided students in object-oriented programming (Java) and provided structured feedback on coursework.'
+
+    - company: 'Langevåg Røde Kors Molvær'
+      position: 'Summer Substitute'
+      location: 'Langevåg'
+      duration: '06.2021 – 08.2021'
+      achievements:
+        - 'Equipment lending and maintenance, customer service.'
+
+    - company: 'Sula ungdomsskule'
+      position: 'Substitute Teacher'
+      location: 'Langevåg'
+      duration: '10.2019 – 12.2019'
+      achievements:
+        - 'Independently planned and taught classes in Norwegian, English, Mathematics, Social Studies, and Science.'
+
+    - company: 'Langevåg skule'
+      position: 'Teaching Assistant'
+      location: 'Langevåg'
+      duration: '03.2019 – 06.2019'
+      achievements:
+        - 'Assistant for grades 1–4 and after-school programme (SFO).'
+
+    - company: 'Rema 1000'
+      position: 'Shop Assistant'
+      location: 'Langevåg'
+      duration: '05.2020 – 08.2020'
+      achievements:
+        - 'Stocking shelves, cashier work, and maintaining store order.'
+
+    - company: 'Norwegian Armed Forces – Garrison of Sør-Varanger'
+      position: 'Squad Leader / Platoon Assistant'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Responsible for materiel and logistics for an infantry platoon as platoon assistant for 18 months.'
+        - 'Served as squad leader during exercises with direct leadership responsibility; rated "Outstanding" for performance.'
+
+  education:
+    - institution: 'NTNU – Norwegian University of Science and Technology'
+      program: 'M.Sc. Industrial Economics and Technology Management'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      specializations:
+        - 'Official main field: Financial Engineering | Technology specialisation: Computer Science with Artificial Intelligence'
+        - >
+          Relevant coursework: Machine Learning (TDT4173), Artificial Intelligence Methods (TDT4171),
+          Applied Data Science (TDT4259), Corporate Finance (TIØ4145),
+          Empirical and Quantitative Methods in Finance (TIØ4317),
+          Project Evaluation and Financing (TIØ4140), Financial Engineering Specialisation (TIØ4550/TIØ4557),
+          Statistics (TMA4240), Large Distributed Datasets — SQL/NoSQL (TDT4225),
+          Data Warehousing and Data Mining (TDT4300), Optimization and Decision Support (TIØ4126).
+        - >
+          Master thesis: "A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin
+          Forecasting and Trading" — designed a Bayesian neural network for probabilistic
+          financial time series forecasting and a PPO reinforcement learning agent for
+          automated trading, combining uncertainty quantification with decision-making
+          under risk.
+
+    - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+      program: 'Ball Sports'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'
+
+    - institution: 'Norwegian Air Force Flying School'
+      program: 'Selection Flying Programme'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      specializations:
+        - 'Final stage of a highly competitive pilot selection process. Among the last 50 of 1,426 applicants; completed 7 exams with at least 90% on each and 9 flight hours.'

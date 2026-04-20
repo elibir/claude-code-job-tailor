@@ -1,0 +1,122 @@
+version: '2.0.0'
+analysis_date: '2026-04-06'
+source: 'Stillingsannonse Norwegian Seafood Company AS – FINN-kode 454029317'
+
+job_analysis:
+  company: 'Norwegian Seafood Company AS'
+  position: 'Logistikkmedarbeider'
+  job_focus:
+    - primary_area: 'logistics'
+      specialties: ['logistikk', 'fersk_fisk', 'back_office']
+      weight: 0.6
+    - primary_area: 'administration'
+      specialties: ['okonomi', 'administrasjon', 'kontor']
+      weight: 0.4
+  location: 'Ålesund'
+  employment_type: 'Vikariat (1 år), mulighet for fast'
+  experience_level: 'Alle nivåer'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Strukturert og pålitelig'
+        priority: 10
+      - skill: 'Høy arbeidskapasitet'
+        priority: 9
+      - skill: 'Selvstendig'
+        priority: 9
+      - skill: 'Logistikk (fersk fisk)'
+        priority: 8
+      - skill: 'Gode norsk- og engelsk kunnskaper'
+        priority: 8
+      - skill: 'Nøyaktig'
+        priority: 8
+      - skill: 'Basis IT kunnskaper'
+        priority: 6
+    nice_to_have_skills:
+      - skill: 'Erfaring fra logistikk'
+        priority: 6
+      - skill: 'Erfaring fra økonomi'
+        priority: 5
+    soft_skills:
+      - 'Strukturert'
+      - 'Pålitelig'
+      - 'Selvstendig'
+      - 'Nøyaktig'
+      - 'Høy arbeidskapasitet'
+    experience_years: 0
+    education: 'Ikke spesifisert'
+
+  responsibilities:
+    primary:
+      - 'Logistikk for fersk fisk'
+      - 'Back-office oppgaver'
+      - 'Avlaste økonomiavdelingen'
+    secondary:
+      - 'Varierte arbeidsoppgaver ved behov'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Forsvaret: direkte logistikk- og materiellansvar som troppsassistent'
+      - 'Strukturert, selvstendig og pålitelig – dokumentert fra Forsvaret og studier'
+      - 'Sivilingeniør med masterprofil i finans/økonomi – relevant for økonomiassistanse'
+      - 'Bosatt i Langevåg – svært nær Ålesund'
+      - 'Bred arbeidserfaring fra ulike roller (vikar, butikk, assistent)'
+      - 'Norsk morsmål, gode engelskkunnskaper fra studier'
+    gaps_to_address:
+      - 'Ingen direkte erfaring fra fiskeri/sjømatlogistikk – kompenseres med militær logistikkerfaring'
+    transferable_skills:
+      - 'Forsvaret → direkte logistikk- og materiellansvar, struktur under press'
+      - 'Sivilingeniør økonomi → relevant for økonomiassistanse i back-office'
+      - 'Diverse vikariater → fleksibilitet, evne til å sette seg raskt inn i nye oppgaver'
+      - 'Kystverket → selvstendig arbeid og leveranse i profesjonelt miljø'
+    emphasis_strategy: 'Fremhev logistikk fra Forsvaret, struktur og selvstendighet, lokal tilknytning og økonomi-bakgrunn'
+
+  role_context:
+    department: 'Back-office / Logistikk'
+    team_size: '13 ansatte totalt'
+    key_points:
+      - 'Etablert i 1993, omsetning 1,5 mrd. i 2025'
+      - 'Selger 26.000 tonn fisk til 29 markeder'
+      - 'Uformelt arbeidsmiljø med erfarne kollegaer'
+      - 'Vikariat 1 år med mulighet for fast ansettelse'
+
+  section_priorities:
+    technical_expertise:
+      - 'logistikk'
+      - 'administrasjon'
+    experience_focus: 'Fremhev logistikk fra Forsvaret, struktur og selvstendighet'
+    project_relevance: 'Ikke relevant – utelat tekniske prosjekter'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Logistikk- og materiellerfaring fra Forsvaret'
+      - 'Struktur, nøyaktighet og selvstendighet'
+    EMPHASIZE:
+      - 'Lokal tilknytning (Langevåg/Ålesund)'
+      - 'Økonomi-bakgrunn fra sivilingeniørstudiet'
+      - 'Bred arbeidserfaring fra ulike roller'
+    QUANTIFY:
+      - 'Forsvaret: 18 måneder troppsassistent'
+      - 'Kystverket: sommerpraksis 2023'
+    DOWNPLAY:
+      - 'Teknisk IT-kompetanse'
+      - 'Maskinlæring og AI-prosjekter'
+
+  ats_analysis:
+    title_variations:
+      - 'Logistikkmedarbeider'
+      - 'Back-office medarbeider'
+      - 'Administrativ medarbeider'
+    critical_phrases:
+      - 'logistikk'
+      - 'strukturert'
+      - 'selvstendig'
+      - 'nøyaktig'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html?finnkode=454029317'
+    posting_date: '2026-03-06'
+    deadline: '2026-04-07'
+    contact_person: 'Beate Skjong Farstad'
+    contact_email: 'beate@norseaco.no'
+    contact_phone: '+47 91691466'

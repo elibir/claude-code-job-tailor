@@ -1,0 +1,154 @@
+version: '2.0.0'
+analysis_date: '2026-04-07'
+source: 'Nordea Job Posting – Job ID 3995 – Quantitative Risk Model Developer (Credit Risk)'
+
+job_analysis:
+  company: 'Nordea'
+  position: 'Quantitative Risk Model Developer (Credit Risk)'
+  job_focus:
+    - primary_area: 'quantitative_modelling'
+      specialties: ['credit_risk', 'IRB', 'IFRS9', 'stress_testing', 'statistical_modelling']
+      weight: 0.55
+    - primary_area: 'data_engineering'
+      specialties: ['Python', 'SQL', 'large_datasets', 'data_pipelines', 'data_quality']
+      weight: 0.30
+    - primary_area: 'stakeholder_management'
+      specialties: ['documentation', 'presentation', 'regulatory_compliance']
+      weight: 0.15
+  location: 'Oslo / Stockholm / Helsinki / Warsaw'
+  employment_type: 'Permanent'
+  experience_level: 'All levels (Assistant to Senior)'
+
+  requirements:
+    must_have_skills:
+      - skill: "Master's or PhD in quantitative field"
+        priority: 10
+      - skill: 'Advanced quantitative modelling'
+        priority: 10
+      - skill: 'Python programming'
+        priority: 9
+      - skill: 'SQL and large dataset analysis'
+        priority: 9
+      - skill: 'Statistical modelling and data analysis'
+        priority: 9
+      - skill: 'Analytical, ownership-driven mindset'
+        priority: 8
+      - skill: 'Communication of complex concepts to diverse audiences'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'IRB / IFRS9 / credit risk stress testing knowledge'
+        priority: 7
+      - skill: 'Experience in financial services'
+        priority: 6
+      - skill: 'Model lifecycle management (documentation, monitoring, UAT)'
+        priority: 6
+      - skill: 'Technical tool development'
+        priority: 5
+    soft_skills:
+      - 'Curious and eager to learn'
+      - 'Ownership and accountability'
+      - 'Collaborative team player'
+      - 'Constructive challenger of ideas'
+      - 'Solution-oriented, not just problem-raising'
+      - 'Attention to detail while keeping big picture in mind'
+    experience_years: 0
+    education: "Master's or PhD in quantitative discipline"
+
+  responsibilities:
+    primary:
+      - 'Develop Python-based technical tools for model development and analysis'
+      - 'Work on model lifecycle: data pipeline, development, documentation, implementation, monitoring, maintenance'
+      - 'Contribute to methodological standards and modelling framework improvement'
+      - 'Drive IRB model projects and manage Risk/IT/Business stakeholders'
+      - 'Present and justify analyses and results to diverse audiences'
+    secondary:
+      - 'Provide technical guidance and review work of other modelers'
+      - 'Stay informed on regulatory developments and industry practices'
+
+  candidate_alignment:
+    strong_matches:
+      - "M.Sc. in quantitative field (Industrial Economics + Data Technology & AI + Finance master profile)"
+      - 'Thesis: Bayesian neural networks + reinforcement learning for financial time series — directly demonstrates uncertainty quantification and risk-aware decision modelling'
+      - 'Strong Python skills from thesis, Kystverket internship, and multiple academic projects'
+      - 'Finance coursework: financial risk management, econometrics, derivatives, fixed income, corporate finance'
+      - 'Machine learning coursework: supervised, unsupervised, reinforcement learning (TDT4173, TDT4172, TDT4259)'
+      - 'Large dataset experience: SQL/NoSQL databases, data warehousing, distributed data systems'
+      - 'Delivered full pipeline projects: data ingestion → model → results → management presentation'
+      - 'Teaching assistant role demonstrates ability to explain complex concepts clearly'
+      - 'Military leadership demonstrates ownership, reliability, and working under pressure'
+    gaps_to_address:
+      - 'No prior exposure to IRB/IFRS9 regulatory framework — addressed honestly and framed as motivation to learn'
+      - 'No formal financial services industry experience — thesis and finance coursework compensate'
+    transferable_skills:
+      - 'Thesis → uncertainty quantification, financial modelling, full ML pipeline lifecycle'
+      - 'Kystverket → end-to-end data pipeline, Python ML in production, professional delivery'
+      - 'Finance coursework → financial risk management, econometrics, derivatives — underpins credit risk intuition'
+      - 'Teaching assistant → communicating complex technical concepts clearly'
+      - 'Military → ownership, reliability, performing under pressure'
+    emphasis_strategy: >
+      Lead with quantitative modelling credentials and finance depth. Frame thesis as directly
+      relevant to probabilistic risk modelling. Acknowledge regulatory gap honestly while
+      demonstrating genuine intellectual curiosity and readiness to learn.
+
+  role_context:
+    department: 'Risk Models — IRB Modelling'
+    team_size: 'International team across Nordic countries and Poland'
+    key_points:
+      - 'One of the largest Nordic banks, 200-year history'
+      - 'Working language: English'
+      - 'Hybrid working (min. 60% from office)'
+      - 'Strong learning and development culture'
+      - 'Regulatory environment: IRB, IFRS9, stress testing across multiple countries'
+
+  section_priorities:
+    technical_expertise:
+      - 'Python'
+      - 'SQL'
+      - 'Statistical / ML modelling'
+      - 'Quantitative finance'
+    experience_focus: 'Thesis and Kystverket — demonstrate end-to-end quantitative data work'
+    project_relevance: 'Highlight thesis (financial uncertainty modelling) and data science projects'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Quantitative modelling background (thesis + coursework)'
+      - 'Python + large dataset experience'
+      - 'Finance specialisation and relevant courses'
+    EMPHASIZE:
+      - 'Uncertainty quantification and probabilistic modelling in thesis'
+      - 'End-to-end data pipeline experience (Kystverket + thesis)'
+      - 'Breadth of finance coursework (risk, econometrics, derivatives, corporate finance)'
+      - 'Curiosity, ownership, collaborative mindset'
+    QUANTIFY:
+      - 'Thesis: Bayesian NN + PPO RL for financial time series'
+      - 'Kystverket: summer 2023, delivered ML pipeline to management'
+      - 'NTNU: 5.5 years, 285/300 credits, Data Technology + Finance specialisation'
+    DOWNPLAY:
+      - 'Web development / frontend projects'
+      - 'Non-technical roles (retail, misc. short jobs)'
+
+  ats_analysis:
+    title_variations:
+      - 'Quantitative Risk Analyst'
+      - 'Credit Risk Model Developer'
+      - 'Quantitative Analyst'
+      - 'IRB Model Developer'
+    critical_phrases:
+      - 'quantitative modelling'
+      - 'credit risk'
+      - 'Python'
+      - 'SQL'
+      - 'machine learning'
+      - 'statistical modelling'
+      - 'data analysis'
+      - 'uncertainty quantification'
+      - 'financial modelling'
+
+  application_info:
+    job_id: '3995'
+    posting_url: 'https://www.nordea.com/en/careers'
+    posting_date: '2026-04-07'
+    deadline: '2026-04-10'
+    contact_person: 'Matteus Arriaza-Hult'
+    contact_title: 'Head of Quantitative Methods & Projects'
+    contact_email: 'matteus.arriaza-hult@nordea.com'

@@ -1,0 +1,131 @@
+version: '2.0.0'
+analysis_date: '2026-04-19'
+source: 'Stillingsinformasjon fra Ulstein Group'
+
+job_analysis:
+  company: 'Ulstein Group'
+  position: 'Data Engineer'
+  job_focus:
+    - primary_area: 'data'
+      specialties: ['python', 'sql', 'pipelines', 'databaser', 'api']
+      weight: 0.70
+    - primary_area: 'data'
+      specialties: ['infrastruktur', 'datalagring', 'arkitektur']
+      weight: 0.20
+    - primary_area: 'engineer'
+      specialties: ['analyse', 'forretningsverdi']
+      weight: 0.10
+  location: 'Ulsteinvik / Ålesund / Oslo'
+  employment_type: 'Fulltid'
+  experience_level: 'Junior-Mid'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Python'
+        priority: 10
+      - skill: 'SQL'
+        priority: 10
+      - skill: 'Datapipelines og datainnsamling'
+        priority: 9
+      - skill: 'API-integrasjon og dataflyt'
+        priority: 9
+      - skill: 'Strukturert datalagring'
+        priority: 8
+    nice_to_have_skills:
+      - skill: 'ADF (Azure Data Factory)'
+        priority: 7
+      - skill: 'dbt'
+        priority: 7
+      - skill: 'Snowflake'
+        priority: 7
+      - skill: 'Sensorer og datainnsamlingssystemer'
+        priority: 5
+    soft_skills:
+      - 'Lagspiller'
+      - 'Resultat- og handlingsorientert'
+      - 'Nysgjerrig og læringsvillig'
+      - 'Kreativ og villig til å dele'
+      - 'Flytende norsk og engelsk'
+    experience_years: 1
+    education: 'Bachelor eller master i relevant felt'
+
+  responsibilities:
+    primary:
+      - 'Lage automatiserte arbeidsflyter (pipelines) for å hente inn, rense og forprosessere data fra ulike kilder'
+      - 'Utvikle og vedlikeholde strukturerte datalagringssystemer'
+      - 'Sikre effektiv og feilfri henting og lagring av data'
+      - 'Etablere dataflyter via API'
+    secondary:
+      - 'Støtte utvikling av digitale tjenester for skip i drift'
+      - 'Bidra til digitalisering av skipsbygging og skipsdesign'
+
+  role_context:
+    department: 'Data engineering og data science team'
+    team_size: 'Team av data engineers og data scientists'
+    key_points:
+      - 'Internasjonalt anerkjent leverandør av skipsdesign, skipsbygging og systemløsninger'
+      - 'Over 100 år i maritim industri, hovudkontor i Ulsteinvik på Sunnmøre'
+      - 'Fokus på digitalisering og bærekraftige marine operasjoner'
+      - 'Over 500 ansatte, internasjonal virksomhet'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Python – brukt i maskinlæringsprosjekter og internship hos Kystverket'
+      - 'SQL og databaser – TDT4225 (MySQL/MongoDB/Docker) og TDT4145 (NTNU)'
+      - 'API-integrasjon og datainngesting – Kystverket-internship (JavaScript og Python)'
+      - 'Data engineering og databearbeiding – internship og NTNU-prosjekter'
+      - 'Sivilingeniørutdanning fra NTNU innen teknologiledelse og datateknologi'
+      - 'Data analytics – TDT4300, TDT4225, masteroppgave'
+    gaps_to_address:
+      - 'Ingen erfaring med ADF (Azure Data Factory)'
+      - 'Ingen erfaring med dbt'
+      - 'Ingen erfaring med Snowflake'
+    transferable_skills:
+      - 'SQL og NoSQL fra NTNU-prosjekter → strukturert datalagring og henting'
+      - 'API-innhenting fra Kystverket → datapipelines og dataflyt via API'
+      - 'Python-kompetanse fra studier og internship → datainngesting og prosessering'
+      - 'Læringsvilje og adaptabilitet → rask tilpasning til ADF/dbt/Snowflake'
+    emphasis_strategy: 'Fremhev Python/SQL-bredde, praktisk API-integrasjon og databaseerfaring. Vis læringsvilje for plattformverktøy (ADF/dbt/Snowflake) fremfor å unnskylde gap.'
+
+  section_priorities:
+    technical_expertise:
+      - 'programmering'
+      - 'data_og_databaser'
+      - 'verktoy_og_annet'
+      - 'frontend_og_web'
+    experience_focus: 'Fremhev datainngesting og API-arbeid fra Kystverket, og databaseprosjektet (TDT4225) som lead-prosjekt'
+    project_relevance: 'Inkluder TDT4225 (databasesystem – meget relevant). Masteroppgave sekundær – tonn ned RL, frem data pipeline-aspektet.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Python og SQL'
+      - 'Datapipelines og API-integrasjon'
+      - 'Strukturert datalagring og henting'
+    EMPHASIZE:
+      - 'Databasedesign og implementering (MySQL, MongoDB, Docker)'
+      - 'Databearbeiding og preprosessering'
+      - 'Læringsvilje og nysgjerrighet – vil lære ADF/dbt/Snowflake'
+    QUANTIFY:
+      - 'Omfang av datasett og API-integrasjoner ved Kystverket'
+      - 'Studiepoeng og karaktersnitt'
+    DOWNPLAY:
+      - 'Reinforcement learning-detaljer'
+      - 'Frontend/React som primærkompetanse'
+      - 'Finansdomene-spesifikk kunnskap'
+
+  ats_analysis:
+    title_variations:
+      - 'Data Engineer'
+      - 'Dataingeniør'
+      - 'Data pipeline developer'
+    critical_phrases:
+      - 'Python og SQL'
+      - 'datapipelines'
+      - 'API-integrasjon'
+      - 'datalagring og henting'
+      - 'data engineering'
+
+  application_info:
+    posting_url: 'https://www.ulstein.com/career'
+    posting_date: '2026-04-19'
+    deadline: '2026-04-19'

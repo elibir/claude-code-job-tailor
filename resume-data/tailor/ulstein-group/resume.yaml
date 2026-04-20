@@ -1,0 +1,158 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/Elias Birkeland.jpg'
+  locale: 'en'
+  title: 'MSc Industrial Economics and Technology Management'
+  summary: >
+    Recently graduated MSc (Jan 2026) in Industrial Economics and Technology Management from NTNU,
+    specialising in computer science and artificial intelligence. Strong interest in data engineering,
+    with hands-on experience in collecting and structuring data from APIs, designing and implementing
+    databases, and data analysis in Python. Takes initiative, works independently, and picks up new
+    technologies quickly. Thrives in teams and enjoys contributing to shared goals.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  technical_expertise:
+    - resume_title: 'Programming'
+      skills:
+        - 'Python'
+        - 'SQL'
+        - 'JavaScript'
+        - 'TypeScript'
+    - resume_title: 'Data & Databases'
+      skills:
+        - 'MySQL'
+        - 'MongoDB'
+        - 'Docker'
+        - 'API integration'
+        - 'Data engineering'
+        - 'Data analytics'
+    - resume_title: 'Tools'
+      skills:
+        - 'Git'
+        - 'GitHub'
+        - 'Machine Learning (Scikit-learn, PyTorch)'
+    - resume_title: 'Frontend & Web'
+      skills:
+        - 'React'
+        - 'HTML / CSS'
+
+  skills:
+    - 'Analytical and structured approach to problem-solving'
+    - 'Takes initiative and ownership of tasks'
+    - 'Picks up new technologies and methods quickly'
+    - 'Works independently and efficiently'
+    - 'Thrives in teams and contributes to shared goals'
+    - 'Experience with cross-disciplinary teamwork'
+    - 'Ability to translate data into business value'
+    - 'Strong understanding of technology in a business context'
+    - 'Leadership experience from the military and student residence'
+    - 'Shares knowledge and mentors others'
+
+  languages:
+    - language: 'Norwegian'
+      proficiency: 'Native'
+    - language: 'English'
+      proficiency: 'Fluent'
+
+  professional_experience:
+    - company: 'Kystverket (Norwegian Coastal Administration)'
+      position: 'Summer Intern'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Collected, combined, and processed image and geographic data from various APIs using JavaScript and Python.'
+        - 'Performed data annotation and structured training and test datasets in Roboflow.'
+        - 'Worked in a team of three students on data engineering and model development.'
+        - 'Delivered a working codebase, technical report, and presentation to management.'
+
+    - company: 'NTNU – Faculty of Information Technology and Electrical Engineering'
+      position: 'Teaching Assistant'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Guided students in object-oriented programming with Java in the course TDT4100.'
+        - 'Reviewed and gave feedback on assignment work for a group of students.'
+
+    - company: 'Various Shorter Positions'
+      position: 'Various Roles'
+      location: 'Langevåg / Ålesund'
+      duration: '06.2015 – 08.2021'
+      achievements:
+        - '06.2021 – 08.2021: Summer Substitute, Langevåg Røde Kors Molvær – Equipment loans and maintenance, customer service, and practical work.'
+        - '05.2020 – 08.2020: Store Assistant, Rema 1000, Langevåg – Stock replenishment and cashier duties.'
+        - '10.2019 – 12.2019: Substitute Teacher, Sula ungdomsskule – Planned and taught lessons in several subjects.'
+        - '03.2019 – 06.2019: School Assistant, Langevåg skule – Assistant for grades 1–4 and after-school programme.'
+
+    - company: 'Norwegian Armed Forces – Garrison in Sør-Varanger'
+      position: 'Platoon Assistant / Squad Leader'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Responsible for equipment and logistics for an infantry platoon as platoon assistant.'
+        - 'Served as squad leader during exercises with direct leadership responsibility for soldiers. Received the rating "outstanding" for service performance.'
+
+  independent_projects:
+    - name: 'Large, Distributed Datasets – Database System (TDT4225)'
+      location: 'NTNU, Trondheim'
+      duration: '2024'
+      description: >
+        Independent project designing and implementing database systems for large-scale datasets.
+      achievements:
+        - 'Designed and developed databases in SQL (MySQL) and NoSQL (MongoDB) for large datasets.'
+        - 'Set up and configured the databases locally using Docker.'
+        - 'Performed data analytics and complex queries against the databases using Python.'
+
+    - name: 'Master''s Thesis: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
+      location: 'NTNU, Trondheim'
+      duration: '2025'
+      description: >
+        Developed predictive and decision models for financial time series with a focus on
+        uncertainty quantification and practical modelling in Python.
+      achievements:
+        - 'Designed a Bayesian neural network in Python for predicting financial time series with uncertainty estimates.'
+        - 'Implemented a decision model based on the predictions for automated trading.'
+
+    - name: 'Web Application – Software Development'
+      location: 'NTNU, Trondheim'
+      duration: '2022'
+      description: >
+        Team project developing a fullstack web application.
+      achievements:
+        - 'Contributed to frontend development in React with TypeScript.'
+        - 'Worked using agile methods with code reviews and version control via Git.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'MSc Industrial Economics and Technology Management'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      details:
+        teknologiretning: 'Computer Science with Artificial Intelligence'
+        fagretning: 'Artificial Intelligence'
+        masterprofil: 'Investment, Finance and Management Control'
+        karaktersnitt: 'GPA 3.3 (285/300 ECTS)'
+        relevante_emner:
+          - 'Large, Distributed Datasets (TDT4225): Design and implementation of SQL and NoSQL databases (MySQL and MongoDB) with Docker.'
+          - 'Data Warehousing and Data Mining (TDT4300): Data quality, preprocessing, classification, clustering, and pattern recognition.'
+          - 'Data Modelling and Database Systems (TDT4145): Development of database applications with emphasis on modelling and analysis.'
+          - 'Machine Learning (TDT4173, TDT4172): Theory and practice within supervised, unsupervised, and reinforcement learning.'
+          - 'Software Development: Developed a web application in a team with frontend in React/TypeScript and backend in Python/Django.'
+    - institution: 'Numedal Folk High School'
+      program: 'Ball Sports'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'
+    - institution: 'Royal Norwegian Air Force Flight School'
+      program: 'Selection Flight Training'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      details:
+        beskrivelse: >
+          The final phase of a highly competitive selection process to become a pilot in the Royal
+          Norwegian Air Force. Among the last 50 of 1,426 applicants. Completed 7 exams with a
+          minimum score of 90% on each, as well as 9 flight hours.

@@ -1,0 +1,38 @@
+version: '2.0.0'
+analysis_date: '2026-04-06'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Norwegian Seafood Company AS'
+  position: 'Logistikkmedarbeider'
+  primary_focus: 'logistikk'
+  date: '6. april 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+
+  content:
+    letter_title: 'Søknad – Logistikkmedarbeider'
+    opening_line: ' '
+    body:
+      - >
+        Jeg er nyutdannet sivilingeniør i industriell økonomi og teknologiledelse fra NTNU,
+        og søker stillingen som logistikkmedarbeider hos Norwegian Seafood Company.
+      - >
+        Den mest relevante erfaringen min for denne stillingen er fra Forsvaret. Som
+        troppsassistent ved Garnisonen i Sør-Varanger hadde jeg daglig ansvar for materiell
+        og forsyninger for en infanteritropp. Det krevde at man holdt oversikten, var nøyaktig
+        og fikk ting gjort – også når det var travelt. Jeg er strukturert og pålitelig, vant
+        til å jobbe selvstendig og ta ansvar for oppgavene jeg får. Studiet i industriell økonomi har i tillegg gitt meg
+        god forståelse for økonomi og administrasjon, så jeg kan bidra på flere områder enn
+        bare logistikk. Studiet er krevende, og jeg er vant til å håndtere mange innleveringer
+        og prosjekter parallelt – noe som har gitt meg god arbeidskapasitet.
+      - >
+        Jeg trives godt med varierte oppgaver og i uformelle arbeidsmiljøer, og det er nettopp
+        det dere beskriver – noe som gjør at stillingen passer godt for meg.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

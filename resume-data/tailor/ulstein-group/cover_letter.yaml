@@ -1,0 +1,46 @@
+version: '2.0.0'
+analysis_date: '2026-04-19'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Ulstein Group'
+  position: 'Data Engineer'
+  primary_focus: 'data'
+  date: '19 April 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Cover Letter – Data Engineer'
+    opening_line: 'To Ulstein Group,'
+    body:
+      - >
+        I am applying for the position of Data Engineer at Ulstein Group. As a recently graduated
+        MSc (Jan 2026) in Industrial Economics and Technology Management from NTNU, specialising in
+        computer science and artificial intelligence, I am genuinely interested in contributing to
+        the digitalisation of the maritime industry through the design and development of data
+        pipelines and infrastructure on Ulstein's data platform. I live in Langevåg and prefer the
+        Ålesund office, but I am open to all locations.
+      - >
+        I have hands-on experience with Python, SQL, and API integration from both studies and
+        professional work. During my internship at Kystverket (Norwegian Coastal Administration),
+        I worked in a team on data engineering: collecting and combining image and geographic data
+        from various APIs using JavaScript and Python, annotating and structuring datasets, and
+        delivering a working codebase, technical report, and presentation to management. Through
+        my studies at NTNU, I have worked with the design and implementation of database systems
+        in SQL (MySQL) and NoSQL (MongoDB) with Docker, performed data analytics and complex
+        queries using Python, and worked with data quality and preprocessing in courses such as
+        TDT4225, TDT4300, and TDT4145.
+      - >
+        I do not yet have experience with ADF, dbt, or Snowflake, but I am used to picking up
+        new technologies and platforms quickly — and I am genuinely curious to learn. I thrive
+        in teams, take initiative, and enjoy contributing to shared goals. I look forward to a
+        conversation about how I can contribute to Ulstein Group's digitalisation work.
+    signature: |
+      Kind regards,
+      Elias Lerheim Birkeland

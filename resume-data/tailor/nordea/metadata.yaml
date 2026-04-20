@@ -1,0 +1,32 @@
+company: 'Nordea'
+folder_path: 'resume-data/tailor/nordea'
+available_files:
+  - 'metadata.yaml'
+  - 'resume.yaml'
+  - 'cover_letter.yaml'
+  - 'job_posting.md'
+position: 'Quantitative Risk Model Developer (Credit Risk)'
+primary_focus: 'quantitative modelling + credit risk + Python/SQL + financial data analysis'
+job_summary: 'Permanent quantitative risk modelling role in Nordea IRB team, all levels, Oslo/Stockholm/Helsinki/Warsaw'
+job_details:
+  company: 'Nordea'
+  location: 'Oslo / Stockholm / Helsinki / Warsaw'
+  experience_level: 'All levels (Assistant to Senior)'
+  employment_type: 'Permanent'
+  must_have_skills:
+    - "Master's or PhD in quantitative field"
+    - 'Python and SQL programming'
+    - 'Advanced quantitative modelling'
+    - 'Large dataset analysis'
+    - 'Analytical and structured problem-solving'
+    - 'Communication of complex statistical concepts'
+    - 'Ownership and collaboration mindset'
+  nice_to_have_skills:
+    - 'IRB / IFRS9 / credit risk stress testing knowledge'
+    - 'Experience in financial services'
+    - 'Model lifecycle experience (documentation, monitoring, implementation)'
+    - 'Technical tool development'
+  team_context: 'International Risk Models team, English working language, hybrid (60% office)'
+  user_scale: 'One of the largest Nordic banks, thousands of employees'
+active_template: 'classic'
+last_updated: '2026-04-07T00:00:00Z'

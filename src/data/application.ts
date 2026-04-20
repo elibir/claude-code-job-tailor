@@ -1,247 +1,234 @@
 // @ts-nocheck
 // Auto-generated application data - TypeScript validation disabled
-// Company: sopra-steria
-// Generated at: 2026-03-28T14:02:14.784Z
+// Company: ulstein-group
+// Generated at: 2026-04-19T20:53:14.450Z
 
 import type { ApplicationData } from '@types';
 
 const applicationData: ApplicationData = {
   "metadata": {
-    "company": "Sopra Steria",
-    "folder_path": "resume-data/tailor/sopra-steria",
+    "company": "Ulstein Group",
+    "folder_path": "resume-data/tailor/ulstein-group",
     "available_files": [
       "metadata.yaml",
       "resume.yaml",
       "job_analysis.yaml",
-      "cover_letter.yaml"
+      "cover_letter.yaml",
+      "job_posting.md"
     ],
-    "position": "Nyutdannet Teknologi – Data og AI / Utvikling",
-    "primary_focus": "junior_engineer + [data, ai, python, react, consulting]",
-    "job_summary": "Norges ledende IT-konsulent, nyutdannet-program, Data og AI / Utvikling",
+    "position": "Data Engineer",
+    "primary_focus": "data + [python, sql, pipelines, databaser, api]",
+    "job_summary": "Maritim industri Sunnmøre, Python/SQL/ADF/dbt/Snowflake, datainnsamling og pipelines",
     "job_details": {
-      "company": "Sopra Steria",
-      "location": "Oslo (Biskop Gunnerus gate 14A, 0185 Oslo)",
-      "experience_level": "Junior / Nyutdannet",
-      "employment_type": "Fast",
+      "company": "Ulstein Group",
+      "location": "Ulsteinvik / Ålesund / Oslo",
+      "experience_level": "Junior-Mid",
+      "employment_type": "Fulltid",
       "must_have_skills": [
-        "Teknisk utdanning (bachelor/master)",
-        "Python / Data og AI",
-        "Utvikling (fullstack/frontend/backend)",
-        "Norsk kommunikasjon",
-        "Samarbeid og kundeorientering"
+        "Python",
+        "SQL",
+        "Datapipelines og datainnsamling",
+        "API-integrasjon",
+        "Strukturert datalagring"
       ],
       "nice_to_have_skills": [
-        "React / JavaScript",
-        "Skyplattformer (Azure, AWS, GCP)",
-        "Erfaring fra konsulentmiljø",
-        "Sertifiseringer",
-        "Nettverksbygging"
+        "ADF (Azure Data Factory)",
+        "dbt",
+        "Snowflake",
+        "Sensorer og datainnsamlingssystemer"
       ],
-      "team_context": "Norges ledende IT-konsulentselskap, tverrfaglige team med private og offentlige kunder",
-      "user_scale": "Private og offentlige virksomheter i hele Norge, samfunnskritiske løsninger"
+      "team_context": "Team av data engineers og data scientists, arbeider med digitalisering av skipsdrift og skipsbygging",
+      "user_scale": "Intern dataplattform for Ulstein Group, over 500 ansatte, internasjonal virksomhet"
     },
     "active_template": "classic",
-    "last_updated": "2026-03-28T12:00:00Z"
+    "last_updated": "2026-04-19T12:00:00Z"
   },
   "job_analysis": {
-    "company": "Sopra Steria",
-    "position": "Nyutdannet Teknologi – Data og AI / Utvikling",
+    "company": "Ulstein Group",
+    "position": "Data Engineer",
     "job_focus": [
       {
-        "primary_area": "junior_engineer",
+        "primary_area": "data",
         "specialties": [
-          "data",
-          "ai",
           "python",
-          "backend",
-          "fullstack"
+          "sql",
+          "pipelines",
+          "databaser",
+          "api"
         ],
-        "weight": 0.5
+        "weight": 0.7
       },
       {
-        "primary_area": "junior_engineer",
+        "primary_area": "data",
         "specialties": [
-          "react",
-          "frontend",
-          "typescript",
-          "javascript"
-        ],
-        "weight": 0.3
-      },
-      {
-        "primary_area": "junior_engineer",
-        "specialties": [
-          "consulting",
-          "communication",
-          "collaboration"
+          "infrastruktur",
+          "datalagring",
+          "arkitektur"
         ],
         "weight": 0.2
+      },
+      {
+        "primary_area": "engineer",
+        "specialties": [
+          "analyse",
+          "forretningsverdi"
+        ],
+        "weight": 0.1
       }
     ],
-    "location": "Oslo (Biskop Gunnerus gate 14A, 0185 Oslo)",
-    "employment_type": "Fast",
-    "experience_level": "Junior / Nyutdannet",
+    "location": "Ulsteinvik / Ålesund / Oslo",
+    "employment_type": "Fulltid",
+    "experience_level": "Junior-Mid",
     "requirements": {
       "must_have_skills": [
         {
-          "skill": "Teknisk mastergrad (NTNU sivilingeniør)",
+          "skill": "Python",
           "priority": 10
         },
         {
-          "skill": "Python og Data / AI",
+          "skill": "SQL",
+          "priority": 10
+        },
+        {
+          "skill": "Datapipelines og datainnsamling",
           "priority": 9
         },
         {
-          "skill": "Norsk kommunikasjon (muntlig og skriftlig)",
+          "skill": "API-integrasjon og dataflyt",
           "priority": 9
         },
         {
-          "skill": "Fullstack-utvikling (React, JavaScript)",
+          "skill": "Strukturert datalagring",
           "priority": 8
-        },
-        {
-          "skill": "Samarbeidsevner og kundeorientering",
-          "priority": 8
-        },
-        {
-          "skill": "Strukturert og målbevisst",
-          "priority": 7
-        },
-        {
-          "skill": "Sterke karakterer",
-          "priority": 7
         }
       ],
       "nice_to_have_skills": [
         {
-          "skill": "Skyplattformer (Azure, AWS, GCP)",
-          "priority": 6
+          "skill": "ADF (Azure Data Factory)",
+          "priority": 7
         },
         {
-          "skill": "Prosjekterfaring med reelle leveranser",
-          "priority": 6
+          "skill": "dbt",
+          "priority": 7
         },
         {
-          "skill": "Ledererfaring",
+          "skill": "Snowflake",
+          "priority": 7
+        },
+        {
+          "skill": "Sensorer og datainnsamlingssystemer",
           "priority": 5
-        },
-        {
-          "skill": "Sertifiseringer eller faglig engasjement",
-          "priority": 4
         }
       ],
       "soft_skills": [
-        "Nysgjerrig og lærevillig",
-        "Kundeorientert",
-        "God til å samarbeide og bygge relasjoner",
-        "Strukturert og målbevisst",
-        "Kommuniserer godt på norsk",
-        "Initiativrik"
+        "Lagspiller",
+        "Resultat- og handlingsorientert",
+        "Nysgjerrig og læringsvillig",
+        "Kreativ og villig til å dele",
+        "Flytende norsk og engelsk"
       ],
-      "experience_years": 0,
-      "education": "Teknisk eller økonomisk utdanning på minimum master-/sivilingeniørnivå"
+      "experience_years": 1,
+      "education": "Bachelor eller master i relevant felt"
     },
     "responsibilities": {
       "primary": [
-        "Utvikle samfunnskritiske digitale løsninger for kunder i privat og offentlig sektor",
-        "Jobbe tett på kunder og brukere som teknologikonsulent",
-        "Bidra innen Data og AI eller fullstack-utvikling (React, backend)",
-        "Delta i Accelerate-programmet for faglig og personlig utvikling",
-        "Bygge nettverk og dele kunnskap i et konsulentmiljø"
+        "Lage automatiserte arbeidsflyter (pipelines) for å hente inn, rense og forprosessere data fra ulike kilder",
+        "Utvikle og vedlikeholde strukturerte datalagringssystemer",
+        "Sikre effektiv og feilfri henting og lagring av data",
+        "Etablere dataflyter via API"
       ],
       "secondary": [
-        "Jobbe på tvers av bransjer i ulike prosjekter",
-        "Bidra til innovasjon og digitalisering hos kundene",
-        "Representere Sopra Sterias verdier og «Power of Sharing»-kultur"
+        "Støtte utvikling av digitale tjenester for skip i drift",
+        "Bidra til digitalisering av skipsbygging og skipsdesign"
       ]
     },
     "role_context": {
-      "department": "Teknologi – Data og AI / Utvikling",
-      "team_size": "Store tverrfaglige konsulentteam, Norges ledende IT-konsulentselskap",
+      "department": "Data engineering og data science team",
+      "team_size": "Team av data engineers og data scientists",
       "key_points": [
-        "Norges ledende konsulentselskap innen digitalisering, innovasjon og bærekraft",
-        "Kåret til Norges beste arbeidsplass flere år på rad",
-        "Accelerate-programmet gir faglig og personlig utvikling for nyutdannede",
-        "Prosjekter hos kunder i både privat og offentlig sektor",
-        "Sterk «Power of Sharing»-kultur – alltid noen å lære av"
+        "Internasjonalt anerkjent leverandør av skipsdesign, skipsbygging og systemløsninger",
+        "Over 100 år i maritim industri, hovudkontor i Ulsteinvik på Sunnmøre",
+        "Fokus på digitalisering og bærekraftige marine operasjoner",
+        "Over 500 ansatte, internasjonal virksomhet"
       ]
     },
     "application_info": {
-      "posting_url": "https://www.finn.no/job/fulltime/ad.html?finnkode=453431457",
-      "posting_date": "2026-03-10",
-      "deadline": "2026-04-01"
+      "posting_url": "https://www.ulstein.com/career",
+      "posting_date": "2026-04-19",
+      "deadline": "2026-04-19"
     },
     "candidate_alignment": {
       "strong_matches": [
-        "Sivilingeniør fra NTNU med spesialisering i datateknologi og AI – perfekt match for Data og AI-spor",
-        "Python – brukt i maskinlæring, data engineering og masteroppgave",
-        "React og JavaScript – brukt i fullstack-prosjekt ved NTNU",
-        "SQL og databaser – TDT4145 og TDT4225 ved NTNU",
-        "Ledererfaring fra Forsvaret og NTNU (læringsassistent)",
-        "Norsk morsmål – sterk kommunikasjon på norsk",
-        "Masteroppgave med finansdomene – viser evne til selvstendig leveranse",
-        "Nyutdannet jan 2026 – oppfyller kravet om maks ett års erfaring"
+        "Python – brukt i maskinlæringsprosjekter og internship hos Kystverket",
+        "SQL og databaser – TDT4225 (MySQL/MongoDB/Docker) og TDT4145 (NTNU)",
+        "API-integrasjon og datainngesting – Kystverket-internship (JavaScript og Python)",
+        "Data engineering og databearbeiding – internship og NTNU-prosjekter",
+        "Sivilingeniørutdanning fra NTNU innen teknologiledelse og datateknologi",
+        "Data analytics – TDT4300, TDT4225, masteroppgave"
       ],
       "gaps_to_address": [
-        "Ingen formell konsulenterfaring – kompenseres med bred prosjekterfaring fra studier",
-        "Begrenset erfaring med skyplattformer (Azure/AWS) – noe Docker-erfaring"
+        "Ingen erfaring med ADF (Azure Data Factory)",
+        "Ingen erfaring med dbt",
+        "Ingen erfaring med Snowflake"
       ],
       "transferable_skills": [
-        "Kystverket-internship → prosjektarbeid tett på virksomhet og tekniske leveranser",
-        "Læringsassistent NTNU → kommunikasjon, pedagogikk og deling av kunnskap",
-        "Forsvaret → struktur, ansvarlighet og ledelse under press",
-        "Masteroppgave → selvstendig leveranse av kompleks teknisk løsning"
+        "SQL og NoSQL fra NTNU-prosjekter → strukturert datalagring og henting",
+        "API-innhenting fra Kystverket → datapipelines og dataflyt via API",
+        "Python-kompetanse fra studier og internship → datainngesting og prosessering",
+        "Læringsvilje og adaptabilitet → rask tilpasning til ADF/dbt/Snowflake"
       ],
-      "emphasis_strategy": "Fremhev tverrfagligheten (AI + finans + utvikling), samarbeidsevner og evnen til å jobbe tett på kunder og levere konkrete resultater"
+      "emphasis_strategy": "Fremhev Python/SQL-bredde, praktisk API-integrasjon og databaseerfaring. Vis læringsvilje for plattformverktøy (ADF/dbt/Snowflake) fremfor å unnskylde gap."
     },
     "section_priorities": {
       "technical_expertise": [
-        "data_og_ai",
         "programmering",
-        "frontend_og_web",
-        "verktoy_og_annet"
+        "data_og_databaser",
+        "verktoy_og_annet",
+        "frontend_og_web"
       ],
-      "experience_focus": "Fremhev Kystverket (teknisk leveranse til virksomhet), læringsassistent (deling og kommunikasjon), og Forsvaret (ledelse og ansvar)",
-      "project_relevance": "Inkluder masteroppgave (AI + finans, selvstendig leveranse) og fullstack-web (React/TypeScript). Nedprioriter rene AI-teori-prosjekter."
+      "experience_focus": "Fremhev datainngesting og API-arbeid fra Kystverket, og databaseprosjektet (TDT4225) som lead-prosjekt",
+      "project_relevance": "Inkluder TDT4225 (databasesystem – meget relevant). Masteroppgave sekundær – tonn ned RL, frem data pipeline-aspektet."
     },
     "optimization_actions": {
       "LEAD_WITH": [
-        "Data og AI-kompetanse fra NTNU og masteroppgave",
-        "Tverrfaglig bakgrunn: teknologi + finans + økonomi"
+        "Python og SQL",
+        "Datapipelines og API-integrasjon",
+        "Strukturert datalagring og henting"
       ],
       "EMPHASIZE": [
-        "Konkrete leveranser (Kystverket, masteroppgave, web-applikasjon)",
-        "Samarbeid og kommunikasjon (læringsassistent, Forsvaret)",
-        "Nysgjerrighet og lærevillighet – konsulentegenskaper"
+        "Databasedesign og implementering (MySQL, MongoDB, Docker)",
+        "Databearbeiding og preprosessering",
+        "Læringsvilje og nysgjerrighet – vil lære ADF/dbt/Snowflake"
       ],
       "QUANTIFY": [
-        "Karaktersnitt og studiepoeng",
-        "Flypilot-seleksjon (topp 50 av 1426)"
+        "Omfang av datasett og API-integrasjoner ved Kystverket",
+        "Studiepoeng og karaktersnitt"
       ],
       "DOWNPLAY": [
-        "Rene AI-algoritmdetaljer (PPO, Bayesian NN)",
-        "Tekniske detaljer om maskinlæringsarkitektur"
+        "Reinforcement learning-detaljer",
+        "Frontend/React som primærkompetanse",
+        "Finansdomene-spesifikk kunnskap"
       ]
     },
     "ats_analysis": {
       "title_variations": [
-        "Nyutdannet konsulent",
-        "Data og AI-konsulent",
-        "Fullstack-utvikler"
+        "Data Engineer",
+        "Dataingeniør",
+        "Data pipeline developer"
       ],
       "critical_phrases": [
-        "Data og AI",
-        "nyutdannet",
-        "konsulent",
-        "digitalisering",
-        "Python og React"
+        "Python og SQL",
+        "datapipelines",
+        "API-integrasjon",
+        "datalagring og henting",
+        "data engineering"
       ]
     }
   },
   "resume": {
     "name": "Elias Lerheim Birkeland",
-    "title": "Sivilingeniør | Industriell økonomi og teknologiledelse",
-    "locale": "no",
+    "title": "MSc Industrial Economics and Technology Management",
+    "locale": "en",
     "contact": {
       "phone": "94164312",
       "email": "birkeland.elias@outlook.com",
@@ -251,152 +238,171 @@ const applicationData: ApplicationData = {
     },
     "professional_experience": [
       {
-        "company": "Kystverket",
+        "company": "Kystverket (Norwegian Coastal Administration)",
         "position": "Summer Intern",
         "location": "Ålesund",
         "duration": "06.2023 – 08.2023",
         "achievements": [
-          "Utviklet maskinlæringsmodeller for bildegjenkjenning (computer vision) i Python, med fokus på praktisk anvendelse for Kystverkets operasjoner.",
-          "Hentet inn og sammenstilte bildedata og geografiske data fra ulike API-er med JavaScript og Python.",
-          "Leverte en fungerende kodebase, teknisk rapport og presentasjon for ledelsen."
+          "Collected, combined, and processed image and geographic data from various APIs using JavaScript and Python.",
+          "Performed data annotation and structured training and test datasets in Roboflow.",
+          "Worked in a team of three students on data engineering and model development.",
+          "Delivered a working codebase, technical report, and presentation to management."
         ]
       },
       {
-        "company": "NTNU – Fakultet for informasjonsteknologi og elektroteknikk",
-        "position": "Læringsassistent",
+        "company": "NTNU – Faculty of Information Technology and Electrical Engineering",
+        "position": "Teaching Assistant",
         "location": "Trondheim",
         "duration": "01.2022 – 05.2022",
         "achievements": [
-          "Veiledet studenter i TDT4100 – Objektorientert programmering med Java."
+          "Guided students in object-oriented programming with Java in the course TDT4100.",
+          "Reviewed and gave feedback on assignment work for a group of students."
         ]
       },
       {
-        "company": "Diverse stillinger",
-        "position": "Diverse stillinger",
-        "location": "Langevåg / Trondheim",
-        "duration": "03.2019 – 08.2021",
+        "company": "Various Shorter Positions",
+        "position": "Various Roles",
+        "location": "Langevåg / Ålesund",
+        "duration": "06.2015 – 08.2021",
         "achievements": [
-          "06.2021 – 08.2021: Sommervikar, Langevåg Røde Kors Molvær – Kundeservice og praktisk arbeid.",
-          "05.2020 – 08.2020: Butikkmedarbeider, Rema 1000, Langevåg – Varepåfylling og kassearbeid.",
-          "10.2019 – 12.2019: Lærervikar, Sula ungdomsskule – Underviste og planla timer i flere fag.",
-          "03.2019 – 06.2019: Assistent, Langevåg skule – Assistent på 1.–4. trinn og SFO."
+          "06.2021 – 08.2021: Summer Substitute, Langevåg Røde Kors Molvær – Equipment loans and maintenance, customer service, and practical work.",
+          "05.2020 – 08.2020: Store Assistant, Rema 1000, Langevåg – Stock replenishment and cashier duties.",
+          "10.2019 – 12.2019: Substitute Teacher, Sula ungdomsskule – Planned and taught lessons in several subjects.",
+          "03.2019 – 06.2019: School Assistant, Langevåg skule – Assistant for grades 1–4 and after-school programme."
         ]
       },
       {
-        "company": "Forsvaret – Garnisonen i Sør-Varanger",
-        "position": "Troppsassistent / Lagfører",
+        "company": "Norwegian Armed Forces – Garrison in Sør-Varanger",
+        "position": "Platoon Assistant / Squad Leader",
         "location": "Sør-Varanger",
         "duration": "07.2017 – 01.2019",
         "achievements": [
-          "Ansvarlig for materiell og logistikk for en infanteritropp som troppsassistent i 18 måneder.",
-          "Fungerte som lagfører med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse."
+          "Responsible for equipment and logistics for an infantry platoon as platoon assistant.",
+          "Served as squad leader during exercises with direct leadership responsibility for soldiers. Received the rating \"outstanding\" for service performance."
         ]
       }
     ],
     "education": [
       {
         "institution": "NTNU",
-        "program": "Sivilingeniør, datateknologi",
-        "location": "Trondheim",
-        "duration": "08.2025 – nåværende"
-      },
-      {
-        "institution": "NTNU",
-        "program": "Sivilingeniør, industriell økonomi og teknologiledelse",
+        "program": "MSc Industrial Economics and Technology Management",
         "location": "Trondheim",
         "duration": "08.2020 – 01.2026"
       },
       {
-        "institution": "Numedal folkehøgskole (Idrettsskolen)",
-        "program": "Ballsport",
+        "institution": "Numedal Folk High School",
+        "program": "Ball Sports",
         "location": "Rollag",
         "duration": "01.2020 – 05.2020"
       },
       {
-        "institution": "Luftforsvarets flygeskole",
-        "program": "Seleksjonsflyging",
+        "institution": "Royal Norwegian Air Force Flight School",
+        "program": "Selection Flight Training",
         "location": "Bardufoss",
         "duration": "07.2019 – 10.2019"
       }
     ],
     "profile_picture": "/img/Elias Birkeland.jpg",
-    "summary": "Nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi, kunstig intelligens og finans. Har praktisk erfaring med Python, maskinlæring, databaser og utvikling fra studier og internship.\n",
-    "technical_expertise": [],
-    "skills": [
-      "Nysgjerrig og lærevillig",
-      "Kundeorientert og relasjonsbyggende",
-      "Strukturert og målbevisst",
-      "Tar initiativ og ansvar for oppgaver",
-      "Arbeider selvstendig og effektivt",
-      "Trives i team og bidrar til felles mål",
-      "Rask til å sette seg inn i nye teknologier og metoder",
-      "Sterk forståelse for teknologi i forretningskontekst",
-      "Evne til å omsette data til forretningsverdi",
-      "Ledererfaring fra militæret",
-      "Erfaring med tverrfaglig teamarbeid",
-      "Deler kunnskap og veileder andre"
-    ],
-    "languages": [],
-    "independent_projects": [
+    "summary": "Recently graduated MSc (Jan 2026) in Industrial Economics and Technology Management from NTNU, specialising in computer science and artificial intelligence. Strong interest in data engineering, with hands-on experience in collecting and structuring data from APIs, designing and implementing databases, and data analysis in Python. Takes initiative, works independently, and picks up new technologies quickly. Thrives in teams and enjoys contributing to shared goals.\n",
+    "technical_expertise": [
       {
-        "name": "Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading",
-        "description": "Selvstendig prosjekt med utvikling av prediksjons- og beslutningsmodeller for finansielle tidsserier, med fokus på usikkerhetskvantifisering og praktisk anvendelse.\n",
-        "location": "NTNU, Trondheim",
-        "duration": "2025",
-        "achievements": [
-          "Designet et Bayesiansk nevralt nettverk i Python for prediksjon av Bitcoin-prisen med usikkerhetsestimater.",
-          "Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-algoritme for automatisert handel."
+        "resume_title": "Programming",
+        "skills": [
+          "Python",
+          "SQL",
+          "JavaScript",
+          "TypeScript"
         ]
       },
       {
-        "name": "Store, distribuerte datamengder – Databasesystem",
-        "description": "Selvstendig prosjekt med design og implementering av databasesystemer for store datamengder.\n",
+        "resume_title": "Data & Databases",
+        "skills": [
+          "MySQL",
+          "MongoDB",
+          "Docker",
+          "API integration",
+          "Data engineering",
+          "Data analytics"
+        ]
+      },
+      {
+        "resume_title": "Tools",
+        "skills": [
+          "Git",
+          "GitHub",
+          "Machine Learning (Scikit-learn, PyTorch)"
+        ]
+      },
+      {
+        "resume_title": "Frontend & Web",
+        "skills": [
+          "React",
+          "HTML / CSS"
+        ]
+      }
+    ],
+    "skills": [
+      "Analytical and structured approach to problem-solving",
+      "Takes initiative and ownership of tasks",
+      "Picks up new technologies and methods quickly",
+      "Works independently and efficiently",
+      "Thrives in teams and contributes to shared goals",
+      "Experience with cross-disciplinary teamwork",
+      "Ability to translate data into business value",
+      "Strong understanding of technology in a business context",
+      "Leadership experience from the military and student residence",
+      "Shares knowledge and mentors others"
+    ],
+    "languages": [
+      {
+        "language": "Norwegian",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ],
+    "independent_projects": [
+      {
+        "name": "Large, Distributed Datasets – Database System (TDT4225)",
+        "description": "Independent project designing and implementing database systems for large-scale datasets.\n",
         "location": "NTNU, Trondheim",
         "duration": "2024",
         "achievements": [
-          "Designet og utviklet databaser i SQL (MySQL) og NoSQL (MongoDB) for store datamengder.",
-          "Satte opp og konfigurerte databasene lokalt med Docker og gjennomførte data analytics med Python."
+          "Designed and developed databases in SQL (MySQL) and NoSQL (MongoDB) for large datasets.",
+          "Set up and configured the databases locally using Docker.",
+          "Performed data analytics and complex queries against the databases using Python."
         ]
       },
       {
-        "name": "Maskinlæring – Prediksjon av strømproduksjon",
-        "description": "Teamarbeid med maskinlæring for prediksjon av strømproduksjon fra solceller basert på værdata.\n",
+        "name": "Master's Thesis: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading",
+        "description": "Developed predictive and decision models for financial time series with a focus on uncertainty quantification and practical modelling in Python.\n",
         "location": "NTNU, Trondheim",
-        "duration": "2023",
+        "duration": "2025",
         "achievements": [
-          "Trente og evaluerte maskinlæringsmodeller i Python for prediksjon av strømproduksjon fra solceller.",
-          "Jobbet i team med fokus på modellytelse og praktisk anvendelse av teori innen veiledet læring."
+          "Designed a Bayesian neural network in Python for predicting financial time series with uncertainty estimates.",
+          "Implemented a decision model based on the predictions for automated trading."
         ]
       },
       {
-        "name": "Anvendt Data Science – Prediksjon av strømforbruk",
-        "description": "Teamarbeid med utvikling av modeller for prediksjon av strømforbruk i 5 nordiske byer.\n",
-        "location": "NTNU, Trondheim",
-        "duration": "2023",
-        "achievements": [
-          "Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av strømforbruk.",
-          "Jobbet med datarensing, feature engineering og analyse av tidsseriedata.",
-          "Presenterte funn og innsikt fra data med vekt på praktisk forretningsverdi."
-        ]
-      },
-      {
-        "name": "Web-applikasjon – Programvareutvikling",
-        "description": "Teamprosjekt med utvikling av en fullstack web-applikasjon etter agile arbeidsmetoder.\n",
+        "name": "Web Application – Software Development",
+        "description": "Team project developing a fullstack web application.\n",
         "location": "NTNU, Trondheim",
         "duration": "2022",
         "achievements": [
-          "Bidro til utvikling av frontend i React med TypeScript og backend i Python/Django.",
-          "Jobbet med kodegjennomganger og versjonskontroll med Git i team."
+          "Contributed to frontend development in React with TypeScript.",
+          "Worked using agile methods with code reviews and version control via Git."
         ]
       }
     ]
   },
   "cover_letter": {
     "name": "Elias Lerheim Birkeland",
-    "company": "Sopra Steria",
-    "position": "Nyutdannet Teknologi 2026",
-    "primary_focus": "junior_engineer",
-    "date": "28. mars 2026",
+    "company": "Ulstein Group",
+    "position": "Data Engineer",
+    "primary_focus": "data",
+    "date": "19 April 2026",
     "personal_info": {
       "phone": "94164312",
       "email": "birkeland.elias@outlook.com",
@@ -405,14 +411,14 @@ const applicationData: ApplicationData = {
       "github": "https://github.com/elibir"
     },
     "content": {
-      "letter_title": "Søknadsbrev – Nyutdannet Teknologi 2026",
-      "opening_line": " ",
+      "letter_title": "Cover Letter – Data Engineer",
+      "opening_line": "To Ulstein Group,",
       "body": [
-        "Som nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med spesialisering i datateknologi, kunstig intelligens og finans, er jeg genuint interessert i å starte karrieren som konsulent – og Sopra Steria er det stedet jeg ønsker å begynne.\n",
-        "Faglig er jeg godt rustet for Data og AI-fagområdet: gjennom studier og internship har jeg jobbet med Python, maskinlæring, databaser (SQL og NoSQL) og utvikling med React og TypeScript. Jeg er også interessert i utvikling og skyplattformer, selv om jeg har mindre erfaring med sistnevnte. I internshipet hos Kystverket jobbet jeg i team med data engineering og maskinlæring, og leverte kodebase, teknisk rapport og presentasjon for ledelsen – en erfaring som ga meg god forståelse for hva det vil si å levere teknologi med reell forretningsverdi. I masteroppgaven min utviklet jeg prediksjons- og beslutningsmodeller for finansielle tidsserier i Python, med selvstendige leveranser fra design til implementasjon.\n",
-        "Det som tiltrekker meg Sopra Steria er kombinasjonen av faglig bredde og det å jobbe tett på kunder i samfunnskritiske prosjekter. Jeg trives best når jeg kan bidra til noe som faktisk betyr noe – og lære mye underveis. Konsulentlivet passer meg godt: jeg er nysgjerrig, strukturert og god til å kommunisere. Ledererfaring fra Forsvaret og rollen som læringsassistent ved NTNU har lært meg å ta ansvar, jobbe i team og dele kunnskap med andre. «Power of Sharing»-kulturen i Sopra Steria resonnerer direkte med slik jeg liker å jobbe. Jeg ser frem til en eventuell samtale der vi kan diskutere hvordan jeg kan bidra i teamet.\n"
+        "I am applying for the position of Data Engineer at Ulstein Group. As a recently graduated MSc (Jan 2026) in Industrial Economics and Technology Management from NTNU, specialising in computer science and artificial intelligence, I am genuinely interested in contributing to the digitalisation of the maritime industry through the design and development of data pipelines and infrastructure on Ulstein's data platform. I live in Langevåg and prefer the Ålesund office, but I am open to all locations.\n",
+        "I have hands-on experience with Python, SQL, and API integration from both studies and professional work. During my internship at Kystverket (Norwegian Coastal Administration), I worked in a team on data engineering: collecting and combining image and geographic data from various APIs using JavaScript and Python, annotating and structuring datasets, and delivering a working codebase, technical report, and presentation to management. Through my studies at NTNU, I have worked with the design and implementation of database systems in SQL (MySQL) and NoSQL (MongoDB) with Docker, performed data analytics and complex queries using Python, and worked with data quality and preprocessing in courses such as TDT4225, TDT4300, and TDT4145.\n",
+        "I do not yet have experience with ADF, dbt, or Snowflake, but I am used to picking up new technologies and platforms quickly — and I am genuinely curious to learn. I thrive in teams, take initiative, and enjoy contributing to shared goals. I look forward to a conversation about how I can contribute to Ulstein Group's digitalisation work.\n"
       ],
-      "signature": "Med vennlig hilsen,\nElias Lerheim Birkeland\n"
+      "signature": "Kind regards,\nElias Lerheim Birkeland\n"
     }
   }
 };
