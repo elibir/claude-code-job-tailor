@@ -1,0 +1,143 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+source: 'Stillingsinformasjon fra Oslo kommune / Velferdsetaten via FINN.no'
+
+job_analysis:
+  company: 'Oslo kommune – Velferdsetaten'
+  position: 'Dataanalytiker'
+  job_focus:
+    - primary_area: 'data'
+      specialties: ['python', 'machine-learning', 'predictive-models', 'statistics']
+      weight: 0.55
+    - primary_area: 'data'
+      specialties: ['mlops', 'ci-cd', 'databricks', 'sql']
+      weight: 0.25
+    - primary_area: 'data'
+      specialties: ['power-bi', 'reporting', 'public-sector-analysis']
+      weight: 0.20
+  location: 'Hausmanns gate, 0182 Oslo'
+  employment_type: 'Fast'
+  experience_level: 'Mid'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Python (scikit-learn, XGBoost, TensorFlow, PyTorch)'
+        priority: 10
+      - skill: 'Prediktive modeller og maskinlæring'
+        priority: 10
+      - skill: 'Mastergrad med kvantitativ metode'
+        priority: 9
+      - skill: 'Git / versjonskontroll'
+        priority: 8
+      - skill: 'Erfaring fra analyse av offentlig sektor (studentoppgave godkjennes)'
+        priority: 8
+      - skill: 'Norsk skriftlig og muntlig (C2)'
+        priority: 9
+    nice_to_have_skills:
+      - skill: 'CI/CD og MLflow'
+        priority: 7
+      - skill: 'Databricks eller skyplattform (Azure, AWS, GCP)'
+        priority: 7
+      - skill: 'SQL, Polars, Dask, Spark'
+        priority: 6
+      - skill: 'Power BI'
+        priority: 5
+      - skill: 'Prosjektledelse'
+        priority: 4
+    soft_skills:
+      - 'Selvstendig og ansvarsfull'
+      - 'Samfunnsinteressert og nysgjerrig'
+      - 'God kommunikasjon på tvers av fagmiljøer'
+      - 'Utviklings- og resultatorientert'
+      - 'Tverrfaglig samarbeidsevne'
+    experience_years: 2
+    education: 'Mastergrad med kvantitativ metode (samfunnsvitenskap eller tilsvarende)'
+
+  responsibilities:
+    primary:
+      - 'Gjennomføre analyser av kommunale velferdstjenester, særlig bolig og bostøtte'
+      - 'Utvikle prediktive modeller og prognosemodeller for boligbehov'
+      - 'Sette opp og optimalisere MLOps pipelines (CI/CD, distribusjon, overvåkning)'
+      - 'Bidra til overgang til Databricks-plattform'
+      - 'Utarbeide rapporter og presentasjoner for ulike målgrupper'
+    secondary:
+      - 'Visualisere analyser og prognosemodeller i Power BI'
+      - 'Delta i personvernarbeid og DPIA'
+      - 'Innhente behov fra bydelene, Nav-kontor og Rådhuset'
+      - 'Bidra med deskriptiv statistikk og tallgrunnlag'
+
+  role_context:
+    department: 'Analyse- og utredningsseksjonen, Velferdsetaten'
+    team_size: 'Seksjon med analytikere som støtter bydelene og Rådhuset'
+    key_points:
+      - 'Forvalter egen data- og analyseplattform med data fra kommunens fagsystemer'
+      - 'Særlig fokus på bolig, bostøtte, sosialhjelp og flyktningfeltet'
+      - 'Holder på å bygge ny infrastruktur og forberede overgang til Databricks'
+      - 'Tett dialog med Nav-kontor, bydelene, Rådhuset og andre analysemiljøer'
+      - 'Lønn kr 872 700 – 930 600 (spesialkonsulent II, lønnstrinn 54–57)'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Masteroppgave: Bayesiansk nevralt nettverk og PPO i Python for prediksjon og handel – direkte match på prediktive modeller og ML'
+      - 'TDT4173: Random Forest, XGBoost, AutoGluon for prediksjon av strømproduksjon – XGBoost nevnt eksplisitt i stillingen'
+      - 'TDT4259: Maskinlæringsmodeller for prediksjon av strømforbruk i 5 nordiske byer – tidsserieanalyse og prognosearbeid'
+      - 'Kystverket: ML-modeller i Python for bildegjenkjenning, datainnhenting fra API-er – profesjonell ML-erfaring i offentlig virksomhet'
+      - 'TDT4225: SQL og NoSQL (MySQL, MongoDB) for store datamengder – SQL nevnt som ønskelig'
+      - 'Fondsoversikt: GitHub Actions CI/CD-pipeline og Azure-deploy – CI/CD nevnt som ønskelig'
+      - 'Git-erfaring gjennom alle prosjekter'
+      - 'Mastergrad fra NTNU med kvantitativ fordypning'
+    gaps_to_address:
+      - 'Ingen erfaring med Databricks spesifikt – men Azure-deploy og skyplattform-kjennskap'
+      - 'Ingen Power BI-erfaring – men erfaring med datavisualisering i Python'
+      - 'Ingen direkte offentlig-sektorer arbeidserfaring – men Kystverket-internship og masteroppgave kan godkjennes'
+    transferable_skills:
+      - 'GitHub Actions CI/CD → grunnlag for MLflow og Databricks-pipelines'
+      - 'Masteroppgave i finansiell prediksjon → overførbar metodikk til prognosemodeller for boligbehov'
+      - 'Kystverket-internship (statseid) → offentlig sektorkjennskap'
+    emphasis_strategy: 'Fremhev ML-dybden fra masteroppgave og NTNU-kurs (XGBoost, prediksjonsmodeller, tidsserier). Vis at Kystverket-internshippet er offentlig sektor. Koble CI/CD-erfaring til MLOps-krav.'
+
+  section_priorities:
+    technical_expertise:
+      - 'maskinlaering_og_ai'
+      - 'programmering'
+      - 'sky_og_databaser'
+    experience_focus: 'Fremhev masteroppgave (prediksjon, ML i Python) og Kystverket (ML + offentlig sektor). NTNU-kurs i maskinlæring og dataanalyse er direkte relevante.'
+    project_relevance: 'Masteroppgave er stjerneprosjektet her – prediksjonsmodeller med Python. TDT4173 og TDT4259 viser praktisk erfaring med XGBoost og tidsserieprediksjon.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Masteroppgave (prediktive modeller, Python, ML)'
+      - 'Kystverket-internship (offentlig sektor, ML, Python)'
+    EMPHASIZE:
+      - 'Python ML-stack (scikit-learn, XGBoost, PyTorch)'
+      - 'Prediksjonsmodeller og tidsserieanalyse'
+      - 'Git og CI/CD-erfaring'
+      - 'Interesse for samfunnsoppdrag og offentlig sektor'
+    QUANTIFY:
+      - 'Masteroppgave: to-stegs rammeverk (BNN + PPO), levert januar 2026'
+      - 'TDT4173: Beste modell i klassen med AutoGluon, karakter B'
+      - 'Kystverket: levert kodebase, rapport og presentasjon for ledelsen'
+    DOWNPLAY:
+      - 'Fullstack/frontend-erfaring (Fondsoversikt React-del)'
+      - 'Eldre urelaterte deltidsjobber'
+
+  ats_analysis:
+    title_variations:
+      - 'Dataanalytiker'
+      - 'Data scientist'
+      - 'Analytiker'
+    critical_phrases:
+      - 'maskinlæring'
+      - 'Python'
+      - 'prediktive modeller'
+      - 'scikit-learn'
+      - 'XGBoost'
+      - 'MLOps'
+      - 'Git'
+      - 'offentlig sektor'
+      - 'prognosemodeller'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html?finnkode=460254138'
+    posting_date: '2026-04-17'
+    deadline: '03.05.2026'

@@ -1,0 +1,41 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, mandag 21. april 2026'
+
+company: Frend Digital
+position: Nyutdannet teknisk konsulent 2026 (utvikler)
+active_template: classic
+primary_focus: engineer + [ai-agents, llm, python, automation, generative-ai]
+folder_path: resume-data/tailor/frend-digital
+last_updated: '2026-04-21T00:00:00.000Z'
+job_summary: >
+  Oslo-basert AI- og digitaliseringsbyrå i vekst. Søker nyutdannede utviklere til 2026-kull (oppstart
+  august). Fokus på AI-agenter, LLM-rammeverk, automasjon og generativ AI i kundeprosjekter.
+
+available_files:
+  - metadata.yaml
+  - resume.yaml
+  - job_analysis.yaml
+  - cover_letter.yaml
+  - job_posting.md
+
+job_details:
+  company: Frend Digital
+  location: Oslo sentrum
+  experience_level: Junior
+  employment_type: Fast
+  user_scale: 35 ansatte, teknologibyrå i sterk vekst med kunder i mange bransjer
+  must_have_skills:
+    - Programmering og teknisk bakgrunn
+    - Erfaring med AI-verktøy
+    - Rask til å sette seg inn i nye teknologier
+    - Strukturert og selvstendig arbeidsform
+    - Master- eller bachelorgrad innen IT/AI/informatikk
+  nice_to_have_skills:
+    - LangChain / LLM-rammeverk
+    - AI-agenter og workflows
+    - n8n eller Power Automate
+    - Low-code / no-code-løsninger
+  team_context: >
+    Jobber i små, tverrfaglige team med rådgivere og kunder. Flat struktur, hyppige fagkvelder og
+    sosialt miljø. Tidlig ansvar og tett oppfølging fra start.

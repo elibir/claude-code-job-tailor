@@ -1,0 +1,45 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Statens pensjonskasse'
+  position: 'Junior Data Scientist'
+  primary_focus: 'data'
+  date: '21. april 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Junior Data Scientist'
+    opening_line: ''
+    body:
+      - >
+        Masteroppgaven min handlet om å forutsi prisen på Bitcoin, noe som viste seg å være en
+        edruelig øvelse i å jobbe med støyete og uforutsigbare data. Det jeg fikk ut av det er
+        ikke nødvendigvis gode handelsresultater, men praktisk erfaring med å formulere hypoteser,
+        velge modell, evaluere ærlig og formidle hva dataene faktisk sier. Det er den typen
+        arbeidsform stillingen hos SPK beskriver, og det er det jeg ønsker å jobbe videre med.
+      - >
+        I masteroppgaven jobbet jeg med dyp læring og reinforcement learning i Python for prediksjon
+        av finansielle tidsserier. Gjennom to studieprosjekter jobbet jeg med tidsserieprediksjon
+        av energiproduksjon og -forbruk ved hjelp av Random Forest, XGBoost og AutoGluon, der
+        datarensing og feature engineering var viktige deler av arbeidet. I internshippet hos
+        Kystverket bidro jeg til utvikling av ML-modeller for bildegjenkjenning i Python og
+        leverte kodebase og presentasjon for ledelsen.
+      - >
+        MLOps er noe jeg har begynt å få kjennskap til gjennom egne prosjekter. I Fondsoversikt
+        satte jeg opp en GitHub Actions CI/CD-pipeline mot Azure, og er vant til å jobbe med
+        versjonskontroll og Git. Kombinasjonen av klassisk ML og LLM som dere beskriver er en
+        retning jeg finner interessant å utvikle meg videre i, og jeg er kjent med Python og
+        scikit-learn-stacken fra studiene.
+      - >
+        Jeg håper vi kan ta en samtale og se om dette er et godt match begge veier.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

@@ -1,0 +1,44 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, tirsdag 21. april 2026'
+
+company: Statens pensjonskasse
+position: Junior Data Scientist
+active_template: classic
+primary_focus: data + [python, machine-learning, mlops, statistics, generative-ai]
+folder_path: resume-data/tailor/statens-pensjonskasse
+last_updated: '2026-04-21T00:00:00.000Z'
+job_summary: >
+  Statens pensjonskasse søker Junior Data Scientist til å bygge prediktive modeller på
+  pensjonsdata, fra feature engineering til produksjonssetting, med MLOps-praksis og
+  hybridtilnærminger der LLM og klassisk ML kombineres. Tverrfaglig team av analytikere og
+  dataingeniører, Skøyen, Oslo.
+
+available_files:
+  - metadata.yaml
+  - resume.yaml
+  - job_analysis.yaml
+  - cover_letter.yaml
+  - job_posting.md
+
+job_details:
+  company: Statens pensjonskasse
+  location: Skøyen, Oslo
+  experience_level: Junior
+  employment_type: Fast
+  user_scale: Statlig institusjon med pensjonsordninger for offentlig ansatte i Norge
+  must_have_skills:
+    - Python for databehandling og modellering
+    - Prediktive modeller og maskinlæring
+    - Statistisk analyse
+    - Mastergrad realfag/datavitenskap
+    - A/B-testing og eksperimentdesign
+    - MLOps-praksis
+  nice_to_have_skills:
+    - Dyp læring / deep learning
+    - LLM og generativ AI
+    - R
+    - Feature engineering til produksjon
+  team_context: >
+    Tverrfaglig team med analytikere og dataingeniører. Jobber fra hypotese til produksjon
+    og samarbeider med SPKs tjenesteavdelinger. Lite byråkrati, sterkt faglig miljø.

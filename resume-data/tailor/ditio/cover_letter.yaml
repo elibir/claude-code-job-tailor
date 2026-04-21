@@ -1,0 +1,47 @@
+version: '2.0.0'
+analysis_date: '2026-04-20'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'DITIO AS'
+  position: 'Junior Full-Stack Utvikler'
+  primary_focus: 'engineer'
+  date: '20. april 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Junior Full-Stack Utvikler'
+    opening_line: ''
+    body:
+      - >
+        Det dere beskriver i annonsen — en utvikler som allerede har skjønt at spillereglene
+        endrer seg og som aktivt bruker AI i utviklingsarbeidet — er akkurat det jeg prøver å
+        være. Som nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse
+        ved NTNU, med spesialisering i datateknologi og kunstig intelligens, er jeg klar for å
+        bidra i et team som tar AI-drevet utvikling på alvor.
+      - >
+        Det prosjektet jeg er mest stolt av er Fondsoversikt — en fullstack web-applikasjon jeg
+        bygde fra idé til deploy. Backend er et REST API i Python og FastAPI, frontend er i React,
+        og hele løsningen er deployet på Azure med en GitHub Actions CI/CD-pipeline. Gjennom hele
+        prosessen brukte jeg Claude Code aktivt — ikke bare for å generere kode, men for å planlegge
+        arkitektur, debugge og refaktorere. Det har endret måten jeg jobber på: jeg tenker mer i
+        systemer, leverer raskere og lærer underveis. I masteroppgaven bygde jeg et bayesiansk
+        nevralt nettverk og en reinforcement learning-agent for automatisert handel under usikkerhet
+        — hvor jeg fant ut at det er vanskelig å lage en pengemaskin, men lærte mye om data,
+        Python, statistikk og maskinlæring på veien. Under internshipet hos Kystverket jobbet jeg i team med
+        innhenting av data fra ulike API-er, strukturering av datasett og utvikling av
+        bildegjenkjenningsmodeller.
+      - >
+        Jeg er ikke den mest erfarne søkeren dere får inn, og det vet jeg godt. Men jeg er genuint
+        jeg er klar for en utfordring, vil kaste meg ut i det og lære mye. Jeg har allerede begynt
+        å bruke AI på en måte som faktisk påvirker hva jeg klarer å levere. Bergen passer meg godt,
+        og jeg håper vi får en samtale der vi kan se om jeg passer inn hos Ditio.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

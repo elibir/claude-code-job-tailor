@@ -1,0 +1,138 @@
+version: '2.0.0'
+analysis_date: '2026-04-20'
+source: 'Stillingsinformasjon fra DITIO AS via FINN.no'
+
+job_analysis:
+  company: 'DITIO AS'
+  position: 'Junior Full-Stack Utvikler'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['react', 'typescript', 'python', 'fullstack', 'ai-tools']
+      weight: 0.65
+    - primary_area: 'engineer'
+      specialties: ['product-thinking', 'independent-work', 'ai-workflows']
+      weight: 0.25
+    - primary_area: 'engineer'
+      specialties: ['azure', 'mongodb', 'ci-cd']
+      weight: 0.10
+  location: 'Edvard Griegs vei 3E, 5059 Bergen (Kronstadparken)'
+  employment_type: 'Fast'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Aktiv bruk av AI-verktøy (Claude, Copilot, Cursor)'
+        priority: 10
+      - skill: 'React / frontend-utvikling'
+        priority: 9
+      - skill: 'Python eller annet backend-språk'
+        priority: 8
+      - skill: 'Produkt-tankegang'
+        priority: 8
+      - skill: 'Selvstendighet og eierskap'
+        priority: 8
+      - skill: 'Fullstack-bredde (frontend + backend)'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Prompt engineering / AI-agenter'
+        priority: 7
+      - skill: 'Egne prosjekter eller open source'
+        priority: 7
+      - skill: 'MongoDB'
+        priority: 5
+      - skill: 'Azure'
+        priority: 5
+      - skill: 'CI/CD'
+        priority: 5
+    soft_skills:
+      - 'Produkt-orientert tankegang'
+      - 'Selvstendighet og eierskap'
+      - 'Nysgjerrighet og driv for å forstå hvordan ting fungerer'
+      - 'God kommunikasjon (teknisk og ikke-teknisk)'
+      - 'Samarbeidsevne og teamfølelse'
+      - 'Evne til å optimalisere og effektivisere prosesser'
+    experience_years: 0
+    education: 'Studieretning innen programmering, informatikk, informasjonsvitenskap eller lignende'
+
+  responsibilities:
+    primary:
+      - 'Utvikle nye funksjoner fra idé til produksjon'
+      - 'Bruke AI-verktøy aktivt for å øke utviklingshastighet og kvalitet'
+      - 'Bidra til å forme hvordan teamet bruker AI i utviklingsprosessen'
+      - 'Jobbe tett med produktledelse for å forstå brukerbehov og prioritere riktig'
+      - 'Skrive kode som er lesbar, testbar og enkel å vedlikeholde'
+    secondary:
+      - 'Jobbe på tvers av frontend og backend'
+      - 'Bidra til utvikling av Ditio Core og Ditio Flow'
+
+  role_context:
+    department: 'Produktteam'
+    team_size: 'Lite team med flat struktur og uformelt miljø'
+    key_points:
+      - 'SaaS-selskap for anleggsbransjen i sterk vekst'
+      - 'To produkter: Ditio Core (produksjonsoppfølging) og Ditio Flow (masselogistikk)'
+      - 'AI-drevet utvikling som kjernestrategi, ikke et buzzword'
+      - 'Fritt valg av arbeidsutstyr og konkurransedyktig lønn for juniorer'
+      - 'Søker 2 utviklere – god mulighet til å forme rollen'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Claude Code brukt aktivt i Fondsoversikt – direkte match på Ditios #1 krav'
+      - 'Fondsoversikt: React + FastAPI + Azure + CI/CD – fullstack fra idé til produksjon'
+      - 'Masteroppgave: AI/ML i Python – selvstendig teknisk prosjekt med dybde'
+      - 'Kystverket: Python + API-integrasjon + ML – profesjonell backend- og dataerfaring'
+      - 'NTNU Programvareutvikling: React/TypeScript + Python/Django i team'
+      - 'MongoDB-erfaring fra TDT4225 – relevant for Ditios datalag'
+      - 'Azure-deploy av Fondsoversikt – relevant for Ditios infrastruktur'
+    gaps_to_address:
+      - 'Ingen erfaring med Go, .NET/C#, Rust – men Ditio sier eksplisitt lite vekt på dette'
+      - 'Ingen Kubernetes/ArgoCD/Kafka – men dette er "for den nysgjerrige", ikke krav'
+    transferable_skills:
+      - 'FastAPI (Python) → naturlig overgang til Go/.NET backend'
+      - 'GitHub Actions CI/CD → grunnlag for Kubernetes/ArgoCD-læring'
+      - 'Masteroppgave i finansiell ML → analytisk forståelse og produktperspektiv'
+    emphasis_strategy: 'Fremhev Fondsoversikt (React+FastAPI+Azure+Claude Code) som konkret bevis på AI-drevet fullstack-utvikling. Legg vekt på produkt-tankegang og selvstendighet.'
+
+  section_priorities:
+    technical_expertise:
+      - 'frontend_og_web'
+      - 'programmering'
+      - 'ai_og_verktoy'
+      - 'sky_og_databaser'
+    experience_focus: 'Fremhev Fondsoversikt og Kystverket. Vis at kandidaten bygger ting fra idé til deploy uten ekstern veiledning.'
+    project_relevance: 'Fondsoversikt er stjerneprosjektet – React, FastAPI, Azure, Claude Code, CI/CD. Masteroppgave viser AI-dybde.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Fondsoversikt-prosjektet (React + FastAPI + Azure + Claude Code)'
+      - 'Aktiv AI-tool-usage (Claude Code)'
+    EMPHASIZE:
+      - 'Fullstack-bredde (frontend + backend)'
+      - 'Selvstendige prosjekter fra idé til deploy'
+      - 'Produkt-tankegang og brukerverdi'
+    QUANTIFY:
+      - 'Fondsoversikt deployet og tilgjengelig på nett'
+      - 'Masteroppgave: to-stegs rammeverk (BNN + PPO)'
+    DOWNPLAY:
+      - 'Manglende erfaring med Go/Rust/.NET'
+      - 'Eldre/urelevante deltidsjobber (plasser bakerst)'
+
+  ats_analysis:
+    title_variations:
+      - 'Junior Full-Stack Utvikler'
+      - 'Fullstack-utvikler'
+      - 'Junior Utvikler'
+    critical_phrases:
+      - 'AI-verktøy'
+      - 'React'
+      - 'Python'
+      - 'fullstack'
+      - 'Claude'
+      - 'AI-drevet utvikling'
+      - 'frontend og backend'
+      - 'egne prosjekter'
+
+  application_info:
+    posting_url: 'https://www.finn.no/job/fulltime/ad.html?finnkode=459733250'
+    posting_date: '2026-04-13'
+    deadline: 'Snarest'

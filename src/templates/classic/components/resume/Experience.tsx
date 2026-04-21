@@ -89,9 +89,6 @@ const ExperienceEntry = ({ experience, debug }: { experience: ExperienceItem; de
         <Text style={styles.dateRange}>{duration}</Text>
       </View>
 
-      {/* Description (for independent projects) */}
-      {description && <Text style={styles.descriptionText}>{description}</Text>}
-
       {/* Achievements bullets */}
       {achievements && achievements.length > 0 && (
         <View>

@@ -39,7 +39,7 @@ export const ProfessionalExperienceSchema = z.object({
 
 export const IndependentProjectSchema = z.object({
   name: z.string().min(1),
-  description: z.string().min(1),
+  description: z.string().min(1).optional(),
   location: z.string().min(1).optional(),
   duration: z.string().min(1).optional(),
   url: z.string().url().optional(),
@@ -168,7 +168,7 @@ export const JobAnalysisSchema = z.object({
 
 export const CoverLetterContentSchema = z.object({
   letter_title: z.string().min(1),
-  opening_line: z.string().min(1),
+  opening_line: z.string(),
   body: z.array(z.string().min(1)).min(1),
   signature: z.string().min(1),
 });

@@ -1,0 +1,43 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, tirsdag 21. april 2026'
+
+company: Oslo kommune – Velferdsetaten
+position: Dataanalytiker
+active_template: classic
+primary_focus: data + [python, machine-learning, mlops, sql, statistics]
+folder_path: resume-data/tailor/oslo-kommune
+last_updated: '2026-04-21T00:00:00.000Z'
+job_summary: >
+  Offentlig etat i Oslo kommune som analyserer velferdstjenester og boligmarkedet. Søker
+  dataanalytiker med sterk Python- og ML-bakgrunn for å utvikle prediktive modeller,
+  MLOps-pipelines og prognosemodeller for boligbehov, samt bidra i overgang til Databricks.
+
+available_files:
+  - metadata.yaml
+  - resume.yaml
+  - job_analysis.yaml
+  - cover_letter.yaml
+  - job_posting.md
+
+job_details:
+  company: Oslo kommune – Velferdsetaten
+  location: Hausmanns gate, 0182 Oslo
+  experience_level: Mid
+  employment_type: Fast
+  user_scale: Kommunal etat med ca. 1050 ansatte fordelt på 35+ tjenestesteder
+  must_have_skills:
+    - Python (scikit-learn, XGBoost, TensorFlow, PyTorch)
+    - Maskinlæring og prediktive modeller
+    - Mastergrad med kvantitativ metode
+    - Git / versjonskontroll
+    - Norsk C2
+    - Erfaring fra offentlig sektor (studentoppgave godkjennes)
+  nice_to_have_skills:
+    - CI/CD og MLflow
+    - Databricks eller skyplattform (Azure, AWS, GCP)
+    - SQL, Polars, Dask, Spark
+    - Power BI
+  team_context: >
+    Analyse- og utredningsseksjonen som støtter bydelene og Rådhuset. Tverrfaglig miljø
+    med tett dialog mot Nav-kontor, utviklermiljø og andre analysemiljøer i kommunen.

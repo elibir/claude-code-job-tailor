@@ -1,0 +1,141 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+source: 'Stillingsinformasjon fra Frend Digital, levert av bruker'
+
+job_analysis:
+  company: 'Frend Digital'
+  position: 'Nyutdannet teknisk konsulent 2026 (utvikler)'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['ai-agents', 'llm', 'generative-ai', 'python', 'automation']
+      weight: 0.60
+    - primary_area: 'engineer'
+      specialties: ['low-code', 'no-code', 'n8n', 'power-automate', 'langchain']
+      weight: 0.25
+    - primary_area: 'engineer'
+      specialties: ['consulting', 'client-delivery', 'tverrfaglig-samarbeid']
+      weight: 0.15
+  location: 'Oslo sentrum'
+  employment_type: 'Fast'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Programmering og teknisk bakgrunn'
+        priority: 10
+      - skill: 'Erfaring med AI-verktøy'
+        priority: 9
+      - skill: 'Rask til å sette seg inn i nye teknologier'
+        priority: 9
+      - skill: 'Strukturert og selvstendig arbeidsform'
+        priority: 8
+      - skill: 'Bachelor- eller mastergrad innen IT, informatikk, AI eller tilsvarende'
+        priority: 8
+      - skill: 'Samarbeidsevne i tverrfaglige team'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'LangChain / LLM-rammeverk'
+        priority: 8
+      - skill: 'AI-agenter og AI-drevne workflows'
+        priority: 8
+      - skill: 'n8n, Power Automate eller tilsvarende automasjonsverktøy'
+        priority: 7
+      - skill: 'Low-code / no-code-løsninger'
+        priority: 6
+      - skill: 'Generativ AI og løsningsutvikling'
+        priority: 7
+    soft_skills:
+      - 'Nysgjerrig og lærevillig'
+      - 'Ambisiøs og motivert for rask utvikling'
+      - 'Fleksibel og tilpasningsdyktig'
+      - 'Raus og god lagspiller'
+      - 'Strukturert problemløser'
+      - 'God kommunikasjon mot kunder og ikke-tekniske kollegaer'
+    experience_years: 0
+    education: 'Bachelor- eller mastergrad innen utvikling, IT, informatikk, AI, teknisk design eller tilsvarende'
+
+  responsibilities:
+    primary:
+      - 'Bygge apper, automasjoner og low-code/no-code-løsninger'
+      - 'Utvikle og tilpasse løsninger basert på generativ AI'
+      - 'Bygge AI-agenter, AI-drevne workflows og assistenter'
+      - 'Jobbe med LLM-rammeverk som LangChain'
+      - 'Integrasjon og automasjon med n8n, Power Automate eller tilsvarende'
+      - 'Samarbeide med rådgivere og kunder om krav og implementering'
+    secondary:
+      - 'Teknisk design og strukturering av løsninger'
+      - 'Videreutvikling og forbedring av eksisterende løsninger'
+      - 'Delta i fagmiljø med fagkvelder og kunnskapsdeling'
+
+  role_context:
+    department: 'Teknisk konsulent – 2026-kull'
+    team_size: '35 ansatte totalt, jobber i små tverrfaglige team'
+    key_points:
+      - 'AI- og digitaliseringsbyrå i sterk vekst, Oslo sentrum'
+      - 'Oppstart 10. august 2026'
+      - 'Tidlig ansvar og erfaring fra kundeprosjekter fra start'
+      - 'Fagmiljø med hyppige fagkvelder og sosialt miljø'
+      - 'Ansetter fortløpende – bør søke raskt'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Masteroppgave i Python: Bayesiansk nevralt nettverk + PPO reinforcement learning – direkte AI/ML-dybde'
+      - 'Claude Code aktivt brukt i Fondsoversikt – viser at AI-verktøy er integrert i arbeidsmåten, ikke et buzzword'
+      - 'Fondsoversikt: fullstack fra idé til deploy – Python, FastAPI, React, Azure, CI/CD'
+      - 'Kystverket: Python + API-integrasjon + bildegjenkjenning med ML – profesjonell erfaring med AI-løsninger'
+      - 'NTNU-kurs i ML (TDT4173, TDT4172, TDT4259): solid teoretisk grunnlag for LLM og AI-agenter'
+      - 'Tverrfaglig teamerfaring fra programvareutvikling (TDT4140) og Kystverket'
+    gaps_to_address:
+      - 'Ingen direkte erfaring med LangChain – men Python + AI-bakgrunn gir naturlig overgang'
+      - 'Ingen erfaring med n8n eller Power Automate – men automasjonstankegang er tydelig fra prosjektene'
+      - 'Konsulentrolle er ny – men militær ledererfaring og kundeorientert kommunikasjon er overførbart'
+    transferable_skills:
+      - 'FastAPI + Python → naturlig grunnlag for LLM-integrasjon og agentbygging'
+      - 'GitHub Actions CI/CD → grunnlag for automasjonsforståelse'
+      - 'Masteroppgave i finansiell AI → analytisk tilnærming til AI-implementering'
+      - 'Militær ledererfaring → strukturert under press, ansvarlig og pålitelig i kundevendte roller'
+    emphasis_strategy: 'Fremhev AI-verktøy-bruken (Claude Code) og masteroppgaven som bevis på at AI ikke er buzzword. Koble Fondsoversikt til fullstack-leveranse. Vis at Python + ML-bakgrunn gir et solid fundament for LLM/agentarbeid selv uten direkte LangChain-erfaring.'
+
+  section_priorities:
+    technical_expertise:
+      - 'ai_og_verktoy'
+      - 'programmering'
+      - 'frontend_og_web'
+      - 'sky_og_databaser'
+    experience_focus: 'Fremhev masteroppgaven (AI/ML) og Kystverket (praktisk ML) som bevis på AI-kompetanse. Vis at Fondsoversikt er bygd med AI-verktøy aktivt integrert.'
+    project_relevance: 'Masteroppgaven er strongest match på AI-dybde. Fondsoversikt viser fullstack-leveranse med Claude Code. Kystverket viser profesjonell ML-erfaring.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Aktiv bruk av AI-verktøy (Claude Code) som arbeidsmetodikk'
+      - 'Masteroppgave i AI/ML som bevis på faglig dybde'
+    EMPHASIZE:
+      - 'Python og AI-erfaring fra både prosjekter og studier'
+      - 'Evne til å levere fra idé til produksjon (Fondsoversikt)'
+      - 'Rask til å ta i bruk nye teknologier'
+    QUANTIFY:
+      - 'Fondsoversikt: deployet på Azure og tilgjengelig på nett'
+      - 'Masteroppgave: to-stegs rammeverk (BNN + PPO)'
+      - 'Kystverket: bildegjenkjenningsmodeller levert med rapport og presentasjon'
+    DOWNPLAY:
+      - 'Manglende LangChain/n8n-erfaring – trekkes ikke frem'
+      - 'Konsulentbakgrunn – erstattes av ledererfaring fra militæret'
+
+  ats_analysis:
+    title_variations:
+      - 'Teknisk konsulent'
+      - 'Nyutdannet utvikler'
+      - 'AI-utvikler'
+    critical_phrases:
+      - 'AI-verktøy'
+      - 'generativ AI'
+      - 'AI-agenter'
+      - 'Python'
+      - 'automasjon'
+      - 'nyutdannet'
+      - 'LLM'
+
+  application_info:
+    posting_url: 'https://frend.no/jobb'
+    posting_date: '2026-04-21'
+    deadline: 'Fortløpende'

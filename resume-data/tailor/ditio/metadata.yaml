@@ -1,0 +1,48 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'Langevåg, søndag 20. april 2026'
+
+company: DITIO AS
+position: Junior Full-Stack Utvikler
+active_template: classic
+primary_focus: engineer + [react, typescript, python, ai, fullstack]
+folder_path: resume-data/tailor/ditio
+last_updated: '2026-04-20T00:00:00.000Z'
+job_summary: >
+  Bergen-basert SaaS-selskap for anleggsbransjen. Søker 2 juniorer med sterk AI-tool-usage og
+  full-stack bredde (React, Python). Teknologier: React/Astro, Go/.NET/Python, MongoDB, Azure, Kubernetes.
+  Vektlegger produkt-tankegang, AI-drevet workflow og selvstendighet fremfor spesifikke rammeverk.
+
+available_files:
+  - metadata.yaml
+  - resume.yaml
+  - job_analysis.yaml
+  - cover_letter.yaml
+  - job_posting.md
+
+job_details:
+  company: DITIO AS
+  location: Edvard Griegs vei 3E, 5059 Bergen (Kronstadparken)
+  experience_level: Junior
+  employment_type: Fast
+  user_scale: SaaS-selskap i sterk vekst, kunder blant Norges største anleggsentreprenører
+  contact:
+    name: Oskar Kvamme
+    title: Teknisk produkteier
+    phone: '48125904'
+  must_have_skills:
+    - Aktiv bruk av AI-verktøy (Claude, Copilot, Cursor)
+    - React (frontend)
+    - Python eller annet backend-språk
+    - Produkt-tankegang
+    - Selvstendighet og eierskap
+    - Fullstack-bredde (frontend + backend)
+  nice_to_have_skills:
+    - Prompt engineering / AI-agenter
+    - Egne prosjekter eller open source
+    - Interesse for B2B SaaS eller anleggsbransjen
+    - Go, .NET, Rust
+    - MongoDB, Azure, Kubernetes
+  team_context: >
+    Produktteam med flat struktur og uformelt miljø. Tett samarbeid med produktledelse.
+    Høy takhøyde for å forme rollen og AI-arbeidsflyt.

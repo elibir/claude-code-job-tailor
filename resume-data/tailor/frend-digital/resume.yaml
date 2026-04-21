@@ -1,0 +1,196 @@
+resume:
+  name: 'Elias Lerheim Birkeland'
+  profile_picture: '/img/elias-birkeland.jpeg'
+  title: 'Sivilingeniør | Industriell økonomi og teknologiledelse'
+  summary: >
+    Nyutdannet sivilingeniør (jan 2026) i industriell økonomi og teknologiledelse fra NTNU, med
+    spesialisering i datateknologi og kunstig intelligens. Har bygget bayesianske nevrale nettverk
+    og reinforcement learning-agenter i Python, og deployet fullstack-applikasjoner til Azure med
+    Claude Code integrert i arbeidsflyten. Trives best med problemer som ikke har en ferdig oppskrift.
+
+  contact:
+    phone: '94164312'
+    email: 'birkeland.elias@outlook.com'
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  skills:
+    - 'Analytisk og strukturert tilnærming til problemløsning'
+    - 'Bruker AI-verktøy aktivt i utviklingsarbeidet'
+    - 'Tar initiativ og ansvar – driver oppgaver fremover uten å bli fortalt hva som er neste steg'
+    - 'Arbeider selvstendig og effektivt'
+    - 'Rask til å sette seg inn i nye teknologier og metoder'
+    - 'Tenker produkt – fokus på reell brukerverdi, ikke teknologi for teknologiens skyld'
+    - 'Trives i team og bidrar til felles mål'
+    - 'Kommuniserer godt, også til ikke-tekniske kollegaer'
+    - 'Erfaring med tverrfaglig teamarbeid'
+    - 'Ledererfaring fra militæret'
+
+  professional_experience:
+    - company: 'Kystverket'
+      position: 'Summer Intern'
+      location: 'Ålesund'
+      duration: '06.2023 – 08.2023'
+      achievements:
+        - 'Utviklet maskinlæringsmodeller i Python for bildegjenkjenning som del av et studentteam.'
+        - 'Hentet inn og sammenstilte data fra ulike API-er med JavaScript og Python.'
+        - 'Gjennomførte dataannotering i Roboflow og leverte kodebase, rapport og presentasjon for ledelsen.'
+
+    - company: 'NTNU – Fakultet for informasjonsteknologi og elektroteknikk'
+      position: 'Læringsassistent'
+      location: 'Trondheim'
+      duration: '01.2022 – 05.2022'
+      achievements:
+        - 'Veiledet og kontrollerte øvingsarbeidet til en gruppe studenter i TDT4100 – Objektorientert programmering med Java.'
+
+    - company: 'Forsvaret – Garnisonen i Sør-Varanger'
+      position: 'Troppsassistent / Lagfører'
+      location: 'Sør-Varanger'
+      duration: '07.2017 – 01.2019'
+      achievements:
+        - 'Gjennomførte 18 måneder verneplikt ved Garnisonen i Sør-Varanger. Som troppsassistent hadde jeg ansvar for materiell og logistikk for en infanteritropp – inkludert telling og vedlikehold av utstyr, planlegging av oppdrag og øvelser, kjøreoppdrag og håndtering av oppdukkende hendelser.'
+        - 'Fungerte som lagfører under øvelser med direkte lederansvar for soldater. Oppnådde vurderingen «utmerket» av tjenestens utførelse.'
+
+    - company: 'Langevåg Røde Kors Molvær'
+      position: 'Sommervikar'
+      location: 'Langevåg'
+      duration: '06.2021 – 08.2021'
+      achievements:
+        - 'Driftet utstyrsdepot med utlån av sport- og friluftsutstyr. Rollen innebar kontroll og vedlikehold av utstyr, kundeservice, samt enkel snekring og malingsarbeid.'
+
+    - company: 'Rema 1000'
+      position: 'Butikkmedarbeider'
+      location: 'Langevåg'
+      duration: '05.2020 – 08.2020'
+      achievements:
+        - 'Kundeservice, varepåfylling og kassearbeid.'
+
+    - company: 'Sula ungdomsskule'
+      position: 'Lærervikar'
+      location: 'Langevåg'
+      duration: '10.2019 – 12.2019'
+      achievements:
+        - 'Underviste og planla timer i matematikk, naturfag, engelsk, samfunnsfag, norsk og musikk.'
+
+    - company: 'Langevåg skule'
+      position: 'Assistent'
+      location: 'Langevåg'
+      duration: '03.2019 – 06.2019'
+      achievements:
+        - 'Assistent på 1.–4. trinn og på SFO.'
+
+    - company: 'TOYS R US'
+      position: 'Ekstrahjelp'
+      location: 'Ålesund'
+      duration: '10.2015 – 07.2017'
+      achievements:
+        - 'Kundeservice, kassearbeid, varepåfylling og lagerarbeid.'
+
+    - company: 'Precious Bean Roasters'
+      position: 'Kafémedarbeider'
+      location: 'Langevåg'
+      duration: '06.2015 – 12.2015'
+      achievements:
+        - 'Kundeservice og kassearbeid.'
+
+    - company: 'Conspectus'
+      position: 'Gitarist og bandmedlem'
+      location: 'Ålesund'
+      duration: '06.2010 – 01.2024'
+      achievements:
+        - 'Hobbybasert metallband som har utgitt tre profesjonelt innspilte studioalbum og spilt over 20 konserter rundt om i Norge.'
+        - 'Bidro med låtskriving, merchandise-salg, sosiale medier samt økonomi- og logistikkarbeid.'
+
+  independent_projects:
+    - name: 'Fondsoversikt'
+      location: 'personlig prosjekt'
+      duration: '2026'
+      url: 'https://fondsoversikt-app.azurewebsites.net/'
+      description: >
+        Fullstack web-applikasjon som henter inn fonddata fra eksterne kilder, rangerer dem med en
+        egenutviklet scoringalgoritme og presenterer resultatet i et oversiktlig grensesnitt.
+      achievements:
+        - 'Bygde REST API med Python og FastAPI for innhenting og scoring av fonddata fra eksterne kilder.'
+        - 'Utviklet React-frontend som visualiserer og rangerer fond basert på scoringalgoritmen.'
+        - 'Satte opp automatisk bygg og deploy til Azure via GitHub Actions CI/CD-pipeline.'
+        - 'Brukte Claude Code som AI-kodingsassistent gjennom hele utviklingsprosessen.'
+
+    - name: 'Masteroppgave: A Two-Stage Deep Learning Framework for Uncertainty-Aware Bitcoin Forecasting and Trading'
+      location: 'NTNU, Trondheim'
+      duration: '2025'
+      description: >
+        Utviklet et to-stegs rammeverk for prediksjon av Bitcoin-prisen og automatisert handel
+        under usikkerhet, med fokus på usikkerhetskvantifisering og praktisk anvendelse innenfor finans.
+      achievements:
+        - 'Designet et Bayesiansk nevralt nettverk i Python for prediksjon av Bitcoin-prisen med usikkerhetsestimater.'
+        - 'Implementerte en Proximal Policy Optimization (PPO) reinforcement learning-algoritme for automatisert handel basert på prediksjonene.'
+
+    - name: 'Databasesystem – Store, distribuerte datamengder (TDT4225)'
+      location: 'NTNU, Trondheim'
+      duration: '2024'
+      description: >
+        Selvstendig prosjekt med design og implementering av databasesystemer for store datamengder.
+      achievements:
+        - 'Designet og utviklet databaser i SQL (MySQL) og NoSQL (MongoDB) for store datamengder.'
+        - 'Satte opp og konfigurerte databasene lokalt med Docker.'
+        - 'Gjennomførte data analytics og komplekse spørringer mot databasene med Python.'
+
+    - name: 'Maskinlæring – Prediksjon av strømproduksjon (TDT4173)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      achievements:
+        - 'Trente og evaluerte Random Forest, XGBoost og AutoGluon for prediksjon av strømproduksjon fra solceller.'
+        - 'Oppnådde beste modellytelse med AutoGluon – resulterte i karakter B.'
+        - 'Bearbeidet og analyserte værdata som grunnlag for modellene.'
+
+    - name: 'Anvendt Data Science – Prediksjon av strømforbruk (TDT4259)'
+      location: 'NTNU, Trondheim'
+      duration: '2023'
+      achievements:
+        - 'Utviklet og evaluerte maskinlæringsmodeller i Python for prediksjon av strømforbruk i 5 nordiske byer.'
+        - 'Jobbet med datarensing, feature engineering og analyse av tidsseriedata.'
+        - 'Presenterte funn og innsikt fra data med vekt på praktisk forretningsverdi.'
+
+    - name: 'Turplanleggingsapp – Programvareutvikling (TDT4140)'
+      location: 'NTNU, Trondheim'
+      duration: '2022'
+      description: >
+        Teamprosjekt med utvikling av en fullstack web-applikasjon for arrangering av turer i naturen.
+      achievements:
+        - 'Bidro til utvikling av frontend i React med TypeScript.'
+        - 'Bygde funksjonalitet for å opprette, administrere og melde seg på turer.'
+        - 'Jobbet etter agile arbeidsmetoder med kodegjennomganger og versjonskontroll via Git.'
+
+  education:
+    - institution: 'NTNU'
+      program: 'Sivilingeniør, industriell økonomi og teknologiledelse'
+      location: 'Trondheim'
+      duration: '08.2020 – 01.2026'
+      specializations:
+        - 'Teknologiretning: Datateknologi'
+        - 'Fagretning: Kunstig intelligens'
+        - 'Hovedprofil på master: Investering, finans og økonomistyring'
+        - 'Verv og aktiviteter: Janus B fotball, Husbandet Singsaker Studenterhjem, Linjeforeningsbandet «Bandøk»'
+      details:
+        teknologiretning: 'Datateknologi med kunstig intelligens'
+        fagretning: 'Kunstig intelligens'
+        masterprofil: 'Investering, finans og økonomistyring'
+        karaktersnitt: '3.3 (285/300 studiepoeng)'
+        relevante_emner:
+          - 'Programvareutvikling (TDT4140): Fullstack web-applikasjon i team med React/TypeScript og Python/Django.'
+          - 'Maskinlæring (TDT4173, TDT4172): Teori og praksis innen veiledet, uveiledet og forsterkningslæring.'
+          - 'Store, distribuerte datamengder (TDT4225): Design og implementering av databaser i SQL og NoSQL med Docker.'
+          - 'Datavarehus og datagruvedrift (TDT4300): Datakvalitet, preprosessering, klassifisering og mønstergjenkjenning.'
+          - 'Datamodellering og databasesystemer (TDT4145): Utvikling av databaseapplikasjoner med vekt på modellering og analyse.'
+    - institution: 'Numedal folkehøgskole (Idrettsskolen)'
+      program: 'Ballsport'
+      location: 'Rollag'
+      duration: '01.2020 – 05.2020'
+    - institution: 'Luftforsvarets flygeskole'
+      program: 'Seleksjonsflyging'
+      location: 'Bardufoss'
+      duration: '07.2019 – 10.2019'
+      specializations:
+        - 'Den siste fasen av en omfattende seleksjonsprosess for å bli pilot i Luftforsvaret, bestående av teoretiske prøver og seleksjonsflyging.'
+        - 'Blant de siste 50 av 1426 søkere. Gjennomførte 7 eksamener med minst 90% score på samtlige, samt 9 flytimer.'

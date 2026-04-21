@@ -1,0 +1,136 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+source: 'Stillingsinformasjon fra Statens pensjonskasse, levert av bruker'
+
+job_analysis:
+  company: 'Statens pensjonskasse'
+  position: 'Junior Data Scientist'
+  job_focus:
+    - primary_area: 'data'
+      specialties: ['python', 'machine-learning', 'predictive-models', 'statistics']
+      weight: 0.50
+    - primary_area: 'data'
+      specialties: ['mlops', 'experimentation', 'a-b-testing']
+      weight: 0.30
+    - primary_area: 'data'
+      specialties: ['llm', 'generative-ai', 'deep-learning']
+      weight: 0.20
+  location: 'Skøyen, Oslo'
+  employment_type: 'Fast'
+  experience_level: 'Junior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Python for databehandling, modellering og analyse'
+        priority: 10
+      - skill: 'Prediktive modeller og maskinlæring'
+        priority: 10
+      - skill: 'Statistisk analyse'
+        priority: 9
+      - skill: 'Høyere utdanning realfag/datavitenskap/statistikk'
+        priority: 9
+      - skill: 'A/B-testing og eksperimentdesign'
+        priority: 8
+      - skill: 'MLOps-praksis (reproduserbarhet, monitorering, versjonering)'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Dyp læring / deep learning'
+        priority: 7
+      - skill: 'LLM og generativ AI'
+        priority: 7
+      - skill: 'R for dataanalyse'
+        priority: 5
+      - skill: 'Feature engineering til produksjonssetting'
+        priority: 6
+    soft_skills:
+      - 'Nysgjerrig, kreativ og løsningsorientert'
+      - 'Selvstendig og analytisk'
+      - 'Formidler komplisert stoff enkelt til ikke-tekniske interessenter'
+      - 'Lagspiller som samhandler godt'
+    experience_years: 0
+    education: 'Mastergrad eller tilsvarende innen realfag, datavitenskap eller statistikk'
+
+  responsibilities:
+    primary:
+      - 'Utvikle og validere prediktive modeller på pensjonsdata, fra feature engineering til produksjonssetting'
+      - 'Designe og evaluere eksperimenter og A/B-tester for å måle effekten av nye løsninger'
+      - 'Jobbe med MLOps-praksis for å sikre reproduserbare, monitorerte og versjonerte modeller'
+      - 'Formidle resultater og innsikt til tekniske og ikke-tekniske interessenter'
+    secondary:
+      - 'Utforske hybrid-tilnærminger der LLM-er og generativ AI kombineres med klassisk modellering'
+      - 'Bidra til utvikling av ende-til-ende KI-systemer der modeller inngår som byggesteiner'
+      - 'Jobbe tverrfaglig med SPKs tjenesteavdelinger'
+
+  role_context:
+    department: 'Data og analyse, tverrfaglig team med analytikere og dataingeniører'
+    team_size: 'Team med analytikere og dataingeniører'
+    key_points:
+      - 'Jobber med rike pensjonsdata fra en av Norges viktigste offentlige institusjoner'
+      - 'Bygger løsninger fra hypotese til produksjon'
+      - 'Kombinerer klassisk ML med LLM og generativ AI'
+      - 'Sentrale lokaler på Skøyen, hybrid hjemmekontor'
+      - 'Lite byråkrati, sterkt faglig miljø'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Masteroppgave: Bayesiansk nevralt nettverk (dyp læring) + PPO reinforcement learning i Python for uncertainty-aware prediksjon – direkte match på prediktive modeller og deep learning'
+      - 'TDT4173: Random Forest, XGBoost og AutoGluon for tidsserieprediksjon – klassisk ML-stack etterspurt'
+      - 'TDT4259: Feature engineering, datarensing og prediksjon av strømforbruk i 5 byer – praktisk erfaring med hele ML-løypen'
+      - 'Kystverket: ML-modeller i Python + offentlig virksomhet – faglig kontekst i det offentlige'
+      - 'TDT4225: SQL og NoSQL for store datamengder – data engineering-grunnlag'
+      - 'GitHub Actions CI/CD fra Fondsoversikt – overførbart til MLOps-praksis'
+      - 'Mastergrad fra NTNU med kvantitativ fordypning (finans + AI)'
+    gaps_to_address:
+      - 'Ingen direkte pensjonsdomene-erfaring – men finansiell ML fra masteroppgaven er overførbar'
+      - 'Ingen produksjons-LLM-erfaring spesifikt – men generativ AI-forståelse fra studier'
+      - 'Ingen R-erfaring nevnt eksplisitt'
+    transferable_skills:
+      - 'Bitcoin-prediksjon med usikkerhetskvantifisering → metodisk grunnlag for prediksjonsmodeller i pensjonsdomenet'
+      - 'Masteroppgave inkluderer dyp læring (BNN) – dekker "gjerne også dyp læring"-kravet'
+      - 'GitHub Actions CI/CD → MLOps-grunnlag (reproduserbarhet, versjonering)'
+    emphasis_strategy: 'Fremhev masteroppgaven som bevis på end-to-end ML-arbeid med dyp læring og usikkerhetskvantifisering. Koble TDT4173/4259 eksplisitt til prediktive modeller og tidsseriedata. Kystverket viser ML i offentlig sektor.'
+
+  section_priorities:
+    technical_expertise:
+      - 'maskinlaering_og_ai'
+      - 'programmering'
+      - 'sky_og_databaser'
+    experience_focus: 'Fremhev masteroppgave (dyp læring + RL + usikkerhet i Python) og NTNU ML-kurs (XGBoost, AutoGluon). Kystverket viser profesjonell ML i offentlig kontekst.'
+    project_relevance: 'Masteroppgave er stjerneprosjektet – uncertainty-aware prediksjon med BNN og PPO. TDT4173/4259 viser klassisk ML-erfaring fra feature engineering til evaluering.'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Masteroppgave (BNN + PPO, uncertainty-aware prediksjon i Python)'
+      - 'TDT4173/4259 (klassisk ML, XGBoost, tidsserieprediksjon)'
+    EMPHASIZE:
+      - 'End-to-end ML: feature engineering til produksjon'
+      - 'Dyp læring (BNN i masteroppgaven)'
+      - 'Python ML-stack (scikit-learn, XGBoost, PyTorch)'
+      - 'Git og CI/CD som MLOps-grunnlag'
+    QUANTIFY:
+      - 'Masteroppgave: to-stegs rammeverk (BNN + PPO), levert januar 2026'
+      - 'TDT4173: beste modell i klassen med AutoGluon, karakter B'
+    DOWNPLAY:
+      - 'Fullstack/frontend-erfaring (ikke relevant her)'
+      - 'Eldre urelaterte deltidsjobber'
+
+  ats_analysis:
+    title_variations:
+      - 'Junior Data Scientist'
+      - 'Data Scientist'
+      - 'Maskinlæringsingeniør'
+    critical_phrases:
+      - 'prediktive modeller'
+      - 'maskinlæring'
+      - 'Python'
+      - 'MLOps'
+      - 'feature engineering'
+      - 'A/B-testing'
+      - 'dyp læring'
+      - 'statistisk analyse'
+      - 'generativ AI'
+
+  application_info:
+    posting_url: 'https://www.spk.no/om-spk/jobb-i-spk/'
+    posting_date: '2026-04-21'
+    deadline: '27.04.2026'

@@ -1,0 +1,50 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Oslo kommune – Velferdsetaten'
+  position: 'Dataanalytiker'
+  primary_focus: 'data'
+  date: '21. april 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Dataanalytiker'
+    opening_line: ''
+    body:
+      - >
+        I masteroppgaven brukte jeg et halvt år på å bygge maskinlæringsmodeller for å
+        forutsi prisen på Bitcoin. Det funka sånn passe, men jeg lærte enormt mye om
+        prediksjonsmodeller, Python og det å jobbe med usikkerhet i data. Nå er jeg ferdig
+        med graden og klar for å bruke de samme metodene på noe som faktisk betyr noe for folk,
+        og da er stillingen i Velferdsetaten interessant.
+      - >
+        Gjennom sivilingeniørstudiet i industriell økonomi og teknologiledelse ved NTNU, med
+        spesialisering i datateknologi og kunstig intelligens, har jeg jobbet mye med
+        prediktive modeller og Python-stacken. I to separate kurs jobbet jeg med
+        tidsserieprediksjon av strømproduksjon og -forbruk med Random Forest, XGBoost og
+        AutoGluon, og i masteroppgaven implementerte jeg et Bayesiansk nevralt nettverk og
+        en reinforcement learning-agent i Python for usikkerhetsbevisst prediksjon og
+        automatisert handel. Prognosemodellene dere jobber med for boligbehov treffer godt
+        mot dette. I Kystverket-internshippet jobbet jeg i team med utvikling av
+        ML-modeller for bildegjenkjenning og datainnhenting fra API-er, og leverte kodebase,
+        rapport og presentasjon for ledelsen.
+      - >
+        Det dere beskriver i annonsen, særlig overgangen til Databricks og arbeidet med
+        MLOps-pipelines, er akkurat den retningen jeg ønsker å gå. Jeg har satt opp
+        GitHub Actions CI/CD-pipeline og Azure-deploy i egne prosjekter, og er vant til
+        å jobbe med versjonskontroll og Git. SQL-databasesystemer jobbet jeg med i et eget
+        studieprosjekt med MySQL og MongoDB mot store datamengder. Jeg er ikke redd for
+        å lære nye plattformer raskt.
+      - >
+        Jeg håper vi kan ta en samtale og se om dette er et godt match begge veier.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

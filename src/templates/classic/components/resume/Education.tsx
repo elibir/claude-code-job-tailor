@@ -81,10 +81,13 @@ const Education = ({ resume, debug = false }: { resume: ResumeSchema; debug?: bo
       {resume.education.map((edu, index) => (
         <View key={index} style={styles.educationEntry}>
           <View style={styles.educationHeader}>
-            <Text style={styles.institution}>{edu.institution}</Text>
-            <Text style={styles.locationDuration}>
-              {edu.location} | {edu.duration}
+            <Text style={styles.institution}>
+              {edu.institution}
+              {edu.location && (
+                <Text style={{ fontFamily: 'Lato', fontWeight: 'normal' }}>, {edu.location}</Text>
+              )}
             </Text>
+            <Text style={styles.locationDuration}>{edu.duration}</Text>
           </View>
           <Text style={styles.program}>{edu.program}</Text>
           {edu.specializations && edu.specializations.length > 0 && (

@@ -1,0 +1,44 @@
+version: '2.0.0'
+analysis_date: '2026-04-21'
+
+cover_letter:
+  name: 'Elias Lerheim Birkeland'
+  company: 'Frend Digital'
+  position: 'Nyutdannet teknisk konsulent 2026'
+  primary_focus: 'engineer'
+  date: '21. april 2026'
+
+  personal_info:
+    address: 'Stadsnesvegen 41, 6030 Langevåg'
+    email: 'birkeland.elias@outlook.com'
+    phone: '94164312'
+    linkedin: 'https://www.linkedin.com/in/elias-lerheim-birkeland/'
+    github: 'https://github.com/elibir'
+
+  content:
+    letter_title: 'Søknadsbrev – Nyutdannet teknisk konsulent 2026'
+    opening_line: ''
+    body:
+      - >
+        Det som trakk meg til Frend er at dere faktisk bygger AI-løsninger i produksjon. AI-agenter,
+        LLM-rammeverk og automasjon for kunder i ulike bransjer, i et miljø der man forventes å
+        holde seg oppdatert på hva som faktisk fungerer. Jeg har allerede lært det viktigste: å
+        lime inn feilmeldingen i en chatbot og trykke enter, pluss en del grunnleggende om hvordan
+        modellene faktisk er bygd.
+      - >
+        Masteroppgaven min ved NTNU handlet om å bygge et bayesiansk nevralt nettverk kombinert med
+        en reinforcement learning-agent for automatisert handel under usikkerhet. Alt i Python, fra
+        databehandling til modelltrening og evaluering. Det ble ikke noen pengemaskin, men jeg lærte
+        mye om hva som faktisk kreves for å implementere AI på en måte som holder. Parallelt bygde
+        jeg Fondsoversikt, en fullstack-applikasjon med Python/FastAPI backend, React frontend og
+        deploy til Azure via GitHub Actions. Gjennom hele prosessen brukte jeg Claude Code aktivt,
+        ikke bare som kodegenerator, men som arkitekturhjelp, debuggingpartner og reviewverktøy.
+      - >
+        Hos Kystverket jobbet vi i et lite team med bildegjenkjenning, API-integrasjon og
+        maskinlæringsmodeller i Python, og leverte kodebase, rapport og presentasjon for ledelsen.
+        Den kombinasjonen, teknisk implementering og å kommunisere løsningen til folk som ikke er
+        utviklere, er noe jeg vil bygge videre på. Oslo sentrum passer meg godt, og jeg håper vi
+        kan ta en samtale.
+    signature: |
+      Med vennlig hilsen,
+      Elias Lerheim Birkeland

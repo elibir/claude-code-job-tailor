@@ -100,8 +100,6 @@ const ExperienceEntry = ({ experience, debug }: { experience: ExperienceItem; de
 
       {company_description && <Text style={styles.companyDescription}>{company_description}</Text>}
 
-      {description && <Text style={styles.companyDescription}>{description}</Text>}
-
       {achievements && achievements.length > 0 && (
         <View>
           {achievements.map((achievement: string, index: number) => (
